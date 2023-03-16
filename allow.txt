@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-15 20:35:36（北京时间） 
-! Total count: 7153
+! Version: 2023-03-16 09:34:50（北京时间） 
+! Total count: 7154
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -305,7 +305,6 @@
 @@||360buyimg.com^*??
 @@||3d66.com/??*ad-
 @@||3dpchip.com^$generichide
-@@||3dtuning.com/ad?$~third-party
 @@||3dtuning.com^$generichide
 @@||3gmfw.cn/js/wap/8.js
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
@@ -643,6 +642,7 @@
 @@||adst.mp.pl^$domain=mp.pl
 @@||adstop.org^
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
+@@||adt.redventures.io^$stylesheet,xmlhttprequest,domain=security.adt.com
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
@@ -2486,6 +2486,7 @@
 @@||fedex.com/apps/myprofile/$generichide
 @@||feed.4strokemedia.com^$domain=video.corriere.it
 @@||feed.4strokemedia.com^$domain=video.gazzetta.it
+@@||feedback-pa.clients*.google.com/*/google.internal.feedback.$stealth
 @@||feedback.userreport.com/*/*.csb.app$domain=csb.app
 @@||feedly.com/i/^$jsinject
 @@||feilusw.com/search.html$genericblock,generichide
@@ -4922,6 +4923,7 @@
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||netto-online.de/jquery/webanalytics/xtcore.js
 @@||networkworld.com^*/demandbase.js
+@@||neveitalia.it/assets/images/logo-gds-bianco.svg
 @@||new.abb.com/ruxitagentjs_$~third-party
 @@||new.hnair.com/hainanair/ibe/static/scripts/new/profile/fingerprint2.js
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de|surveymonkey.ru
@@ -6031,7 +6033,6 @@
 @@||snyk.io^$cookie=ajs_anonymous_id
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
 @@||socks24.org^$generichide
-@@||soft98.ir^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sogou.com/pv.gif?*&stype=showskinpanel

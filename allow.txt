@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-19 09:43:10（北京时间） 
-! Total count: 7157
+! Version: 2023-03-19 20:33:01（北京时间） 
+! Total count: 7152
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -636,6 +636,7 @@
 @@||adservice.google.*/adsid/integrator.js$domain=player.tubia.com
 @@||adservice.google.*/adsid/integrator.js^$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
+@@||adservice.google.pl/adsid/integrator.js$script,domain=tvp.pl
 @@||adshnk.com^$generichide
 @@||adshort.co/js/ads.js
 @@||adspirit.de^$domain=kinopolis.de
@@ -1358,7 +1359,6 @@
 @@||c.mmcdn.net^*/flash/config/metrics.xml$domain=moshimonsters.com
 @@||c.newsinc.com/getids^$domain=washingtonexaminer.com
 @@||c.paypal.com/da/r/fb.js$script
-@@||c.speedtest.net/flash/speedtest-*.swf
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
 @@||c.y.qq.com^
 @@||c5n.com^*/angulartics-google-analytics.min.js
@@ -2096,7 +2096,6 @@
 @@||dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js$domain=marvel.com
 @@||dcinfos.abtasty.com/geolocAndWeather.php^$domain=tf1.fr
 @@||dcinside.co.kr/viewimage.php?$stealth
-@@||dcinside.co.kr/viewmovie.php$stealth
 @@||dcinside.com$cookie=_ga
 @@||dco.smartclip.net/?plc=$domain=spiele.rtl.de
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
@@ -2234,7 +2233,7 @@
 @@||doubleclick.net/gpt/pubads_impl$domain=www.gamer.com.tw
 @@||doubleclick.net/gpt/pubads_impl_$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=soranews24.com
-@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|chromatographyonline.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|weather.com|webmd.com
+@@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|chromatographyonline.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|telsu.fi|weather.com|webmd.com
 @@||doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||doubleclick.net/tag/js/gpt.js$domain=soranews24.com
 @@||doubleclick.net^$app=com.google.android.music
@@ -2371,6 +2370,7 @@
 @@||embedupload.com^$generichide
 @@||emerald.omeda.com/npdn/custsrv_login.do
 @@||emome.net/files/advertising/
+@@||empflix.com^$stealth
 @@||emsnow.com/wp-content/plugins/adsanity-adblock-detection/public/js/ads.js
 @@||enchambered.com^*/googleanalytics_2.js?
 @@||energy.de^*/ivw.js?$domain=energy.de
@@ -2510,7 +2510,6 @@
 @@||files.slack.com^$image,~third-party
 @@||files.vitalitygames.com/games/webgl/PreloaderBG/*/game-ads.js
 @@||filespace.com^$generichide
-@@||filmiseriali.com/*/*/adblock/*.js
 @@||filmon.com/ad/affiliateimages/banner-250x350.png
 @@||filmozercy.com/js/fuckadblock.min.js
 @@||films.imhonet.ru^$jsinject
@@ -2611,7 +2610,7 @@
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=game.anymanager.io
 @@||g.doubleclick.net/pagead/ads?$subdocument,domain=ff14angler.com
 @@||g.doubleclick.net/pagead/images/gmob/close-circle-30x30.png$image,domain=safeframe.googlesyndication.com
-@@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com|weather.com
+@@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com|telsu.fi|weather.com
 @@||g.doubleclick.net/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|chromatographyonline.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|physicianspractice.com|standard.co.uk|theta.tv|weather.com|webmd.com
@@ -2683,7 +2682,6 @@
 @@||genesyslogic.com^*/ads$~third-party
 @@||genshuixue.com/??/*/counter/action_
 @@||geo-targetly.com/geolocation?id$script,third-party
-@@||geo.dailymotion.com/player/*.html$stealth=referrer,domain=filmstarts.de
 @@||geo.gorillanation.com/geo.php$script,domain=sherdog.com
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||geo.ngtv.io/locate/$domain=hbo.com
@@ -2692,7 +2690,6 @@
 @@||geoip-js.com/js/apis/geoip2/$script,domain=bricomart.es|freshdesk.com|luminskin.com|mybalancenow.com|myvanillacard.com|web.aw.ca
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=bricomart.es|freshdesk.com|ibanez.com
 @@||geoip.cookieyes.com/geoip/checker/result.php$domain=marktechpost.com
-@@||geoip.redirect-ads.com/js/$script,~third-party
 @@||geoip.redirect-ads.com^$subdocument,third-party
 @@||geoloc.hurriyet.com.tr/api/country/$domain=hurriyet.com.tr
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
@@ -3545,7 +3542,6 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=infocar.ua
 @@||googletagservices.com/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||googletagservices.com/tag/js/gpt.js$domain=nbcsports.com
-@@||googletagservices.com/tag/js/gpt.js$domain=ndtv.in
 @@||googletagservices.com/tag/js/gpt.js$domain=news.tvb.com
 @@||googletagservices.com/tag/js/gpt.js$domain=nfl.com
 @@||googletagservices.com/tag/js/gpt.js$domain=phileweb.com
@@ -3898,7 +3894,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=funimation.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.gamesplaza.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metv.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.word.tips
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gamezhero.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
@@ -4103,7 +4098,6 @@
 @@||img.ads.tvb.com^
 @@||img.blesk.cz/js/base-cz/gemius.js
 @@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
-@@||img.noobzone.ru^$stealth
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -4486,6 +4480,7 @@
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script
+@@||liveindex.org/wp-content/plugins/imedia-basic/*.js
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livenation.122.2o7.net/b/ss/$domain=oss.ticketmaster.com
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
@@ -5153,7 +5148,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog-rct.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpu-world.com|megaleech.us
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
@@ -5581,6 +5575,7 @@
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.net^
+@@||redirect.disqus.com^
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||refworks.proquest.com/public/js/tracking.js$~third-party
 @@||regapi.37.com/api/p_register.php?login_account=
@@ -5850,7 +5845,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=infocar.ua
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=irctc.co.in
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=musixmatch.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=ndtv.in
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=news.tvb.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=portmiamiwebcam.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=purepeople.com
@@ -5889,7 +5883,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=tetrads.io
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dropgalaxy.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=olx.pl
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=olx.pl|telsu.fi
 @@||securitykiss.com$document
 @@||securitytrails.com/app/api/$domain=securitytrails.com
 @@||securitytrails.com/domain/$domain=securitytrails.com
@@ -6078,6 +6072,7 @@
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
+@@||speedtestcustom.com^$subdocument,stealth
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||spiele.rtl.de/landingpage/index/$document
 @@||spieletipps.de/js/smb-tracking.js
@@ -6162,6 +6157,7 @@
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
+@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=unilad.co.uk|unilad.com
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
@@ -6462,7 +6458,6 @@
 @@||theverge.com/_next/data/*.json
 @@||thingiverse.com/assets/ad/$image,~third-party
 @@||thisav.com^$generichide
-@@||thoaimedia.com^$generichide
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
 @@||threatbook.cn/public/asset/js/zhugeIo.
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
@@ -6787,6 +6782,7 @@
 @@||video.javhdporn.net^$stealth
 @@||video.oms.eu/crossdomain.xml$domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
+@@||video.onnetwork.tv/adblock_notify.js
 @@||video.qq.com/getvinfo?*&otype=*&host=*&refer=htt$domain=v.qq.com
 @@||video.repubblica.it^*/nielsen.js
 @@||videogamesblogger.com^$csp
@@ -7046,7 +7042,6 @@
 @@||xfinity.com^$stealth
 @@||xfinity.com^*/Comcast.SelfService.Sitecatalyst.js
 @@||xfreehd.com^$generichide
-@@||xfreehd.com^$generichideeurorgasm.com,allbesthairy.com,allbondagetube.com,allmomsex.com,allretrotube.com,allsexhub.com,allxxxsex.com,alohaxxxsex.com,alsobdsmporn.com,alsoporn.com,alsoteenporn.com,alsovintagetube.com,alsoxxxshemales.com,amateurfreetube.com,amateurgirllab.com,amateurpussyass.com,amateursexbox.com,amazingvintagesex.com,animeporn.pro,animepornfilm.com,animepornxxx.com,animesex.pro,animesexclip.com,animesexxxx.com,animexxxsex.com,anudeart.com,anyebonysex.com,anyindianporn.com,anylesbiansex.com,anymilfporn.com,anyxxxanime.com,anyyoungporn.com,asia-xxx.net,asianasssex.com,asianporn.sexy,asianpornfuck.com,asiansex.sexy,asiansexcilps.com,asiansexmov.com,asiansextube.me,asiantube.pro,asiantube.xyz,asianxxxass.com,asianxxxclips.com,asianxxxjoy.com,asianxxxmovs.com,asiaxxxmovies.com,azpornvideos.com,bbwsex.pro,bbwsexporn.com,bbwtube.pro,bbwxxxclips.com,bdsmporn.club,bdsmporn.pro,bdsmsex.pro,bdsmsexxxx.com,bdsmtube.pro,bdsmtube.sexy,bdsmtube.video,bdsmxxxmovies.com,bdsmxxxtubes.com,beautymaturegirl.com,beeg-videos.net,beegvideoz.com,bestindiansex.com,bestlesbiantube.com,bestlesbianxxx.com,bestmilfpussy.com,bestsexhub.com,bestvintagesex.com,betavintageporn.com,betaxxxbondage.com,bigbbwporn.com,bigindiansex.com,bigjapanesesex.com,bigsexhub.com,bigtitsmix.com,bigtitsslutspics.com,bigvintageporn.com,bigyoungsex.com,bitchmomporn.com,blackpornfilms.com,blacksex.me,blackteenpictures.com,blacktube.pro,blackzaur.com,bobmovs.com,bondagepornsex.com,bondagesexfilms.com,bondagesexporn.com,bustyhornypics.com,bustymompics.com,cartoonporn.picsen,cartoonsexcomix.com,cartoonxxxcomix.com,checklesbianporn.com,checkmaturesex.com,checkmaturetube.com,chinatownav.com,citrusdesiporn.com,classicpussyporn.com,classymomsex.com,coolasianporn.com,cougarpornpics.net,coxyteens.com,crazymatureporn.com,cupidonmilf.com,curvyteenpics.com,daindianporn.com,dapornvideos.com,deasians.com,desipornfilm.com,desipornfilms.com,desipornxxx.com,desisexfilms.com,desixxxporn.com,dirtyindiansex.com,dobdsmsex.com,domilfsex.com,doretrosex.com,dosexteens.com,doxxxindians.com,doxxxtube.com,easymatureporn.com,easyteensex.com,ebonyporn.pro,ebonypornsex.com,ebonysexporn.com,ebonyteenpictures.com,ebonytube.pro,ebonytube.video,elitehentaiporn.com,eliteindianporn.com,elitelesbianporn.com,enjoyasianporn.com,entergayporn.com,enterjapaneseporn.com,eroticartlab.com,eroticgirlbox.com,everyamateurteen.com,everyhairypussy.com,exitporn.com,extraindiansex.com,extrajapaneseporn.com,extramatureporn.com,extramomporn.com,extrateensex.com,exvintagetube.com,family-sex.biz,fantasticxxxteen.com,fantasticyoungporn.com,fapporn.me,fastindianporn.comen,fastteenporn.com,fastteensex.com,fastteentube.com,fastvintageporn.com,fatporn.pro,fatsexfilms.com,favjapaneseporn.com,favmatureporn.com,favteenporn.com,finehub.com,finelesbianporn.com,finemomsex.com,fireblackporn.com,firstasianpussy.com,firstasiansex.com,firstvintageporn.com,firstyoungporn.com,foxsexvideos.com,free-xhamster.com,free-xxx-free.com,freeasianxxxtube.comen,freedeepsex.com,freegayxxxtube.com,freekinkysex.net,freemomxxxtube.com,freerealvideo.com,freesexpics.pro,freexxxteeny.com,freeyoungvideos.com,freshamateursex.com,freshsexonly.com,freteenporn.com,fruitlesbianporn.com,fruitshemaletube.com,fuckgayporn.com,fuckhairytube.com,fuckindianporn.com,fuckindianpussy.com,fuckindiantube.com,fuckmaturesex.com,fuckmaturevideos.com,fuckpussyclips.comen,fuckretrotube.com,fucksexhub.com,fuckteenclips.com,fuckteenvids.com,fucktrannyporn.com,fucktube.me,fucktube.pro,fuckvintageporn.com,fuckyoungsex.com,fullasiantube.com,fullindiansex.com,fulljapanesetube.com,fullporn.pro,fullporn8.com,fullshemaletube.com,fullteenporn.com,fullxhamster.com,fullyoungsex.com,gaycockfilms.com,gaydickvideos.com,gayfuckass.com,gaymenboy.com,gayorgyporn.com,gayporn.pro,gaytube.pro,gaytube.sexy,gaytubefuck.com,gayxxxtv.com,getpornpics.com,gfasianpussy.com,glossytube.com,goindiansex.com,goldanimeporn.com,golddesisex.com,golderotica.com,goldfatporn.com,goldhentaiporn.com,goldindianporn.com,goldmaturesex.com,goldmomsex.com,goldmomtube.com,goldpornclips.com,goldpussytube.com,goldretrosex.com,goldsexhub.com,goldsexvideos.com,goldteenporn.com,goldteensex.com,goldxxxmovies.com,goldxxxsex.com,goldxxxtube.com,goodindianporn.com,gosexvideos.com,goteentube.com,gotrannyporn.com,goyoungporn.com,grandmatureporn.com,grannypornpics.pro,grannytubedot.com,greatindianporn.com,greenpornclips.com,hairyasspussy.com,hairymaturetube.com,hairyporn.me,hairyporn.pro,hairysex.pro,hairysexporn.com,hairytube.pro,hairyvaginaxxx.com,hairyxxxtubes.com,hamsterfucktube.com,hamstermaturetube.com,hamsterxxxtube.com,hardasiansex.com,hardbondageporn.com,harddesitube.com,hardhairysex.com,hardindiansex.com,hardindianvideos.com,hardretromovies.com,hardretrosex.com,hardsex8.com,hardsextube-teens.com,hardvintagetube.com,hardxxxmoms.com,hardyoungsex.com,hardyousex.com,hd-sex.me,hdfuckporn.com,hdgaycock.com,hdhotasiansex.com,hdsex.date,hdvintagetube.com,hdyoungpussy.com,hentaicomics.proen,hentaipornfilms.com,hentaipornmovs.com,hentaisex.pro,hentaisexfilms.com,hentaisexporn.com,hentaisexxxx.com,hnntube.com,homematuretube.com,homesex.bid,hometeentube.com,hornybabepics.com,hornyindianporn.com,hornyindiansex.com,hornylesbiansex.com,hot-mature-movies.com,hotbdsmvideos.com,hotindiantube.com,hotindianxxxsex.com,hotjapanporn.com,hotmatureclips.com,hotorientalporn.com,hotvintagesex.com,hotxxxbdsmporn.com,hq-jav.com,hqasiananal.com,hqasiangirls.com,hqasianhotties.com,hqhotmoms.com,hqindiantube.com,hqjapanesegirls.com,hqjapanesepussy.com,hqjapanesesex.com,hqjavporn.com,hqmaturehub.com,hqpornclips.com,hqshemaleporn.com,hqteensexmovies.com,hqxxxfuck.com,hugefatporn.com,hussyasian.com,indianassvideos.com,indianporn.pro,indianpussymovies.com,indiansexbar.com,indiansexpussy.com,indiansexyxxx.com,indiantube.pro,itshemales.com,itsporn.net,ivintageporn.com,jane-safo.ru,japaneseasstube.com,japanesefucksex.comen,japanesepussyclips.com,japanesesex.me,japanesetube.pro,japanesetube.video,japanesexxx.pro,japanesexxxfuck.com,japanpornclip.com,japanpornmovs.com,japans.me,japansporno.com,japanxxxass.com,japanxxxfilms.com,japanxxxsex.com,javmimi.com,javteens.com,juicyteenie.com,kindindianporn.com,kindteenporn.com,kinkyteensex.com,kissteenporn.com,kittypornvideos.com,largepornclips.com,largeteensex.com,leafindiansex.com,lesbiangirlspussy.com,lesbianpornxxx.com,lesbianpussyfilms.com,lesbianpussygirls.com,lesbianpussytube.com,lesbianpussyxxx.com,lesbiansex.pro,lesbiansex.sexy,lesbiansexclip.com,lesbianvaginatube.com,lifestyletribune.com,likeasianporn.com,likehairyporn.com,likematuretube.com,limeteensex.com,lingerievideotube.com,lingeriexxxtubes.com,lobsterxxxporn.com,lolanimesex.com,longasiansex.com,longblacksex.com,longmilfsex.com,longyoungporn.com,lookgayporn.com,lookindianporn.com,lookmaturewoman.com,lovemomporn.com,lustfulbabespics.com,madfap.com,madgaytube.com,madgrannytube.com,madhairytube.com,madlesbiantube.com,madmomtube.com,madrabbitsex.com,madtrannysex.com,mainxxxtube.com,manpornvideos.com,manyvintageporn.com,mastergaytube.com,mature-ptv.com,matureanalpics.com,matureathome.com,maturefuckclips.com,maturemagic.com,matureporn.picsen,matureporn.pro,matureporner.com,maturepornmovs.com,maturesex.me,maturesexvideos.pro,maturetube.pro,maturetube.sexy,maturetube.xyz,maturevideosex.com,maturextreme.com,maxasiantube.com,maxretroporn.com,mcjapanporn.com,megaasiansex.com,megablackporn.com,megafatporn.com,megahentaitube.com,megaindianporn.com,megaindiantube.com,megajapanesesex.com,megavintageporn.com,megayoungporn.com,megayoungsex.com,mikesmatures.com,milfasiantube.com,milfporn.pro,milfpussypic.com,milfsex.me,milftube.pro,milfzporn.com,missasianporn.com,mixasiansex.com,mixbdsmsex.com,mixblacksex.com,mixgaysex.com,mixhairysex.com,mixindiansex.com,mixlesbiansex.com,mixmaturesex.com,mixsexvideos.com,mixshemalesex.com,mixvintagesex.com,mixvoyeursex.com,mommygranny.com,mommyporn.pro,mommypornvideos.com,momporn.pro,mompornfilms.com,mompornpics.net,momsex.pro,momsex.xyz,momsexclip.com,momsexfilms.com,momsextube.pro,momtube.club,momtube.pro,momvideos.me,momxxxass.com,momxxxclips.com,morebdsmporn.com,moreblackporn.com,mostindiantube.com,mostxxxtube.com,moviezporn.com,mrporntubes.com,mybbwporn.com,myhairyphotos.com,myhotasian.com,myperfectebony.com,mysuperaffiliatementor.com,myteenphotos.com,nakedasiansex.com,nakedboysmovies.com,nakedmensex.com,nakedmomtube.com,nakedolders.com,nakedyoungvideos.com,nakehub.com,nakeporn.com,nakevideos.com,nastyhairypussy.com,naturallesbiansex.com,newbdsmsex.com,newjapanesexxx.com,newlesbiansex.com,newmaturevideos.com,newmomporn.com,newpornclips.com,newpornfilms.com,newpornpic.com,news2local.com,newsexpics.net,newxxxgays.com,newxxxpornvideo.com,newyoungsex.com,nextasianporn.com,nextlesbianporn.com,nextmatureporn.com,nextsexvideos.com,nextteenporn.com,niceblacksex.com,niceretrotube.com,nicesexvideos.com,niceshemaleporn.com,niceteenvideos.com,nicevintageporn.com,nicevintagesex.com,nowteensex.com,nudehairytube.com,nudemilftube.com,nudemilfwomen.com,nudemomxxx.com,nudetuber.com,nudevoyeursex.com,nudexxxmovies.com,nylonbabesporn.com,ohahoh.com,okshemaleporn.com,okteenporn.com,oldgirlsporn.com,onasianporn.com,onindiansex.com,onlesbianporn.com,onlymaturetube.com,onlymomporn.com,onlyteasephoto.com,onlyteenbeauty.com,onteenporn.com,onxxxtube.com,orientalasianporn.com,originalindianporn.com,originalmaturetube.com,originalretroporn.com,originalteentube.com,otherbondagesex.com,otherporntube.com,othershemaleporn.com,paulsmatures.com,paulsporn.com,pepperclips.com,pepperdesitube.com,pepperlesbiantube.com,peppermomporn.com,petiteasiantube.com,petitenakedgirl.com,picgrandma.com,picseroticgirl.com,plainasianporn.com,playretrosex.com,playyoungsex.com,playyoungtube.com,plumpxxxporn.com,pornaf.com,pornasianvideos.com,pornblackporn.com,porncliphub.com,porncomics.me,pornfattube.com,pornhubcom.org,pornjapanesesex.com,pornlesbianporn.com,pornmovs.pro,pornoplum.com,pornpictures.proen,pornvideotop.com,pornzvideo.com,primehairysex.com,primeindianporn.com,primelesbianporn.com,primematureporn.com,primemomsex.com,primevintagesex.com,privatepornfilms.com,proasiansex.com,progaysex.com,promomporn.com,prosextube.com,proyoungporn.com,psmatureporn.com,publicfuckvideo.com,publicxxxvideo.com,purebbwfuck.com,puremilfporn.com,pureretroporn.com,pussylesbiansex.com,pussymomsex.com,pussysexdig.com,pussyteenfuck.com,qsextube.com,rawasiansex.com,realclassicporn.com,realhentaiporn.com,realjapansex.com,realmomsex.com,realporntubes.com,redmatureporn.com,redpornpictures.com,redsexhub.com,redteensex.com,redtubecom.orgen,redxxxsex.com,redxxxvideos.com,reteenporn.com,retroclassicporn.com,retroclassicsex.com,retroporn.me,retroporn.pro,retrosexclips.com,retrosexfilms.com,retrosexporn.com,retrotube.xyz,rightxxxtube.com,rockasianporn.com,rocksextube.com,rootdesisex.com,roughbdsmsex.com,royalpornvideos.com,rudevintageporn.com,rushteenporn.com,rushteentube.com,rxphoto.com,schoolgirlsexpics.com,searchxxxvideos.com,seegayvideos.com,seeindianporn.com,seematurevideos.com,seeshemaleporn.com,seeteenporn.com,seexxxtube.com,sexasianfuck.com,sexbdsmsex.com,sexcartoonpics.comen,sexcliphub.com,sexclipshd.com,sexfilmstube.com,sexhubmovs.com,sexindianvideos.com,sexjapansex.com,sexjapanvideos.com,sexlesbianvideos.com,sexmaturesex.com,sexmomsex.com,sexprontube.com,sexretrotube.com,sextubeclip.com,sextubehub.com,sexvintagefilms.com,sexxxxfilms.com,sexyclassicporn.com,sexyhentaivideos.com,sexyindianpussy.com,sexylesbianpussy.com,sexylesbiansex.com,sexymomsex.com,sexyorientalporn.com,sexyoungmovies.com,sexypussypic.com,sexyteenagepics.comen,sexytoonporn.com,sexytuber.com,sexyvintageporn.com,sexyyoungsex.com,shehairy.com,shemaleasstube.com,shemaleclip.com,shemaleporn.pro,shemalepornfilms.com,shemaletube.pro,shemalexxxfilms.com,shemalexxxsex.com,slickyoungporn.com,slimteenporn.com,slutamateursex.com,smoothteentube.com,soamateurteen.com,sohornymature.com,sohornyteen.com,soindianporn.com,sonudepics.com,sooldsluts.com,soteenpics.com,soteenporn.com,sourceclassicporn.com,spicyvintageporn.com,stepmaturesex.com,sucking.cc,superjapanesesex.com,sweetjapanporn.com,sweetyoungtube.com,teenagedtube.com,teenagesexpics.com,teenagexxxvideos.com,teenfuck.party,teenfucksex.com,teenpornbomb.com,teenpornpics.pro,teenpornvideos.pro,teenpussylab.com,teenpussytv.com,teens-fuck-movies.com,teensex.sexy,teensexass.com,teensexpics.pro,teensextubez.com,teensxxxvideos.net,teentube.pro,teentubeme.com,teenvaginapics.com,teenxxxmovs.com,teenxxxtube.me,theasiansextube.com,thismaturesex.com,thisteentube.com,thisxxxsex.com,toonpornpics.com,toonsex.pics,topasianvideos.com,topbbwporn.com,toplesbiantube.com,topmaturepussy.com,topteenpussy.com,totalbbwporn.com,totalclassicsex.com,totalmansex.com,totalxxxteens.com,totalxxxtube.com,trannysexfilms.com,trannysexporn.com,trendhairyporn.com,trendteenporn.com,trueasiansex.com,truepornmovies.com,trueretroporn.com,trueteenporn.com,trylesbiansex.com,tryyoungporn.com,tube-matures.com,tube8-teens.com,tube8.pro,tubegift.com,tubepornhot.com,tubezporno.com,tvshemalesex.com,ujapanesesex.com,ultraasiantube.com,ultrabdsmporn.com,ultraindiansex.com,ultrajapaneseporn.com,ultralesbianporn.com,ultrapornvideos.com,ultrateenpussy.com,ultrateensex.com,ultraxxxtube.com,ultrayoungsex.com,ultrayoungtube.com,upasiansex.com,uphentaiporn.com,upmatureporn.com,upmomtube.com,uptranny.com,upvintagesex.com,upvintagetube.com,upxxxlesbians.com,upxxxmatures.com,upxxxporn.com,upxxxretro.com,usematuretube.com,usetrannysex.com,useyoungsex.com,uteentube.com,variousteenporn.com,vintageporn.pro,vintagesex.me,vintagesex.pro,vintagesex.sexy,vintagetube.pro,vintagetube.video,vintagexxxfilms.com,vintagexxxfuck.com,vintagexxxsex.com,voyeurpornsex.com,voyeurporntube.me,voyeursextubes.com,voyeursexvideos.com,voyeurxxxtube.com,voyeurxxxtubes.com,wantasiantube.com,watchretrosex.com,webcamfuckvideo.com,wellasianporn.com,wellmatureporn.com,wellmaturetube.com,wellsextube.com,wellsexvideos.com,whoreasianporn.com,whorelesbianporn.com,whoreteenporn.com,whoreteensex.com,whorevintagesex.com,wildasianmovies.com,wildbbwtube.com,wilddesiporn.com,wildhentaitube.com,wildindianporn.com,wildindiantube.com,wildindianvideos.com,wildjapaneseporn.com,wildjapanesesex.com,wildsexteens.com,wildteenvideos.com,wildvintageporn.com,wildvintagesex.com,wildvoyeurporn.com,wildxxxsex.com,willyporn.com,winmatureporn.com,worldpornvideos.com,wotube.com,wowindianporn.com,wowindiansex.com,wowjapansex.com,wowmilfporn.com,wowmomsex.com,wowvintagesex.com,wowyoungporn.com,xasiananal.com,xasianbeauties.com,xasianorgy.com,xasianporn.net,xgaymovies.com,xhardcoreaunts.com,xknock.com,xnakedwomen.com,xnmodels.com,xnxxcomvideos.com,xnxxpornclips.comen,xnxxsexclips.com,xnxxtubehd.comen,xpics.me,xpimper.com,xsexcomics.comen,xsexpics.pro,xvideos-teens.com,xvideoscom.me,xvintagevideos.com,xxindianporn.com,xxx3dcomix.com,xxxanimemovies.com,xxxasianfuck.com,xxxbdsmfilms.com,xxxbdsmfuck.com,xxxboobsporn.com,xxxcartoonporn.pro,xxxclassicporno.com,xxxclassictube.com,xxxdesitube.com,xxxdig.com,xxxfuckfilms.com,xxxfuckhub.com,xxxfuckmom.com,xxxgaydick.com,xxxgayfuck.com,xxxgaytubez.com,xxxhairymovies.com,xxxhairysex.com,xxxhamstertube.com,xxxhotgays.com,xxxhubvideos.com,xxxindian.pro,xxxindianfilms.com,xxxindiantv.com,xxxjapaneseclips.com,xxxjapanesemovies.com,xxxjapanesepussy.com,xxxjapanesesex.com,xxxjapanesevideos.com,xxxjapanporno.com,xxxlargeporn.com,xxxlesbianfilms.com,xxxlesbianpussy.com,xxxlesbiantv.com,xxxmaleporn.com,xxxmaturepussypics.com,xxxmilftoon.com,xxxmomfilms.com,xxxmomtv.com,xxxmomz.com,xxxmovies.pro,xxxmoviesfuck.com,xxxmoviestube.me,xxxoldyoung.com,xxxpornindia.com,xxxpornmovs.com,xxxporntranny.com,xxxpornvideos.pro,xxxredsex.com,xxxretroclips.com,xxxretromovies.com,xxxsex.pro,xxxsexcinema.com,xxxsexmoviez.com,xxxsexpussy.com,xxxsexshemales.com,xxxshemalefilms.com,xxxteenfilms.com,xxxteenpussy.net,xxxteensextube.com,xxxteenvagina.com,xxxteenyporn.com,xxxtube.pro,xxxtube.video,xxxtubegay.com,xxxvideos.pro,xxxvintagefilms.com,xxxvintagepussy.com,xxxvintagesex.com,xxxvintagesextube.com,xxxvintagevideos.com,xxxvoyeurtube.com,xxxyoungfilms.com,xxxyoungxxx.com,xxyoungporn.com,yesnude.com,yoasiangirls.com,yoasiansex.com,yobatube.com,youngfucktube.com,youngjizztube.com,youngporn.pro,youngpornclip.com,youngpornfilms.com,youngsex.pro,youngsex.video,youngsexmovs.com,youngsexvideos.me,youngteenworld.com,youngtinysex.com,youngtitstube.com,youngtube.me,youngtube.pro,youngtube.video,youngtube.xyz,youngxxxass.com,youngxxxsex.com,youpornteens.com,yourasianporn.com,yourpornbus.com,yourtube.xxx,yourvintagetube.com,yousexfilms.com,yousexxxx.com,youxxxmovies.com,youxxxsex.com$$script[tag-content="if(popit == true)"]
 @@||xhcdn.com/*/fonts$font
 @@||xianzhenyuan.cn/data/attachment/common/guanggao/adjs.htm
 @@||xiaoyuanzhao.com/adservice/$domain=shixiseng.com

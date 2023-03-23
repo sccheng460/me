@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-22 20:33:25（北京时间） 
+! Version: 2023-03-23 09:23:16（北京时间） 
 ! Total count: 7142
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1156,7 +1156,6 @@
 @@||banaraswap.in^$xmlhttprequest,domain=techcyan.com
 @@||bancobrasil.com.br^$stealth=dpi
 @@||bancosantander.es/pagos-inmediatos/common/js/modules/tealium.js$~third-party
-@@||bangumi.org/sdk/rakuraku.js?referer=$domain=bs11.jp
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
 @@||bankofamerica.com/content/images/ContextualSiteGraphics/Marketing/Banners/
 @@||bankofamerica.com^*?adx=
@@ -6258,6 +6257,7 @@
 @@||stuttgarter-zeitung.de/cre-*/tracking/tracking.js
 @@||style.aliunicorn.com^$domain=alibaba.com|aliexpress.com
 @@||stylished.de/js/vendors/emos2.js$domain=stylished.de
+@@||substrate.office.com/NotesFabric/api/*/me/notes$domain=outlook.live.com,stealth
 @@||sudupan.com^*/*.gif
 @@||sumologic.com^$domain=sumologic.com
 @@||sunday.de/skin/*/googleanalytics.js$script

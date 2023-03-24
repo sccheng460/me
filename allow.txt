@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-23 20:35:18（北京时间） 
-! Total count: 7133
+! Version: 2023-03-24 09:22:44（北京时间） 
+! Total count: 7128
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1260,11 +1260,9 @@
 @@||blocket.se/annonser^
 @@||blocket.se^*/xtcore.js
 @@||bloctel.gouv.fr/assets/scripts/smarttag.js
-@@||blog-rct.com^$generichide
 @@||blog.naverblogwidget.com/ExternalWidgetRender.$stealth
 @@||blog.torproject.org^$stealth=dpi
 @@||blog.ztjal.info^$generichide
-@@||blogs.sapib.ca^$generichide
 @@||bluecare.express/js/tracking/$script,~third-party
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
@@ -2209,7 +2207,6 @@
 @@||doodstream.com^$font,image,script,stylesheet,xmlhttprequest,other,domain=dood.to|dood.watch
 @@||doodstream.com^$subdocument
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
-@@||dopedgeeks.com^$generichide
 @@||doridro.com^$generichide
 @@||dosgamezone.com/ads/banner1.gif
 @@||dotomi.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -5074,7 +5071,7 @@
 @@||optimize-stats.voxmedia.com/loader.min.js$domain=theverge.com
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
-@@||optimizely.com/datafiles/$domain=guildeducation.com|hm.com|nike.com|talktalk.co.uk|tommy.com|wallapop.com
+@@||optimizely.com/datafiles/$domain=guildeducation.com|hm.com|nike.com|printify.me|talktalk.co.uk|tommy.com|wallapop.com
 @@||optimizely.com/js/geo2.js$domain=cbs.com
 @@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||optimizely.guildeducation.com^$~third-party
@@ -5126,7 +5123,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=beatsnoop.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bemiraculous.tk|drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com|paytroncoins.cf|codenova-center.web.app|rivanimation.com|elbierzodigital.com|uploadrar.com|vknsorgula.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog-rct.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
@@ -5748,7 +5744,6 @@
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
-@@||sdk.privacy-center.org^$domain=recup.paylib.fr
 @@||sdn-global-audio-adswizz-cache.3qsdn.com/*/files/$other,media,domain=noz.de
 @@||se.monetate.net/js/*/custom.js$domain=debenhams.com
 @@||se.monetate.net/js/*/entry.js$domain=debenhams.com

@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-24 20:32:00（北京时间） 
+! Version: 2023-03-25 09:20:55（北京时间） 
 ! Total count: 7129
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -6339,7 +6339,6 @@
 @@||tags.crwdcntrl.net/c/*/cc_ajax.js$domain=gotrip.hk
 @@||tags.crwdcntrl.net^$domain=weather.com
 @@||tags.news.com.au/prod/heartbeat/$script
-@@||tags.newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
 @@||tags.t.tailtarget.com/t3m.js?$domain=superesportes.com.br
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=hsbc.co.uk|vmware.com
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=sony.jp
@@ -6650,6 +6649,7 @@
 @@||uid.mavencoalition.io/v3$domain=reelrundown.com
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=discover.hubpages.com
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=globalcovidsummit.org
+@@||uid.mavencoalition.io/v3|$domain=si.com
 @@||uid.mavencoalition.io^$domain=si.com
 @@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
 @@||uii.io/js/ads.js

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-25 20:30:29（北京时间） 
-! Total count: 7121
+! Version: 2023-03-26 09:35:41（北京时间） 
+! Total count: 7124
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1898,6 +1898,7 @@
 @@||community.brave.com/t/$xmlhttprequest
 @@||communityenergysolutions.com/ui/assets/gtm/gtm.js$script,~third-party
 @@||component-vvs.glomex.com/embed^$popup
+@@||components2.corriereobjects.it/rcs_tealium/v1/distro/corriere/preprod/utag.*js?$domain=corriere.it
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||computerworld.com/www/js/ads/jquery.lazyload-ad.js
 @@||comsclub.com^$stealth=dpi
@@ -2575,6 +2576,7 @@
 @@||fux.com/adblockchecker.js
 @@||fwmrm.net/ad/g/1?$domain=ncaa.com
 @@||fwmrm.net^*/AdManager.js$script
+@@||fy.v.vrv.co/*.mp4$domain=static.crunchyroll.com,stealth
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com^*/banner_ad_
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
@@ -3336,6 +3338,7 @@
 @@||googletagmanager.com/gtm.js$domain=muscleandfitness.com
 @@||googletagmanager.com/gtm.js$domain=n11.com
 @@||googletagmanager.com/gtm.js$domain=napishem.ru
+@@||googletagmanager.com/gtm.js$domain=nespresso.com
 @@||googletagmanager.com/gtm.js$domain=nestleprofessional.com.tr
 @@||googletagmanager.com/gtm.js$domain=news.tvb.com
 @@||googletagmanager.com/gtm.js$domain=newsarama.com

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-03-27 21:40:31（北京时间） 
-! Total count: 7129
+! Version: 2023-03-28 09:26:04（北京时间） 
+! Total count: 7133
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1944,6 +1944,7 @@
 @@||conversion.im/images/icons/google-adwords.png
 @@||conversion.im/images/icons/google-analytics.png
 @@||convertpad.com/ad/
+@@||cookielaw.org^*/OtAutoBlock.js$domain=darkreading.com
 @@||coolinet.com^$generichide
 @@||copypastecharacter.com^$generichide
 @@||coremetrics.com*/eluminate.js
@@ -3419,6 +3420,7 @@
 @@||googletagmanager.com/gtm.js$domain=tele2.ru
 @@||googletagmanager.com/gtm.js$domain=tgifridays.ru
 @@||googletagmanager.com/gtm.js$domain=thecompanion.app
+@@||googletagmanager.com/gtm.js$domain=thegazette.com
 @@||googletagmanager.com/gtm.js$domain=thestar.co.uk
 @@||googletagmanager.com/gtm.js$domain=thethaiger.com
 @@||googletagmanager.com/gtm.js$domain=toyota-forklifts.se|tradera.com|xxl.se
@@ -5523,6 +5525,8 @@
 @@||read.amazon.*/ads-prebid.js
 @@||readmoo.com/images/social/
 @@||real.de/fileadmin/template/javascript/emos2.js
+@@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party
+@@||realclearpolitics.com/esm/assets/js/analytics/$~third-party,xmlhttprequest
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||reastatic.net/150x200-$domain=realestate.com.au

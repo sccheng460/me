@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-01 09:23:52（北京时间） 
-! Total count: 7122
+! Version: 2023-04-01 20:29:12（北京时间） 
+! Total count: 7119
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -505,7 +505,6 @@
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adjs.8591.com.tw^$script
-@@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adlink.wf^
 @@||adload.ru^
 @@||admin.mailchimp.com^
@@ -646,6 +645,8 @@
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
+@@||adv.lack-girl.com/_assets/$image,stylesheet,script,~third-party
+@@||adv.lack-girl.com^$popup
 @@||advert.kf5.com^
 @@||adverts.ie/css/
 @@||advertserve.com^$domain=trk-imps.com|lewdninja.com
@@ -733,7 +734,6 @@
 @@||allmusic.com/images/tracking/tracking_pixel.jpg
 @@||allthatsinteresting.com/wordpress/wp-content/plugins/bwp-minify^
 @@||almanilan.com/ads/$~third-party
-@@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$domain=almayadeen.net
 @@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$script,~third-party
 @@||alotof.software/wp-content/themes/alosss/ads.php
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
@@ -1372,7 +1372,6 @@
 @@||canadianlisted.com/img/ad_img/$~third-party
 @@||canadianlisted.com^*/ad/index.css$stylesheet,~third-party
 @@||canadiantire.ca^*/analytics.sitecatalyst.js
-@@||canale.live/reclama/$~third-party
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
 @@||capi.connatix.com/core/pls?v=$domain=loot.tv
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
@@ -1428,7 +1427,6 @@
 @@||cdn.adguard.com/public/$domain=adguard.com|adguard.ru
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
 @@||cdn.adrise.tv/js/ads.js
-@@||cdn.adspirit.de/banner/_default/300x250.jpg$domain=streetdir.com|roaddir.com
 @@||cdn.adspirit.de^$domain=cdn.adspirit.de
 @@||cdn.adswizz.com/adswizz/js/SynchroClient*.js$domain=lounge.fm
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
@@ -1914,6 +1912,7 @@
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
 @@||connect.tapjoy.com/connect$app=com.lucasarts.starts_goo
 @@||connectivitycheck.gstatic.com^$important
+@@||consent.cookiefirst.com/sites$stealth
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||console.otc.t-systems.com/mrs/rest/api/v1/log?type=$~third-party,xmlhttprequest
 @@||console.statsig.com/_next/$~third-party
@@ -1932,6 +1931,7 @@
 @@||content.googleapis.com$document
 @@||content.jwplatform.com^$domain=destructoid.com
 @@||content.jwplatform.com^$domain=tomshardware.com
+@@||content.newegg.com$document
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||content.wazimo.com/engine/common/*/css/?static=$domain=showsnob.com
 @@||content.wazimo.com/engine/common/*/js/min/?static=$domain=showsnob.com
@@ -2479,7 +2479,6 @@
 @@||fharr.com^$generichide
 @@||fiat.com.br^*/analytics.min.js$~third-party
 @@||fifa.com^*/webanalytics.js?
-@@||file-up.org/js/advertisement.js
 @@||file-upload.com/js/advertisement.js
 @@||filecheck.ru^$elemhide
 @@||filecity.co.kr^$stealth=dpi
@@ -3046,6 +3045,7 @@
 @@||google.*/_/chrome/newtab$document
 @@||google.*/aclk$~third-party
 @@||google.*/ads/$generichide,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
+@@||google.*/adsense_$~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/adwords/$~third-party,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||google.*/edu/cs/$genericblock
 @@||google.*/images/icons/product/adsense-
@@ -3688,6 +3688,7 @@
 @@||hm.baidu.com/hm.gif$image,domain=clgod.com
 @@||hmvod.com.hk/website/static/skin/images/share/
 @@||hobbyking.com^*/gtm.js$script,~third-party
+@@||hollaforums.com/js/adcash.js
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||homedepot.com/static/scripts/resxclsa.js
@@ -3884,7 +3885,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=html5.gamedistribution.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=in.gr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jezebel.com|theonion.com|thetakeout.com|avclub.com|deadspin.com|theroot.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
@@ -3949,7 +3949,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=startrek.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=supergames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=swipeto.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tenceretv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tokfm.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
@@ -4395,6 +4394,7 @@
 @@||leaklinks.com/js/prebid-ads.js
 @@||leanplum.com^$domain=arkadium.com
 @@||leanplum.com^$domain=nbc.com|leanplum.com
+@@||leech.ninja/redir^$popup
 @@||leech.ninja/stream^$popup
 @@||leechall.download^$generichide
 @@||leffatykki.com/media/banners/tykkibanneri-728x90.png$image,~third-party
@@ -4691,6 +4691,7 @@
 @@||miaozhen.com^*/m.suning.
 @@||micro.rubiconproject.com/prebid/dynamic/$script,domain=gamingbible.co.uk|ladbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=sportbible.com
+@@||microapp.bytedance.com/docs/*-banner-ad/$xmlhttprequest
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||microsoft.com/*/p/$stealth
 @@||microsoft.com/*=wsign$stealth
@@ -5119,6 +5120,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpu-world.com|megaleech.us
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dl.ccbluex.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|lacoste.com|megagames.com|newson.us|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
@@ -5147,7 +5149,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smsget.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=soisk.pl
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockstracker.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=streetdir.com|roaddir.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=turkce-brosurler.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
@@ -6022,7 +6023,6 @@
 @@||sonic-ui.highereducation.com/latest/ucl.adapter.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/ucl.publisher.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/vendor.js$domain=thebestschools.org
-@@||sonichits.com^$generichide
 @@||sonichits.com^$generichide,badfilter
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
 @@||soranews24.com/wp-content/themes/rocketnews-en/js/prebid.js
@@ -6528,7 +6528,6 @@
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
 @@||track.svz.de/cre-*/tracking/tracking.js
 @@||track.toggl.com/auth^$stealth
-@@||track.ukrposhta.ua^$stealth
 @@||track2.royalmail.com^
 @@||trackcmp.net^|
 @@||tracker.ai.xiaomi.com^
@@ -6701,7 +6700,6 @@
 @@||usbank.com^*/adrum.js?$~third-party
 @@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||user.pnetlab.com/store/advs/check
-@@||user.weiyun.com/newcgi/outlink.fcg$document
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||userload.co/ads/ads-banner.png
 @@||userload.co/popads.js
@@ -6797,7 +6795,6 @@
 @@||vjs.zencdn.net/*/video-js.css
 @@||vk.com/*.php?__query=$document
 @@||vk.com/ads.php?$subdocument,domain=vk.com
-@@||vk.com/ads?$popup,domain=vk.com
 @@||vk.com/ads?act=$~third-party
 @@||vk.com/ads_*php?$subdocument,~third-party
 @@||vk.com/images/ads_$domain=vk.com

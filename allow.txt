@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-02 09:24:47（北京时间） 
-! Total count: 7122
+! Version: 2023-04-02 20:29:42（北京时间） 
+! Total count: 7121
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -461,7 +461,6 @@
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad.dotandad.com/mediamond_vm.jsp$domain=video.mediaset.it
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
-@@||ad.doubleclick.net/clk*&destinationURL=$popup
 @@||ad.doubleclick.net/clk;$urlblock
 @@||ad.doubleclick.net/ddm/ad/*$domain=twitch.tv,third-party
 @@||ad.doubleclick.net/ddm/clk/*?https://creditcards.chase.com/
@@ -1251,7 +1250,7 @@
 @@||bitvtom100.xyz/public/*/video?vid=$stealth
 @@||bizx.info$domain=sourceforge.net
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
-@@||blackcircles.ca^*/gtm.js$~third-party
+@@||blackcircles.ca^$script,~third-party
 @@||blackmod.net^$generichide
 @@||blob.core.windows.net/bge/src/js/google-analytics.js$domain=secure2.bge.com
 @@||blob.e-tesettur.com.tr/filemanager/Banner/*.gif
@@ -1753,6 +1752,7 @@
 @@||citibank.com/*/branding/
 @@||citiintl.122.2o7.net/b/ss/citiintlemeapolandprod$domain=citibankonline.pl
 @@||citroen.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=citroen.com.br
+@@||citynews.ca/*/get_ad_$domain=citynews.ca
 @@||citysbs.com^*/swfupload/
 @@||citytalk.tw/js/ct/common/v3/ui/fblike/FBLike.html
 @@||cl9a.com/static/ad/main.js
@@ -2536,7 +2536,6 @@
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||fpnpmcdn.net/v*/*/loader_*.js$domain=member.neofinancial.com
 @@||franceculture.fr/static/vendor/js/xtcore
-@@||freebcc.org/assets/img/ad_468x60_*.png
 @@||freebitco.in^$generichide
 @@||freedidi.com^$generichide
 @@||freegeoip.net/json/|$domain=load.pelispedia.vip
@@ -3791,7 +3790,6 @@
 @@||ifengimg.com/a/201*Player
 @@||ifengimg.com/fe/shank/content/mobile_view.*_modern.js
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
-@@||ihlamur2.xyz/cdn/hls/$stealth
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
 @@||ikea.com/cdn/googleanalytics/$~third-party,xmlhttprequest
@@ -4004,6 +4002,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=engine.univtec.com|america.cgtn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=timesnownews.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wcvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=worldsurfleague.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zee5.com
@@ -4637,6 +4636,7 @@
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
 @@||mediacdn.disqus.com^$document
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
+@@||medialaancdn.be^$generichide
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
@@ -5168,7 +5168,6 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=battlecats-db.com|games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=game.anymanager.io
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=thebrickfan.com
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
@@ -5790,7 +5789,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=makeuseof.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mlive.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=rappler.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=www.vulture.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=10play.com.au
@@ -6677,6 +6675,7 @@
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||uploadbank.com^$generichide
 @@||uploadbox.io/js/advertisement.js
+@@||uploadboy.com/ads.js
 @@||uploadcloud.pro^$generichide
 @@||uploadex.com^$elemhide
 @@||upos-sz-mirrorhw.bilivideo.com^$stealth

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-09 09:22:35（北京时间） 
-! Total count: 7037
+! Version: 2023-04-09 20:29:40（北京时间） 
+! Total count: 7036
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -938,6 +938,7 @@
 @@||api.leanplum.com^$app=com.dolap.android
 @@||api.leanplum.com^$app=com.thetrainline
 @@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
+@@||api.mapbox.com/*/mapbox.satellite/$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/geocoding/$stealth
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -1019,7 +1020,6 @@
 @@||ascii.jp/img/ad/$image,~third-party
 @@||asianembed.io/encrypt-ajax.php?id=
 @@||ask.qcloudimg.com^$stealth,domain=cloud.tencent.com
-@@||asmwall.com/js/ads.js|$~third-party
 @@||asset*.coupangcdn.com^$stealth
 @@||asset.pagefair.com/measure.min.js$domain=www.gamespot.com
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
@@ -1295,6 +1295,7 @@
 @@||brutalmania.io/ads.js
 @@||bsmedia.business-standard.com/include/_mod/site/adblocker/
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
+@@||btcadspace.com/assets/ads-*.js
 @@||btgpactualdigital.com/digital/static/js/libraries/thirdparty/angulartics-google-analytics/
 @@||btloader.com/tag?$domain=programme-tv.net
 @@||btloader.com/tag?$domain=voici.fr
@@ -1320,7 +1321,6 @@
 @@||bytedance.com/ttwid/union/register/
 @@||bytegoofy.com/ad/$domain=jinritemai.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=atozmath.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$domain=baltimoresun.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=epochtimes.de
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fandom.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fitforfun.de
@@ -2081,7 +2081,6 @@
 @@||deals.nextag.com^*/ClickTracker.jsp
 @@||debenhams.com/foresee/foresee-trigger.js
 @@||decision.taplytics.com^$domain=royalbank.com
-@@||deep-vision.cloud/graphql$stealth=3p-auth,domain=doveze.cz
 @@||deepbrid.com/backend-dl/app/views/site/default/ads/advertisement.js
 @@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party
 @@||delivery.adrecover.com/*/adRecover.js$domain=duplichecker.com
@@ -2190,6 +2189,7 @@
 @@||doodstream.com^$subdocument
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||dosgamezone.com/ads/banner1.gif
+@@||dostavista.ru^$stealth
 @@||dotomi.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||douban.com/popup/login?
 @@||doubanio.com/view/$stealth
@@ -3885,7 +3885,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=noz.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ntvspor.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
@@ -4349,7 +4348,6 @@
 @@||lastampa.it/common/js/webtrekk_v3.js
 @@||lastampa.it/modulo/tracciatori/js/nielsen.js
 @@||lastampa.it/modulo/tracciatori/js/webtrekk.js
-@@||lastpass.com/images/ads/$image,~third-party
 @@||latimes.com/hive/javascripts/loggingService.js
 @@||latin.it/banner.php
 @@||launcher.spot.im/spot/$script,domain=jac.yahoosandbox.com
@@ -4579,7 +4577,6 @@
 @@||mccm88.com^$generichide
 @@||mcdn.bilivideo.cn^$stealth,domain=bilibili.com
 @@||mclo.gs/js/logview.js$~third-party
-@@||mcloud.to/embed/$stealth
 @@||mcmod.cn/images/banner/
 @@||mcs.snssdk.com/*/user/webid$domain=lv.ulikecam.com
 @@||mealty.ru/js/ga_events.js$~third-party
@@ -4594,6 +4591,7 @@
 @@||media.jd.com/static/*/ad
 @@||media.kaspersky.com/tracking/omniture/s_code_single_suite.js
 @@||media.kijiji.ca/api/$image,~third-party
+@@||media.oadts.com/www/delivery/afv.php$domain=games.gamesplaza.com
 @@||media.org.hk^*/ads_
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
 @@||media.sosh.fr/includes/wtbase.js
@@ -4945,7 +4943,6 @@
 @@||officeapps.live.com/*.aspx$stealth
 @@||officedepot.com.mx/_ui/shared/js/analyticsmediator.js$~third-party
 @@||officeworks.com.au^*/site-tracker.js
-@@||official-amtemu.com/wp-content/*/assets/js/advertisement$script
 @@||oglaszamy24.pl/*js-css/reklamy/bannery/*/adv.js
 @@||ohmanhua.com/js/*.js
 @@||oiihk.com^$generichide
@@ -5098,7 +5095,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=photopea.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=portmiamiwebcam.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=repo.hackyouriphone.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
@@ -5969,6 +5965,7 @@
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?requestUUID=$domain=bloomberg.*
 @@||sozi.cn/images/ad/tj
 @@||spanishdict.com^$generichide
+@@||spark.co.nz/content/*/utag.sync.js$~third-party
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
 @@||speedtest.net/api/api.php
@@ -6634,6 +6631,7 @@
 @@||usbank.com^*/adrum.js?$~third-party
 @@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||user.pnetlab.com/store/advs/check
+@@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||userload.co/ads/ads-banner.png
 @@||userload.co/popads.js
@@ -6657,6 +6655,7 @@
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
 @@||v.fwmrm.net/ad/p/1?$domain=channel4.com
 @@||v.fwmrm.net/crossdomain.xml$xmlhttprequest
+@@||v.gqyy8.com:*.php?vid=$stealth
 @@||v.me/personal/assets/ntpagetag-$script
 @@||v2rayssr.com/wp-content/plugins/dh-anti-adblocker/public/js/prebid-ads.js
 @@||v2rayssr.com^$generichide

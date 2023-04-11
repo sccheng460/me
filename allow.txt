@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-11 19:00:00（北京时间） 
-! Total count: 7035
+! Version: 2023-04-11 20:32:35（北京时间） 
+! Total count: 7027
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1864,14 +1864,6 @@
 @@||collect.igodigital.com^$domain=m.harborfreight.com
 @@||collectandgo.be^*/utag.sync.js
 @@||collector-*.px-client.net/res/uc$domain=walmart.com
-@@||collector.appconsent.io/hello$domain=commentcamarche.net
-@@||collector.appconsent.io/hello$domain=lachainemeteo.com
-@@||collector.appconsent.io/hello$domain=lefigaro.fr
-@@||collector.appconsent.io/hello$domain=linternaute.com
-@@||collector.appconsent.io/save$domain=commentcamarche.net
-@@||collector.appconsent.io/save$domain=lachainemeteo.com
-@@||collector.appconsent.io/save$domain=lefigaro.fr
-@@||collector.appconsent.io/save$domain=linternaute.com
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collector.wawlabs.com/mediamarkt.js$domain=mediamarkt.com.tr
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr

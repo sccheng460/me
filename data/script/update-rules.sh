@@ -21,62 +21,12 @@ sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
 sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
 
 #下载乘风视频过滤规则
-wget -O rules003.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-sed -i '/^$/d' rules003.txt
-sed -i 's/atm.youku.com/||atm.youku.com^/g' rules003.txt
-sed -i 's/cad.youku.com/||cad.youku.com^/g' rules003.txt
-sed -i 's/apisgame.iqiyi.com/||apisgame.iqiyi.com^/g' rules003.txt
-sed -i 's/static.g.iqiyi.com/||static.g.iqiyi.com^/g' rules003.txt
-sed -i 's/show.ssports.com/||show.ssports.com^/g' rules003.txt
-sed -i 's/cm.l.qq.com/||cm.l.qq.com^/g' rules003.txt
-sed -i 's/miaozhen.com/||miaozhen.com^/g' rules003.txt
-sed -i 's/reachmax.cn/||reachmax.cn^/g' rules003.txt
-sed -i 's/scorecardresearch.com/||scorecardresearch.com^/g' rules003.txt
-sed -i 's/tencentmind.com/||tencentmind.com^/g' rules003.txt
-sed -i 's/xtgreat.com/||xtgreat.com^/g' rules003.txt
-sed -i 's/cm.bilibili.com/||cm.bilibili.com^/g' rules003.txt
-sed -i 's/bjcathay.com/||bjcathay.com^/g' rules003.txt
-sed -i 's/synacast.com/||synacast.com^/g' rules003.txt
-sed -i 's/de.as.pptv.com/||de.as.pptv.com^/g' rules003.txt
-sed -i 's/pub.funshion.com/||pub.funshion.com^/g' rules003.txt
-sed -i 's/ad-survey.com/||ad-survey.com^/g' rules003.txt
-sed -i 's/adpushup.com/||adpushup.com^/g' rules003.txt
-sed -i 's/adxvip.com/||adxvip.com^/g' rules003.txt
-sed -i 's/behe.com/||behe.com^/g' rules003.txt
-sed -i 's/biddingx.com/||biddingx.com^/g' rules003.txt
-sed -i 's/cr-nielsen.com/||cr-nielsen.com^/g' rules003.txt
-sed -i 's/fancyapi.com/||fancyapi.com^/g' rules003.txt
-sed -i 's/ipinyou.com/||ipinyou.com^/g' rules003.txt
-sed -i 's/kejet.net/||kejet.net^/g' rules003.txt
-sed -i 's/ulmdb.cn/||ulmdb.cn^/g' rules003.txt
-sed -i 's/xelements.cn/||xelements.cn^/g' rules003.txt
-sed -i 's/yoyi.com.cn/||yoyi.com.cn^/g' rules003.txt
-sed -i 's/zhiziyun.com/||zhiziyun.com^/g' rules003.txt
-sed -i 's/wan.douyu.com/||wan.douyu.com^/g' rules003.txt
-sed -i 's/g.huya.com/||g.huya.com^/g' rules003.txt
-sed -i 's/litix.io/||litix.io^/g' rules003.txt
-sed -i 's/91p20.space/||91p20.space^/g' rules003.txt
-sed -i 's/waust.at/||waust.at^/g' rules003.txt
-sed -i 's/jads.co/||jads.co^/g' rules003.txt
-sed -i 's/statsy.net/||statsy.net^/g' rules003.txt
-sed -i 's/cdn.sosrom.cn/||cdn.sosrom.cn^/g' rules003.txt
-sed -i 's/d58zz.com/||d58zz.com^/g' rules003.txt
-sed -i 's/aqours.today/||aqours.today^/g' rules003.txt
-sed -i 's/mediaadjustment.com/||mediaadjustment.com^/g' rules003.txt
-sed -i 's/stgowan.com/||stgowan.com^/g' rules003.txt
-sed -i 's/trustedgatetocontent.com/||trustedgatetocontent.com^/g' rules003.txt
-sed -i 's/ch-hr12333.com/||ch-hr12333.com^/g' rules003.txt
-sed -i 's/cppoc.com/||cppoc.com^/g' rules003.txt
-sed -i 's/g1c5.com/||g1c5.com^/g' rules003.txt
-sed -i 's/geoparker.net/||geoparker.net^/g' rules003.txt
-sed -i 's/jinrongwang.net/||jinrongwang.net^/g' rules003.txt
-sed -i 's/onenews.vip/||onenews.vip^/g' rules003.txt
-sed -i 's/quickapp.cn/||quickapp.cn^/g' rules003.txt
-sed -i 's/v4dwkcv.com/||v4dwkcv.com^/g' rules003.txt
-sed -i 's/weizhenwx.com/||weizhenwx.com^/g' rules003.txt
-sed -i 's/youle55.com/||youle55.com^/g' rules003.txt
-sed -i 's/bixinlive.com/||bixinlive.com^/g' rules003.txt
-sed -i 's/quandangdang.net/||quandangdang.net^/g' rules003.txt
+curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"}}' | sort -u > output1.txt
+curl -o output2.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+sed -i '/^[^#$|@]/d' output2.txt
+sed -i '/^$/d' output2.txt
+cat output1.txt output2.txt > rules003.txt
+rm -rf output1.txt output2.txt
 
 echo '下载规则'
 rules=(

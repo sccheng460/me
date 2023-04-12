@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-12 09:20:52（北京时间） 
-! Total count: 7027
+! Version: 2023-04-12 20:32:36（北京时间） 
+! Total count: 7029
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -506,7 +506,6 @@
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adjs.8591.com.tw^$script
 @@||adlink.wf^
-@@||adload.ru^
 @@||admin.mailchimp.com^
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnet.pravda.com/examples/adriver.core.2.minifire.js
@@ -593,7 +592,6 @@
 @@||ads.google.com^$domain=ads.google.com|analytics.google.com
 @@||ads.imprezzer.com/js/$script,domain=mgronline.com
 @@||ads.julephosting.de/podcasts/$domain=open.spotify.com
-@@||ads.kiktu.com/index.js
 @@||ads.korri.fr/index.js$domain=dogefaucet.com
 @@||ads.microsoft.com^$generichide
 @@||ads.midwayusa.com^$popup
@@ -635,6 +633,7 @@
 @@||adsrveys.com/ads-api-v3|$domain=diggysadventure.com
 @@||adst.mp.pl^$domain=mp.pl
 @@||adstop.org^
+@@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adt.redventures.io^$stylesheet,xmlhttprequest,domain=security.adt.com
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
@@ -760,7 +759,6 @@
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=arkadium.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=crosswordsolver.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=arkadium.com
-@@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=games.metv.com
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
 @@||an.yandex.ru/system/video-ads-sdk/adsdk.js$domain=5-tv.ru|armdb.org|gisher.org|peers.tv|tele-sport.ru
@@ -1088,6 +1086,7 @@
 @@||aveda.com/sites/aveda/themes/aveda_base/js/shared/analytics.min.js$script,~third-party
 @@||avgle.com/embed/$genericblock,generichide
 @@||avito.st/s/a/i/0.gif$image,domain=avito.ru
+@@||avpgalaxy.net/advert.js
 @@||awaps.yandex.ru^$app=ru.yandex.searchplugin
 @@||awempire.com/*/css/*.css$domain=awempire.com
 @@||aweprt.com/embed/fk?_=$domain=oklivetv.com|okteve.com
@@ -1255,6 +1254,7 @@
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
+@@||board4all.biz^$stealth
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bokecc.com/flash/playlog?
@@ -2504,6 +2504,7 @@
 @@||fpnpmcdn.net/v*/*/loader_*.js$domain=member.neofinancial.com
 @@||franceculture.fr/static/vendor/js/xtcore
 @@||free-mp3-download.net^$stealth
+@@||freebcc.org/assets/img/ad_468x60_*.png
 @@||freebitco.in^$generichide
 @@||freedidi.com^$generichide
 @@||freegeoip.net/json/|$domain=load.pelispedia.vip
@@ -3838,7 +3839,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goducks.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
@@ -4312,7 +4312,6 @@
 @@||koshien-live.net/99/adtag.xml$domain=sportsbull.jp
 @@||kotaku.com/*/assets/new-client/adManager.*.js$domain=kotaku.com
 @@||kotaku.com/embed/comments$removeparam
-@@||kotaku.com/x-kinja-static/assets/new-client/adManager.$~third-party
 @@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
 @@||krebsonsecurity.com
 @@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
@@ -4891,9 +4890,11 @@
 @@||nohup.it/js/webtrekk_js-media.js$domain=radioitalia.it
 @@||noizz.pl/*&srcc=ucs$removeparam=utm_source
 @@||noodid.ee/chordQuiz/$~third-party
-@@||noonoo44.tv^$stealth
+@@||noonoo45.tv^$stealth
+@@||noonoo46.tv^$stealth
 @@||nostv.pt^*/angulartics-google-analytics.js?
 @@||notafree.host^$generichide
+@@||note.sieuthuthuat.com/js/prebid-ads.js
 @@||noviny.sk/*/ads.html
 @@||nowscore.com/script/common/adHelper.js
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
@@ -5232,7 +5233,7 @@
 @@||play.stream2.me/embed/$stealth
 @@||play.vidyard.com^$stealth
 @@||playep.pro/log_event$~third-party,xmlhttprequest
-@@||player*.nvod.org/video/$domain=noonoo44.tv,stealth
+@@||player*.nvod.org/video/$domain=noonoo45.tv|noonoo46.tv,stealth
 @@||player-feedback-v1.glomex.com/pf/|$domain=player.glomex.com
 @@||player.avplayer.com/script/*/avcplayer.js$domain=sportbible.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
@@ -5315,6 +5316,7 @@
 @@||pravo.by^$stealth=dpi
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids?_=$domain=atozmath.com
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
+@@||premiumleecher.com^$generichide
 @@||prepostseo.com/ad.js$domain=prepostseo.com
 @@||primevideo.com^$stealth
 @@||primis.tech^$domain=sportsmole.co.uk
@@ -5366,7 +5368,6 @@
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=worldsurfleague.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=click2houston.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=digi24.ro
-@@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=timesnowhindi.com|timesnowmarathi.com
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=cbc.ca
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=engine.univtec.com|america.cgtn.com
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
@@ -5739,7 +5740,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=hdblog.it
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=hdmotori.it
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=infocar.ua
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=irctc.co.in
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=musixmatch.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=navbharattimes.indiatimes.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=news.tvb.com
@@ -6199,6 +6199,7 @@
 @@||sxjbjt.com^*/ad
 @@||sync.disk.yandex.net^
 @@||syri.net/uploads/syri.net/images/*/300x150_*.jpg
+@@||szctv.com.tr/lib/ads/adRunner.js
 @@||szhr.com.cn^$generichide
 @@||szhr.com.cn^*ad
 @@||szhr.com^$generichide
@@ -6325,11 +6326,13 @@
 @@||textfree.us^$generichide
 @@||tgfcer.com/advert.js
 @@||th-sjy.com^$generichide
+@@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||thdstatic.com/experiences/local-ad/$domain=homedepot.com
 @@||the-japan-news.com/modules/js/lib/fgp/fingerprint2.js
 @@||thebookee.net^$generichide
 @@||thebrighttag.com/tag?site=$script,domain=oralb.de
 @@||thechive.files.wordpress.com/*?quality=*&strip=info
+@@||thecubexguide.com^$generichide
 @@||thefreedictionary.com^$generichide
 @@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 @@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
@@ -6422,6 +6425,7 @@
 @@||top.gg/js/*.js
 @@||top.list.ru/counter?id=$domain=crimea-kurort.com
 @@||top.list.ru/jump?from=$domain=pvo.guns.ru
+@@||top1porn.com^$generichide
 @@||toplay.biz/log_event$~third-party,xmlhttprequest
 @@||torrentsafe.com/fingerprint2.min.js
 @@||torrindex.net^$image,script,stylesheet,domain=thepiratebay.org
@@ -6917,9 +6921,7 @@
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
 @@||xcweather.co.uk/*/geo.php?
-@@||xe.com^$stealth
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
-@@||xfinity.com^$stealth
 @@||xfinity.com^*/Comcast.SelfService.Sitecatalyst.js
 @@||xfreehd.com^$generichide
 @@||xhcdn.com/*/fonts$font

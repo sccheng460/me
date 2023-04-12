@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-11 20:32:35（北京时间） 
+! Version: 2023-04-12 09:20:52（北京时间） 
 ! Total count: 7027
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -53,7 +53,6 @@
 @@/adblockDetector.$domain=softwarebrother.com
 @@/adblock_$domain=xingk.cc
 @@/adfile/*$domain=cidianwang.com
-@@/adgpt.js$~third-party,domain=zertalious.xyz|digworm.io
 @@/adimage/*$domain=scyts.com|wacom.tw
 @@/adimages/*$domain=p9.com.tw
 @@/adimg/*$domain=laniqu.com
@@ -191,6 +190,7 @@
 @@/urchin.js$domain=on.cc
 @@/videos/*$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion
 @@/viewad.$stylesheet,script,domain=adz7short.space|short.croclix.me|short.goldenfaucet.io
+@@/weborama.js$~third-party,domain=zertalious.xyz|digworm.io
 @@/webtracking/*$domain=pasts.lv
 @@/wp-content/*/social_$domain=servercat.me
 @@/wp-content/plugins/ad-ace//includes/adblock-detector/advertisement.js$~third-party

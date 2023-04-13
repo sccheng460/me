@@ -23,8 +23,7 @@ sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
 #下载乘风视频过滤规则
 curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"}}' | sort -u > output1.txt
 curl -o output2.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-sed -i '/^[^#$|@]/d' output2.txt
-sed -i '/^$/d' output2.txt
+awk '/[#\$|@]/' output2.txt
 cat output1.txt output2.txt > rules003.txt
 rm -rf output1.txt output2.txt
 

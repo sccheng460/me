@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-13 20:34:06（北京时间） 
-! Total count: 7035
+! Version: 2023-04-14 09:20:16（北京时间） 
+! Total count: 7037
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1617,7 +1617,6 @@
 @@||cdn.trackjs.com/releases/current/tracker.js$domain=express.com
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
-@@||cdn.trustcommander.net/privacy$script,domain=tf1.fr
 @@||cdn.tt.omtrdc.net/cdn/target.js
 @@||cdn.turner.com/*.swf
 @@||cdn.turner.com/analytics/cnnvan/jsmd.min.js$domain=6abc.com
@@ -4652,6 +4651,7 @@
 @@||mhxk.com^*/main/entry.common.$script
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||miaozhen.com^*/m.suning.
+@@||miclaro.com.gt/assets/analytics$domain=miclaro.com.gt
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=cnbc.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=sportbible.com
 @@||microapp.bytedance.com/docs/*-banner-ad/$xmlhttprequest
@@ -4831,6 +4831,7 @@
 @@||ncbi.nlm.nih.gov^$jsinject
 @@||nceea.cn/Content/images/ad/
 @@||ndr.de/common/resources/lib/atinternet/smarttag.js
+@@||nebula-cdn.kampyle.com^$domain=miclaro.com.gt
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||neobux.com/css/ads.css
@@ -5866,6 +5867,7 @@
 @@||sihirlitur.com/otomobil/reklamlar
 @@||simba.taobao.com/?name=mcad$script
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
+@@||simcotools.app/assets/adsense-
 @@||simcotools.app/assets/adsense-*.js$~third-party
 @@||simple.ripley.cl$generichide
 @@||simplebits.io/ads/700/cz.html$xmlhttprequest,domain=simplebits.io
@@ -6256,6 +6258,7 @@
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=tmz.com
 @@||tags.bkrtx.com/js/bk-coretag.js^$domain=abc7.com
 @@||tags.bkrtx.com/js/bk-coretag.js^$domain=abcnews.go.com
+@@||tags.bkrtx.com/js/bk-coretag.js^$domain=miclaro.com.gt
 @@||tags.bluekai.com/site/*?ret=$domain=6abc.com|abc7.com|abc7news.com|abc7chicago.com|abc13.com|abc7ny.com
 @@||tags.bluekai.com/site/*?ret=$subdocument,domain=zillow.com
 @@||tags.bluekai.com^$domain=netd.com
@@ -6512,7 +6515,6 @@
 @@||truck1.eu/_BANNERS_/client/*
 @@||trueaccordengage.com/tae/api/v1/collectors/$~third-party
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
-@@||trustcommander.net/privacy/*/privacy$script,domain=tf1info.fr
 @@||trustprofile.com/banners/$image
 @@||try.abtasty.com/403fb16c20596e4691fbe9ec5db9720e.js$domain=shop.euromaster.de
 @@||try.abtasty.com/78cb84f9b3158bdce6932109a6d7c7c1.js$domain=tf1.fr

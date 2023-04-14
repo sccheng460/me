@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-14 09:20:16（北京时间） 
-! Total count: 7037
+! Version: 2023-04-14 20:31:50（北京时间） 
+! Total count: 7043
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -408,6 +408,7 @@
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js$~third-party
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js?serviceid=
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
+@@||ab.blogs.es/abtest.png?editorialRecommendations$domain=applesfera.com
 @@||abc.com/b/ss/$image
 @@||abchina.com^*ad
 @@||abema-tv.com^$domain=abema.tv,stealth=3p-auth
@@ -464,7 +465,6 @@
 @@||ad.dotandad.com/mediamond_vm.jsp$domain=video.mediaset.it
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||ad.doubleclick.net/clk;$urlblock
-@@||ad.doubleclick.net/ddm/ad/*$domain=twitch.tv,third-party
 @@||ad.doubleclick.net/ddm/clk/*?https://creditcards.chase.com/
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||ad.doubleclick.net/ddm/pfadx^$domain=n-tv.de
@@ -1451,6 +1451,7 @@
 @@||cdn.bootcss.com^$script,domain=59xs.com|ahzwx.com|biqudd.com|gllmh.com|luoqiuzw.com|shudai.cc|u33.me|xbiqugela.com|xhtxt.cc|xiaoshuwu5.com|ysxs8.vip
 @@||cdn.broadstreetads.com/init.js$domain=thebatavian.com
 @@||cdn.cervell.io^$domain=cildimveben.com
+@@||cdn.clerk.io/clerk.js$domain=apotera.no
 @@||cdn.clerk.io/clerk.js$domain=batteribyen.dk|batterionline.no|batterionline.se
 @@||cdn.clerk.io/clerk.js$domain=dehardloopwinkel.nl
 @@||cdn.cloudflare.net^$stylesheet,script,xmlhttprequest,domain=cocomanga.com|cocomanga.com
@@ -2049,6 +2050,7 @@
 @@||dashboard.unity.com/dist/udash/app/assets/services/analytics/$domain=dashboard.unity.com|dashboard.unity3d.com
 @@||data-*.rtl.de/iomm/latest/bootstrap/stub.js$domain=rtl.de
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
+@@||data.alicloudccp.com^$stealth,domain=aliyundrive.com
 @@||data.flurry.com^$app=ru.afisha.android
 @@||data.lidl.de^$jsinject
 @@||data.mistat.xiaomi.com^$app=com.tencent.mm
@@ -4095,7 +4097,6 @@
 @@||infowars.com/wp-content/themes/$image
 @@||infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js$script,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
-@@||infusionsoft.com/aff.html$subdocument,domain=pages.infusionsoft.net|reginadancecity.ca
 @@||ing-diba.de^*/sitestat.js
 @@||ing.blueconic.net^$domain=ing.jobs
 @@||ingdirect.com.au^$document
@@ -4291,7 +4292,6 @@
 @@||kinescope.io/embed/$stealth
 @@||kingofdown.com^$generichide
 @@||kingofshrink.com^$generichide
-@@||kinja.com/api/profile/accountwithtoken$stealth
 @@||kinofen.net/templates/kinofen/adblock/*.js
 @@||kiplinger.112.2o7.net^
 @@||kissasian.*/js/ads.js$~third-party
@@ -4461,6 +4461,7 @@
 @@||loki.delve.office.com/api/$stealth
 @@||loltmcheck.com/js/ads.js
 @@||longtailvideo.com/5/googlytics/googlytics-1.js$domain=arte.tv
+@@||lookcam.com/fuckadblock.js
 @@||looker.com/api/internal/$~third-party
 @@||lootup.me/assets/js/ads-prebid.js
 @@||lotto-bw.de^$jsinject
@@ -5053,6 +5054,7 @@
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de
 @@||pagead2.googlesyndication.com/pagead$xmlhttprequest,script,domain=freemcserver.net
+@@||pagead2.googlesyndication.com/pagead/$script,domain=soranews24.com
 @@||pagead2.googlesyndication.com/pagead/*?fcd=true$domain=adshnk.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
@@ -5063,6 +5065,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=abdoutech.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=anime-king.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlecats-db.com|game.anymanager.io|games.wkb.jp
@@ -5934,7 +5937,6 @@
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
 @@||snyk.io^$cookie=ajs_anonymous_id
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
-@@||socks24.org^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sogou.com/pv.gif?*&stype=showskinpanel
@@ -5984,6 +5986,7 @@
 @@||sport.be.msn.com/javascripts/tracking/metriweb/spring.js
 @@||sport.be/javascripts/tracking/metriweb/spring.js
 @@||sport5.co.il/js/angulartics-google-analytics.js
+@@||sportframe1co.cfd^$subdocument,domain=viagna.com
 @@||sportframe3.cfd/watch/$domain=viagraeci.com
 @@||sportsgrid.com/decor/javascript/magnify_stats.js
 @@||spot.im/api/tracker/spot/$domain=russian.rt.com
@@ -6036,6 +6039,7 @@
 @@||starbucks.ca^*/optimizely.$script,~third-party
 @@||starbucks.com^*/optimizely.$script,~third-party
 @@||starbucksassets.com/weblx/static/optimizely.$script,domain=starbucks.ca|starbucks.com
+@@||start-player.npo.nl/video/$stealth
 @@||startpage.com/js/abp.js^
 @@||startribune.com/analytics-assets/sitecatalyst/appmeasurement.js$~third-party
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
@@ -6050,7 +6054,6 @@
 @@||statcounter.com/js/fusioncharts.js
 @@||statcounter.com/js/packed/statcounter-$script,~third-party
 @@||states.newegg.com/b/ss/neweggprod/
-@@||static-redesign.cnbcfm.com/dist/components-PcmModule-Ads-BoxInline-*.js$domain=cnbc.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
@@ -6203,7 +6206,6 @@
 @@||swr3.de/static/swrplayer/web/plugins/ivw/ivw.js
 @@||swsc.com.cn/download/ad_images/
 @@||sxjbjt.com^*/ad
-@@||sync.disk.yandex.net^
 @@||syri.net/uploads/syri.net/images/*/300x150_*.jpg
 @@||szctv.com.tr/lib/ads/adRunner.js
 @@||szhr.com.cn^$generichide
@@ -6368,6 +6370,7 @@
 @@||therichest.com^$generichide
 @@||thetenthwatch.com/js/tracking.js$~third-party
 @@||thetvdb.com/banners/$image,domain=tvtime.com
+@@||theverge.com/_next/data/*.json
 @@||thingiverse.com/assets/ad/$image,~third-party
 @@||thisav.com^$generichide
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
@@ -6649,7 +6652,6 @@
 @@||v.fwmrm.net/ad/g/*$domain=nhl.com|dtmts.com
 @@||v.fwmrm.net/ad/g/1$domain=player.theplatform.com
 @@||v.fwmrm.net/ad/g/1$domain=stream.nbcsports.com
-@@||v.fwmrm.net/ad/g/1$domain=uktvplay.uktv.co.uk|uktvplay.co.uk
 @@||v.fwmrm.net/ad/g/1?$domain=channel4.com
 @@||v.fwmrm.net/ad/g/1?$domain=play.tv3.lt
 @@||v.fwmrm.net/ad/g/1?$domain=ruutu.fi
@@ -6697,6 +6699,7 @@
 @@||videoplaza1.tv/proxy/as3_vp_player-ku
 @@||videos.nbcolympics.com/beacon?$domain=nbcolympics.com
 @@||videotron.com/sites/default/files/google_tag/google_tag/primary/google_tag.script.js$domain=videotron.com
+@@||videowood.tv$generichide
 @@||vidible.tv^*/ComScore.StreamSense.js
 @@||vidible.tv^*/ComScore.Viewability.js
 @@||vidmoly.to/embed-$stealth
@@ -6855,6 +6858,7 @@
 @@||wiktionary.org^$generichide
 @@||wilderssecurity.com/forums/
 @@||willhaben.apa.net/clientscript/xtcore.js
+@@||windows101tricks.com/wp-content/plugins/better-adsmanager/js/advertising.min.js
 @@||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script
 @@||winwk.com^$generichide
 @@||wipe.de/wa.js$domain=dasoertliche.de
@@ -6928,6 +6932,7 @@
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
 @@||xcweather.co.uk/*/geo.php?
+@@||xe.com^$stealth
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com^*/Comcast.SelfService.Sitecatalyst.js
 @@||xfreehd.com^$generichide
@@ -6995,6 +7000,7 @@
 @@||youaima.com/zz/play_
 @@||youbora.com/*/js/adapters/jwplayer$script
 @@||youbora.com/*/js/adapters/theoplayer$script
+@@||youjizz.com/js/default.js
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 @@||youmadcdn.xyz^$image,stealth,domain=mangabuddy.com

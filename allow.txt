@@ -2,10 +2,11 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-17 20:33:46（北京时间） 
-! Total count: 7028
+! Version: 2023-04-18 09:20:06（北京时间） 
+! Total count: 7036
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
+@@&__cf_chl_tk=$stealth,~third-party
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*$app=com.cinemark.mobile
@@ -514,6 +515,7 @@
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
+@@||adobe.tt.omtrdc.net/rest/v1/delivery?client=adobe&sessionId=$domain=acrobat.adobe.com
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -878,6 +880,7 @@
 @@||api.bufferapp.com/*/service/
 @@||api.bufferapp.com/*/user
 @@||api.championat.com/*/?tag_id=$app=ru.ideast.championat
+@@||api.channel.io/front/$stealth=useragent,domain=laftel.net
 @@||api.chartbeat.com^script,domain=financialpost.com|wcpo.com|couriermail.com.au|betabeat.com
 @@||api.cognitive.microsofttranslator.com/translate?
 @@||api.crunchyroll.com/log_ad_event.0.json$app=com.crunchyroll.crunchyroid
@@ -1774,6 +1777,7 @@
 @@||cloud.roistat.com/dist/module.js$domain=pandashop.md
 @@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
 @@||cloud.typography.com/*/css/fonts.css$stealth
+@@||cloudblaze.co^$image,stealth,domain=mangaraw.io
 @@||cloudflare.com/*/fingerprint2.min.js$domain=saavn.com
 @@||cloudflare.com/ajax/$stylesheet,domain=shink.me|shon.xyz
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|winnipegfreepress.com
@@ -3966,6 +3970,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wcvb.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=winknews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=worldsurfleague.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zee5.com
@@ -4326,6 +4331,7 @@
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||lacoste.com^*/click-analytics.js$~third-party
 @@||lacourt.org/documentImages/commonv4/scripts/analytics.js$~third-party
+@@||laftel.net^$stealth=useragent
 @@||lager.com.tw/images/layer6_adbanner/
 @@||lanacion.com.ar/*module$removeparam=utm_source
 @@||landtop.com.tw/images/ad/
@@ -5370,6 +5376,7 @@
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=engine.univtec.com|america.cgtn.com
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=rotana.net
+@@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=winknews.com
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=wsls.com
 @@||pubads.g.doubleclick.net^$app=com.bloomberg.android.plus
 @@||pubads.g.doubleclick.net^$app=com.cbs.app
@@ -5564,6 +5571,7 @@
 @@||s-pt.ppstatic.pl/o/js/pp-ads/ads.js
 @@||s-sfr.fr/stats/header.js$script,domain=red-by-sfr.fr|sfr.fr
 @@||s.adadapter.netzathleten-media.de/*/naMediaAd.js$domain=wooco.de
+@@||s.bstarstatic.com/ogv/subtitle/$stealth
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.click.aliexpress.com/deep_link.htm?aff_short_key=$removeparam=aff_short_key
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su

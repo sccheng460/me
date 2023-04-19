@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-18 20:33:06（北京时间） 
-! Total count: 7039
+! Version: 2023-04-19 09:22:29（北京时间） 
+! Total count: 7040
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -2542,7 +2542,6 @@
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|chromatographyonline.com|formularywatch.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
-@@||g.doubleclick.net/gampad/ads?$domain=lemino.docomo.ne.jp
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Frepuls.io$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*superbanner_3$xmlhttprequest,domain=spiegel.de
@@ -5113,6 +5112,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=topsporter.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=smallseotools.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=woowebtools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
@@ -6093,6 +6093,7 @@
 @@||static.criteo.net/js/ld/publishertag.js$domain=xda-developers.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=game3rb.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
+@@||static.doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=woowebtools.com
 @@||static.doubleclick.net^$app=com.google.android.apps.cultural
 @@||static.ex.co/pb-play/production/*/playbuzz-viewer-play.es5.js
 @@||static.ex.co/pb-story/paragraph/production/*/paragraph-viewer.js

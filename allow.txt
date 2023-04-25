@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-25 09:22:52（北京时间） 
-! Total count: 7045
+! Version: 2023-04-25 20:32:38（北京时间） 
+! Total count: 7038
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1328,7 +1328,6 @@
 @@||by.optimost.com^$domain=ft.com
 @@||bytedance.com/ttwid/union/register/
 @@||bytegoofy.com/ad/$domain=jinritemai.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$domain=atozmath.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=epochtimes.de
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fandom.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fitforfun.de
@@ -1828,7 +1827,6 @@
 @@||cnprint.org^$generichide
 @@||cnr.cn/gg/
 @@||cnsexy.top/wp-content/plugins/dh-anti-adblocker/assets/js/showads.js
-@@||cnt.streamz.ws/count.php
 @@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
 @@||cntv.cn/include/video/js/cntv_Advertise.js
 @@||cntv.cn^*_ad.js
@@ -1909,6 +1907,7 @@
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
+@@||content-cdn.y2mate.com/themes/js/ads.js
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||content.delta.com/content/dam/delta-applications/fresh-air-core/*/js/trackjs.js
 @@||content.gap.com/fp/*.js$script,~third-party
@@ -2405,7 +2404,6 @@
 @@||ez3c.tw^$generichide
 @@||f-droid.org/assets/Ads_$~third-party
 @@||f.monetate.net/trk/$domain=debenhams.com
-@@||f95zone.to/login/$stealth
 @@||faberlic.com/images/banners/
 @@||facebook.com/*/dialog/oauth$stealth
 @@||facebook.com/ads/profile/$~third-party,xmlhttprequest
@@ -2535,7 +2533,6 @@
 @@||fussball.de/fbed/js/xtcore.js
 @@||fux.com/adblockchecker.js
 @@||fwmrm.net^*/AdManager.js$script
-@@||fy.v.vrv.co/*.mp4$domain=static.crunchyroll.com,stealth
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com^*/banner_ad_
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
@@ -2742,6 +2739,7 @@
 @@||google-analytics.com/analytics.js$domain=boostnote.io
 @@||google-analytics.com/analytics.js$domain=broadwayworld.com
 @@||google-analytics.com/analytics.js$domain=brownbagcoffee.co.kr
+@@||google-analytics.com/analytics.js$domain=burgerking.hu
 @@||google-analytics.com/analytics.js$domain=carnesvizzera.ch
 @@||google-analytics.com/analytics.js$domain=carrefoursa.com
 @@||google-analytics.com/analytics.js$domain=cbn.globoradio.globo.com
@@ -3567,7 +3565,6 @@
 @@||haoweichi.com/Public/js/ads.js
 @@||happyride.se/img/admarket/
 @@||harvard.edu/scripts/ga_social_tracking.js
-@@||hb.improvedigital.com/pbw/gameDistributionV*.min.js$domain=html5.gamedistribution.com
 @@||hb.improvedigital.com/pbw/headerlift.min.js$domain=gry.pl
 @@||hb.improvedigital.com/pbw/headerlift.min.js$domain=spielen.com
 @@||hb.improvedigital.com/pbw/prebid/prebid-idhb-v*.min.js$domain=html5.gamedistribution.com
@@ -3722,6 +3719,7 @@
 @@||i2.bahamut.com.tw/JS/ad/animeVideo2.js^$domain=ani.gamer.com.tw
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 @@||ia.hit.interia.pl/*/date?$domain=interia.pl|pomponik.pl
+@@||ia.hit.interia.pl^$app=pl.interia.news
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||iatv.tmgrup.com.tr/*/advmanager.js$domain=atv.com.tr
 @@||ib.adnxs.com/getuidj|$domain=independent.co.uk
@@ -3913,12 +3911,12 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=startrek.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=supergames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=swipeto.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tenceretv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=texastech.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tokfm.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tubitv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvn24.pl|tvn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl
@@ -4083,6 +4081,7 @@
 @@||indeed.com/rpc/log/myjobs/transition_job_state$xmlhttprequest
 @@||indiatimes.com/*/wp-content/*/js/ads.js
 @@||indiatimes.com/configspace/
+@@||indiatimes.com/wp-content/themes/*/js/*ads*.js
 @@||indiegogo.com^$stealth
 @@||inews.gtimg.com^
 @@||info.seek.com/b/ss/$image,domain=seek.com.au
@@ -5296,7 +5295,6 @@
 @@||pool-newskoolmedia.adhese.com/tag/config.js$domain=formule1.nl
 @@||popads.net^$domain=popads.net
 @@||popart.hk/newweb/$generichide
-@@||popcash.net^|$xmlhttprequest,domain=upvideo.to
 @@||popeater.com/traffic/?$script,domain=popeater.com
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||porn.com^$generichide
@@ -6286,7 +6284,6 @@
 @@||tags.w55c.net/rs?*&t=marketing$image
 @@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
 @@||tajs.qq.com/stats?$~third-party
-@@||talkgadget.google.com^$jsinject
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
 @@||tanx.com/ex?i=$script,domain=dlkoo.cc
@@ -6353,10 +6350,6 @@
 @@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
 @@||thegay.com/assets//jwplayer-*/jwplayer.js|$domain=thegay.com
 @@||thegay.com/assets//jwplayer-*/provider.hlsjs.js|$domain=thegay.com
-@@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
-@@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
-@@||thegay.com/assets/jwplayer-*/jwplayer.js|$domain=thegay.com
-@@||thegay.com/assets/jwplayer-*/provider.hlsjs.js|$domain=thegay.com
 @@||thegay.com/upd/*/assets/preview*.js|$domain=thegay.com
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
 @@||thegioididong.com^$stealth=dpi

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-24 20:32:55（北京时间） 
-! Total count: 7038
+! Version: 2023-04-25 09:22:52（北京时间） 
+! Total count: 7045
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -409,6 +409,7 @@
 @@||a1.itc.cn/pv/js/spv.
 @@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||a2ip.ru/spacer.gif$image,domain=2ip.ru
+@@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||a8.net/svt/$image,domain=samplefan.com
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js$~third-party
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js?serviceid=
@@ -1047,6 +1048,7 @@
 @@||assets.macys.com/dyn_img/site_ads/
 @@||assets.sport1.de/bundles/
 @@||assets.strossle.com/strossle-widget-sdk/$script,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
+@@||assets.vlitag.com/prebid/default/prebid-*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||assetstore.unity.com/packages/*?aid=*&utm_$removeparam
 @@||astatic.ccmbg.com/fc/js/prebid?v=$domain=sante.journaldesfemmes.fr
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
@@ -1872,6 +1874,7 @@
 @@||collusion.com/static/analytics.js$script,~third-party
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
+@@||comeresaprensasl.tt.omtrdc.net/rest/v*/delivery?$domain=hoy.es
 @@||common-static.tunnl.com/player/js/ads.js
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||community-wscdn.xmwol.com^$stealth,image,stylesheet
@@ -2671,7 +2674,6 @@
 @@||gifshow.com/rest/wd/common/log/collect/acfun
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=
 @@||gigabyte.*^$cookie=/^_ga_/
-@@||giolandscaping.com/ads/$subdocument,domain=hentaihd.xyz
 @@||gismeteo.ru/api/informer/*/180x150
 @@||github.com/AdguardTeam/*/antiadblock.txt
 @@||github.com/gorhill/uBlock/*/src/web_accessible_resources/fingerprint2.js$~third-party
@@ -5342,6 +5344,8 @@
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
 @@||prosiebengames.de/modules/custom/adspree_custom/js/colorbox.js
+@@||protagcdn.com/check-bot/index.html$subdocument,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
+@@||protagcdn.com/s/dropgalaxy.com/site.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||protopage.com^$generichide
 @@||proxy.openathens.net^*/html/static/analytics.js$domain=openathens.net|openu.ac.il
 @@||prppsn.com/templates/base_master/js/ads.js
@@ -5762,6 +5766,7 @@
 @@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=independent.co.uk
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=purepeople.com
+@@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=10play.com.au
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=agario-play.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
@@ -5771,6 +5776,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freemcserver.net
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=games.gamesplaza.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gazetakrakowska.pl
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gentside.com|ohmymag.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gq-magazine.co.uk
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=line.me
@@ -5813,6 +5819,7 @@
 @@||services.bilsyndication.com/adv1/?q=$domain=atozmath.com
 @@||services.brid.tv/player/build/plugins/adunit.js
 @@||services.fliqz.com/metrics/*/applications/$domain=leftlanenews.com
+@@||services.vlitag.com/adv1/$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||seselah.com^$generichide
 @@||sexgalaxy.net/wp-content/plugins^

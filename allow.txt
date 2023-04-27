@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-26 20:32:53（北京时间） 
-! Total count: 7037
+! Version: 2023-04-27 09:22:20（北京时间） 
+! Total count: 7039
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1290,7 +1290,6 @@
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
 @@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
-@@||browser.events.data.microsoft.com^$app=com.microsoft.office.officehubrow
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com|spacemarket.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
@@ -3161,7 +3160,7 @@
 @@||googletagmanager.com/gtm.js$domain=askona.ru
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|support.amd.com|warnermusic.com.tw
 @@||googletagmanager.com/gtm.js$domain=auone.jp
-@@||googletagmanager.com/gtm.js$domain=autobild.de|betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|focus.de|freenet-funk.de|idealo.at|idealo.de|karriere.at|oetker-shop.de|radiorur.de|rtl.de|saturn.at|spektrum.de|sport1.de|swb.de|vip.de|vox.de
+@@||googletagmanager.com/gtm.js$domain=autobild.de|betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|focus.de|freenet-funk.de|idealo.at|idealo.de|karriere.at|oetker-shop.de|post.ch|radiorur.de|rtl.de|saturn.at|spektrum.de|sport1.de|swb.de|vip.de|vox.de
 @@||googletagmanager.com/gtm.js$domain=avast.com
 @@||googletagmanager.com/gtm.js$domain=beleuchtung.de
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
@@ -3319,6 +3318,7 @@
 @@||googletagmanager.com/gtm.js$domain=plus.net
 @@||googletagmanager.com/gtm.js$domain=pointmall.rakuten.co.jp
 @@||googletagmanager.com/gtm.js$domain=portsmouth.co.uk
+@@||googletagmanager.com/gtm.js$domain=post.ch
 @@||googletagmanager.com/gtm.js$domain=prego.ua
 @@||googletagmanager.com/gtm.js$domain=programme-tv.net
 @@||googletagmanager.com/gtm.js$domain=prostoprosport.ru
@@ -5181,6 +5181,7 @@
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||peacocktv.com^$generichide
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
+@@||perfectcircuit.com/static/*/tracking/actions.min.js$~third-party
 @@||perfectgirls.net^$generichide
 @@||permission-proxy-gmxnet.uimserv.net^$app=de.gmx.mobile.android.mail
 @@||personaclick.com^$domain=skechers.com.tr
@@ -6061,6 +6062,7 @@
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
 @@||static.adf.ly/static/image/
 @@||static.adman.gr^$domain=naftemporiki.gr
+@@||static.ads-twitter.com/uwt.js$domain=hentai.guru|hentaihaven.vip
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk

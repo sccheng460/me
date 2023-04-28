@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-04-27 20:31:28（北京时间） 
-! Total count: 7033
+! Version: 2023-04-28 09:23:09（北京时间） 
+! Total count: 7035
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1265,6 +1265,7 @@
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bokecc.com/flash/playlog?
 @@||bolha.com/clicktracker/
+@@||bombaytimes.com/*ads$script,other,~third-party
 @@||bombhopper.io/prebid.js
 @@||book.com.tw/image/getImage?
 @@||book.com.tw/image/getImage?$domain=books.com.tw
@@ -1825,6 +1826,7 @@
 @@||cnprint.org^$generichide
 @@||cnr.cn/gg/
 @@||cnsexy.top/wp-content/plugins/dh-anti-adblocker/assets/js/showads.js
+@@||cnt.streamz.ws/count.php
 @@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
 @@||cntv.cn/include/video/js/cntv_Advertise.js
 @@||cntv.cn^*_ad.js
@@ -3946,7 +3948,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zoomtventertainment.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=autokult.pl|bloomberg.co.jp|bsfuji.tv|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|pointmall.rakuten.co.jp|s.yimg.jp|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|univtec.com|video.tv-tokyo.co.jp|vlive.tv|voe.sx|webdunia.com|wowbiz.ro|wtk.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=autokult.pl|bloomberg.co.jp|bsfuji.tv|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|pointmall.rakuten.co.jp|s.yimg.jp|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|univtec.com|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wowbiz.ro|wtk.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=redefine.pl|redcdn.pl|polsatnews.pl|polsatsport.pl|twojapogoda.pl|geekweek.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=24ur.com
@@ -4949,6 +4951,7 @@
 @@||ok.ru/videoembed$stealth
 @@||ok.ru/web-api/music/conf$stealth
 @@||okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
+@@||oklivetv.com/*=*&$script,other,xmlhttprequest
 @@||oktatas.hu^$stealth=dpi
 @@||okteve.com/*&*=*&*&_=$xmlhttprequest,~third-party
 @@||olacast.live^$stealth
@@ -6944,7 +6947,6 @@
 @@||xxxxx520.com^$generichide
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
-@@||yandex.*/pogoda$extension
 @@||yandex.com/search/?$generichide
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru

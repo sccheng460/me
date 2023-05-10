@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-10 09:20:03（北京时间） 
-! Total count: 6607
+! Version: 2023-05-10 20:32:08（北京时间） 
+! Total count: 6611
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -187,6 +187,7 @@
 @@/uploads/*.m3u8$stealth,domain=agemys.net
 @@/urchin.js$domain=on.cc
 @@/videos/*$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion
+@@/viewad.$stylesheet,script,domain=adz7short.space|short.croclix.me|short.goldenfaucet.io
 @@/weborama.js$~third-party,domain=zertalious.xyz|digworm.io
 @@/webtracking/*$domain=pasts.lv
 @@/wp-content/*/social_$domain=servercat.me
@@ -716,7 +717,6 @@
 @@||amplitude.com/libs/amplitude-8.5.0-min.gz.js$script,domain=kink.com
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=arkadium.com
-@@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=crosswordsolver.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=arkadium.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=games.metv.com
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
@@ -1190,6 +1190,7 @@
 @@||bokecc.com/flash/playlog?
 @@||bolha.com/clicktracker/
 @@||bombaytimes.com/*ads$script,other,~third-party
+@@||bombhopper.io/prebid.js
 @@||book.com.tw/image/getImage?
 @@||book.com.tw/image/getImage?$domain=books.com.tw
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
@@ -2308,6 +2309,7 @@
 @@||fltaradio.com/js/ads.js
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flyert.com/plug/socialShare/js/social-share.
+@@||flying-lines.com/banners/$image,~third-party
 @@||flyordie.com/games/online/iframeafg*.html
 @@||focus.ti.com^*/metrics-min.js
 @@||football-lineups.com^$generichide
@@ -2357,6 +2359,7 @@
 @@||fux.com/adblockchecker.js
 @@||fwlive.crackle.com/ad/g/1$domain=crackle.com
 @@||fwmrm.net^*/AdManager.js$script
+@@||g.adspeed.net/ad.php?do=detectadblocker$domain=btcbunch.com
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com^*/banner_ad_
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
@@ -3323,6 +3326,7 @@
 @@||haiwai.com^$generichide
 @@||halykbank.kz/assets/js/fingerprint2.min.js
 @@||hammonline.de/statistik/piwik.js
+@@||hangouts.google.com^$stealth
 @@||hanjubaike.com^$script,~third-party
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
@@ -3789,6 +3793,7 @@
 @@||img.ads.tvb.com^
 @@||img.blesk.cz/js/base-cz/gemius.js
 @@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
+@@||img.noobzone.ru^$stealth
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -3835,7 +3840,6 @@
 @@||indeed.com/rpc/log/myjobs/transition_job_state$xmlhttprequest
 @@||indiatimes.com/configspace/
 @@||indiatimes.com/wp-content/themes/*/js/*ads*.js
-@@||indiegogo.com^$stealth
 @@||inews.gtimg.com^
 @@||info.seek.com/b/ss/$image,domain=seek.com.au
 @@||infojobs.com.br/mf-publicarea/_content/InfoJobs.Microfrontend.Components/js/smarttag.js
@@ -4422,6 +4426,7 @@
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||mojedatovaschranka.cz^$stealth=dpi
+@@||moly.cloud/*/*.m3u8$stealth
 @@||momovod.com/js/momo/adsbygoogle.js
 @@||monetate.net/img/$domain=consumerreports.org
 @@||monetate.net/js/$domain=consumerreports.org
@@ -5382,7 +5387,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=gamestar.de
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=gq-magazine.co.uk
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=news.tvb.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=sahibinden.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=sinarharian.com.my
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=topuniversities.com
@@ -5687,7 +5691,6 @@
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=tyla.com
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=unilad.co.uk|unilad.com
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
 @@||static.anyporn.com/bravoplayer/fluidplayer.js
@@ -6139,6 +6142,7 @@
 @@||tvid.in/sdk/*.js$domain=em.timesnownews.com
 @@||tvid.in/sdk/loader.js$domain=indiatimes.com|timesofindia.com|timesnownews.com|zoomtventertainment.com
 @@||tvid.in/sdk/loader.js$domain=tvid.in
+@@||tvizorcdn.ru/*.php$stealth
 @@||tvn.adocean.pl/*ad.xml$xmlhttprequest,domain=player.pl|get.x-link.pl
 @@||tvn24.pl^$generichide
 @@||tvnturbo.pl^$generichide
@@ -6266,7 +6270,6 @@
 @@||video.520cc.cc^$generichide
 @@||video.externulls.com/key=$stealth
 @@||video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
-@@||video.javhdporn.net^$stealth
 @@||video.oms.eu/crossdomain.xml$domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
 @@||video.qq.com/getvinfo?*&otype=*&host=*&refer=htt$domain=v.qq.com
@@ -6525,6 +6528,7 @@
 @@||xvideos.*/profiles/$elemhide,jsinject,extension,xmlhttprequest
 @@||xweb.instagram.com/ads/preferences/
 @@||xxxxx520.com^$generichide
+@@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||yandex.com/search/?$generichide

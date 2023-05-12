@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-12 09:21:02（北京时间） 
-! Total count: 6617
+! Version: 2023-05-12 20:30:41（北京时间） 
+! Total count: 6621
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -312,7 +312,6 @@
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
 @@||4cdn.org^$stealth
-@@||4channel.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4gtv.tv/4gtv/Data/GetAD.ashx
 @@||4horlover.com^$generichide
 @@||4spaces.org^$generichide
@@ -616,8 +615,6 @@
 @@||aeries.net^*/require/analytics/views/$script,~third-party
 @@||aetv.com^$generichide
 @@||aff.bstatic.com^$image,domain=tonkosti.ru
-@@||affiliates.sankmo.com/iframe-redirect$domain=getcashfree7.blogspot.com
-@@||affiliates.sankmo.com/iframe-redirect$domain=latestcooldeals.blogspot.com
 @@||affyun.com^$generichide
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||aflac.com/js/wt_capi.js
@@ -1403,6 +1400,7 @@
 @@||cdn.dimml.io/static/*.js$domain=consumentenbond.nl
 @@||cdn.doublemax.net/js/rwd_cap.js$domain=ibf.tw
 @@||cdn.dynamicyield.com^$domain=dafiti.com.co
+@@||cdn.evolutionadv.it/money.it/*.mp4$domain=money.it
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.games.mobinozer.com/shared/loader/advert.js
 @@||cdn.georiot.com/snippet.js$domain=techadvisor.co.uk
@@ -1427,6 +1425,7 @@
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
+@@||cdn.livechatinc.com/tracking.js$domain=g.network
 @@||cdn.livechatinc.com/tracking.js$domain=upc.pl
 @@||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
@@ -1506,6 +1505,7 @@
 @@||cdn.snigelweb.com/adengine/imagetotext.info/loader.js$domain=imagetotext.info
 @@||cdn.sorsware.com/bsl/ContentImages/Banner/*.gif$domain=bsl.com.tr
 @@||cdn.sssam.com/static/js/*.js
+@@||cdn.stat-rock.com/player/*player.js$domain=4shared.com
 @@||cdn.static.zdbb.net/js/zd-email.min.js$domain=pcmag.com
 @@||cdn.statically.io/img^$stealth
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|biququ.info|bookbao.me|bxwx.live|shenzu.org
@@ -2152,6 +2152,7 @@
 @@||edgesuite.net^*/ad.css?
 @@||edgesuite.net^*/frontend_webtrekk.js$domain=goertz.de
 @@||editor.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=add-panel-data$domain=editor.wix.com
+@@||edmodo.com/ads$~third-party,xmlhttprequest
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
 @@||educationcanada.com^$generichide
@@ -2161,6 +2162,7 @@
 @@||egbilisim.com.tr/wp-content/uploads/$image
 @@||egencia.com/pubspec/scripts/include/siteanalytics_include.js
 @@||egmobile.co.kr^$stealth=dpi
+@@||einthusan.tv/prebid.js
 @@||einthusan.tv/prebid.js$script,~third-party
 @@||einthusan.tv^$generichide
 @@||eircomphonebook.ie/js/wt_capi.js?
@@ -2297,7 +2299,6 @@
 @@||filejoker.net^$image,~third-party
 @@||fileone.tv/file/$domain=fileone.tv
 @@||files.mycloud.com/js/analytics/google_analytics.js$domain=files.mycloud.com
-@@||files.nextcdn.org/stream/$stealth,domain=animepahe.*|kwik.cx
 @@||files.slack.com^$image,~third-party
 @@||files.vitalitygames.com/games/webgl/PreloaderBG/*/game-ads.js
 @@||filespace.com^$generichide
@@ -3572,6 +3573,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=baltimoresun.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=beinsports.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bighero.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.witchhut.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
@@ -4245,6 +4247,7 @@
 @@||marketo.com//js/forms$script,stylesheet
 @@||marketo.com/index.php/form/
 @@||marketo.com/js/forms$script,stylesheet
+@@||marketools.plus500.com/Widgets/RegistrationWidget/*$domain=investing.com
 @@||marketplace.ofeminin.pl/static/$domain=lamoda.pl
 @@||marketplace.xbox.com^$document
 @@||masterkong.com.cn/adimages/
@@ -6536,6 +6539,7 @@
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
+@@||yandex.*/clck/jsredir?from=yandex.*%3Bsearch%2F%3Bweb%3B%3B$~third-party,~xmlhttprequest,~image,~other
 @@||yandex.com/search/?$generichide
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru

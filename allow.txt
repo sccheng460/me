@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-13 09:19:33（北京时间） 
-! Total count: 6627
+! Version: 2023-05-13 20:29:01（北京时间） 
+! Total count: 6622
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1028,9 +1028,7 @@
 @@||aveda.com/sites/aveda/themes/aveda_base/js/shared/analytics.min.js$script,~third-party
 @@||avgle.com/embed/$genericblock,generichide
 @@||avgle.com/embed/$stealth
-@@||avpgalaxy.net/advert.js
 @@||awaps.yandex.ru^$app=ru.yandex.searchplugin
-@@||aweprt.com/embed/fk?_=$domain=oklivetv.com|okteve.com
 @@||az416426.vo.msecnd.net/next/ai.2.min.js$domain=ams.cdn.arkadiumhosted.com
 @@||aztelekom.az^$stealth=dpi
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
@@ -1184,7 +1182,6 @@
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bluekai.com/online-choices^$domain=youronlinechoices.com
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
-@@||board4all.biz^$stealth
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bokecc.com/flash/playlog?
@@ -1327,7 +1324,6 @@
 @@||cdn-gl.imrworldwide.com/novms/js/*/nlsSDK*.eu.bundle.min.js$domain=joyn.de
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||cdn-net.com/cc.js
-@@||cdn-static.egybest.net/static/global/js/adblock.js
 @@||cdn-surfline.com/quiver/*/scripts/$domain=surfline.com
 @@||cdn.adguard.com/public/$domain=adguard.com|adguard.ru
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
@@ -3430,7 +3426,6 @@
 @@||hm.baidu.com/hm.gif$image,domain=clgod.com
 @@||hmvod.com.hk/website/static/skin/images/share/
 @@||hobbyking.com^*/gtm.js$script,~third-party
-@@||hollaforums.com/js/adcash.js
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||homedepot.com/static/scripts/resxclsa.js
 @@||hopto.org/js/prebid-ads.
@@ -3592,6 +3587,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=docbao.vn
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=drphil.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
@@ -3958,7 +3954,6 @@
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.datadome.co/tags.js^$domain=hermes.com
-@@||js.digitalriverws.com/*/components/$stealth
 @@||js.dmtry.com/channel.js$domain=zillow.com
 @@||js.dogannet.tv/q/s/player/html5^
 @@||js.iplsc.com/inpl.abd/*/proxy.html?host=$generichide
@@ -4228,7 +4223,6 @@
 @@||mail.td^$generichide
 @@||mail.yahoo.com/neo/ymstat$xmlhttprequest
 @@||makeuseof.com/public/build/images/bg-advert-with-us.$~third-party
-@@||mamahd.com^$generichide
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||mangadex.*/images^
@@ -4605,7 +4599,6 @@
 @@||noizz.pl/*&srcc=ucs$removeparam=utm_source
 @@||noodid.ee/chordQuiz/$~third-party
 @@||notafree.host^$generichide
-@@||note.sieuthuthuat.com/js/prebid-ads.js
 @@||nowscore.com/script/common/adHelper.js
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
 @@||np.community.playstation.net^$stealth
@@ -4756,6 +4749,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=4spaces.org|aboluowang.com|chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=anime-king.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
@@ -5483,7 +5477,6 @@
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
 @@||sh.st$generichide
-@@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
 @@||share.9cdn.net/share/long_cache/js/tracking/tracking.*.min.js$domain=nine.com.au
 @@||share.baidu.com^$script,stylesheet,domain=k73.com
@@ -5503,6 +5496,7 @@
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
+@@||shortadd.com^$generichide
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
 @@||showcase.codethislab.com/banners/$image,~third-party
@@ -6303,6 +6297,7 @@
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
 @@||vidtech.cbsinteractive.com^*/AkamaiAnalytics.swf$domain=kuathletics.com|mutigers.com|okstate.com
+@@||vidtodo.com^$image,script,stylesheet,xmlhttprequest,domain=vidtodo.com
 @@||view.atdmt.com^$domain=starwoodhotels.com
 @@||viid.me^$generichide
 @@||vikistream.com/embed$stealth

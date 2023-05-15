@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-15 09:23:48（北京时间） 
-! Total count: 6625
+! Version: 2023-05-15 20:33:36（北京时间） 
+! Total count: 6621
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -160,6 +160,7 @@
 @@/owa/service.svc$document
 @@/pdc_s_code.js$domain=adobe.com
 @@/piwik-$domain=github.com
+@@/pl/js/detect-adblock/*.js$domain=ddwloclawek.pl|ddtorun.pl
 @@/playlist.m3u8$stealth
 @@/pop.js|$domain=pornve.com
 @@/pub/ad/*$domain=ruten.com.tw
@@ -184,7 +185,6 @@
 @@/tracking.php?id$domain=a1.express
 @@/tracking.php?id$domain=esisk.de
 @@/unadblock/adjs_$domain=hepan.com
-@@/uploads/*.m3u8$stealth,domain=agemys.net
 @@/urchin.js$domain=on.cc
 @@/videos/*$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion
 @@/viewad.$stylesheet,script,domain=adz7short.space|short.croclix.me|short.goldenfaucet.io
@@ -454,7 +454,6 @@
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad.dotandad.com/mediamond_vm.jsp$domain=video.mediaset.it
-@@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||ad.doubleclick.net/clk;$urlblock
 @@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*?https://creditcards.chase.com/
@@ -903,7 +902,6 @@
 @@||api.phnx.click/js/article-stat-v2.js$domain=smak.ua
 @@||api.playstation.com^$stealth
 @@||api.solvemedia.com/papi/
-@@||api.solvemedia.com^$stealth
 @@||api.spendino.de/admanager^
 @@||api.splice.com/www/advertisement/community-explore$domain=splice.com
 @@||api.taboola.com/2.0/json/*/recommendations.$domain=azby.fmworld.net
@@ -1460,7 +1458,6 @@
 @@||cdn.petametrics.com^$script,domain=comics.mecha.cc
 @@||cdn.playwire.com/bolt/js/zeus/embed.js$domain=abcya.com
 @@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
-@@||cdn.plyr.io/*/plyr.svg$domain=zippyshare.com
 @@||cdn.popt.in/pixel.js$domain=userstyles.org
 @@||cdn.privatehost.com/videos*/$removeparam
 @@||cdn.qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
@@ -1569,7 +1566,6 @@
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=sport-tv-guide.live
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=televisiongratishd.com
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=androidaba.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=papalah.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=sadistic.pl
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.js$domain=ouo.press|ouo.io
@@ -1765,6 +1761,7 @@
 @@||collect.igodigital.com/collect.js$domain=wilsonparking.com.au
 @@||collect.igodigital.com^$domain=m.harborfreight.com
 @@||collector-*.px-client.net/res/uc$domain=walmart.com
+@@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collector.wawlabs.com/mediamarkt.js$domain=mediamarkt.com.tr
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
@@ -2358,6 +2355,7 @@
 @@||friendbuy.com^$domain=butcherbox.com
 @@||frosmo.com^$image,xmlhttprequest,domain=karkkainen.com
 @@||fscinda.com/ad/$~third-party
+@@||fuckadblock.sitexw.fr^$generichide
 @@||fullhdfilm.pro/_video_onu_yeni.php$domain=fullhdfilm.pro
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
@@ -3443,6 +3441,7 @@
 @@||hqq.to/e/$generichide
 @@||hqq.to/js/adv/fuckadblock.js
 @@||hqq.tv/*player/*.php$popup
+@@||hqq.tv/js/optscript/script
 @@||hqq.tv/player/embed_player.php$stealth
 @@||hr-online.de/website/includes/webanalyse/xtcore.js
 @@||href.li$document
@@ -3596,6 +3595,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=express.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=flipboard.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=fox.com.tr
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=fptplay.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=funimation.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.gamesplaza.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metv.com
@@ -4710,7 +4710,6 @@
 @@||opensubtitles.org/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||openx.gamereactor.dk/www/delivery/fc.php?script=bannerTypeHtml:vastInlineBannerTypeHtml:vastInlineHtml$domain=gamereactor.de
 @@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
-@@||optimize-stats.voxmedia.com/loader.min.js$domain=theverge.com
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
 @@||optimizely.com/datafiles/$domain=alaskaair.com|guildeducation.com|hm.com|nike.com|printify.me|talktalk.co.uk|tommy.com|wallapop.com
 @@||optimizely.com/js/geo2.js$domain=cbs.com
@@ -5675,7 +5674,6 @@
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
 @@||stapewithadblock.monster^$generichide
 @@||star-telegram.com/mistats/sites/dfw/startelegram.js
-@@||start-player.npo.nl/video/$stealth
 @@||startpage.com/js/abp.js^
 @@||startribune.com/analytics-assets/sitecatalyst/appmeasurement.js$~third-party
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
@@ -5701,7 +5699,6 @@
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=tyla.com
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
@@ -5997,7 +5994,6 @@
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
 @@||thumbnail*.coupangcdn.com/thumbnails/$stealth,image
 @@||thumbor.thedailymeal.com^
-@@||thurrott.com/wp-content/themes/theme/assets/dist/scripts/wp-banners.js
 @@||tianxun.com/min/f=
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
 @@||ticketmaster.sc.omtrdc.net/b/ss/

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-15 20:33:36（北京时间） 
-! Total count: 6621
+! Version: 2023-05-16 09:23:45（北京时间） 
+! Total count: 6624
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -4300,6 +4300,7 @@
 @@||mcs.snssdk.com/*/user/webid$domain=lv.ulikecam.com
 @@||mealty.ru/js/ga_events.js$~third-party
 @@||mec.ca/media/javascript/resxclsx.js
+@@||media-files.bunkr.ru^$media,stealth
 @@||media-imdb.com^$stealth,domain=imdb.com
 @@||media-imdb.com^*/clickstream.js
 @@||media.bnd.com/mistats/finalizestats.js
@@ -5078,6 +5079,7 @@
 @@||public-api.reviews.2gis.com^$stealth
 @@||public-ubiservices.ubi.com^$stealth
 @@||publicwww.com^$generichide
+@@||publisher-network.com/publisher/evrensel/$domain=evrensel.net
 @@||puma.112.2o7.net^
 @@||push2check.com/stats.php
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
@@ -6283,6 +6285,7 @@
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
 @@||video.qq.com/getvinfo?*&otype=*&host=*&refer=htt$domain=v.qq.com
 @@||video.repubblica.it^*/nielsen.js
+@@||video.xpembed.me/remote_control.php$stealth
 @@||videobug.se/advertisement.js
 @@||videogamesblogger.com^$csp
 @@||videoplaza.tv/proxy/pulse-sdk-html*latest.min.js$domain=mtvuutiset.fi

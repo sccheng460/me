@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-16 20:34:47（北京时间） 
-! Total count: 6622
+! Version: 2023-05-17 09:23:49（北京时间） 
+! Total count: 6623
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -4921,6 +4921,7 @@
 @@||pixel.quantserve.com/seg/r;a=$domain=cbs.com|filefront.com|imdb.com|laobserved.com|tv.com
 @@||pixlr.com^$content,jsinject
 @@||pl-play.adtonos.com^$domain=radio-internetowe.com
+@@||pl-play.adtonos.com^$domain=tokfm.pl
 @@||places.mercedes-benz.com/*/adrum.js
 @@||pladform.ru/dive/$xmlhttprequest
 @@||pladform.ru/player$subdocument

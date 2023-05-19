@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-18 20:32:52（北京时间） 
-! Total count: 6618
+! Version: 2023-05-19 09:22:57（北京时间） 
+! Total count: 6620
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -920,6 +920,7 @@
 @@||app-sjf.marketo.com^$domain=live.altium.com
 @@||app.adjust.world^$app=com.spotify.music
 @@||app.clarity.so^$~third-party
+@@||app.humanornot.ai^$stealth
 @@||app.khz.se/api/*&ad_type=preroll-channel$domain=ilikeradio.se
 @@||app.message.sonicwall.com^
 @@||app.pangolin.exchange/assets/analytics-$~third-party
@@ -2270,7 +2271,7 @@
 @@||fang.com/stats/clickm2011.js
 @@||fangcloud.com^$generichide
 @@||fas.li^$generichide
-@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com
+@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com|westrive.com
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fastmail.com^$generichide
 @@||fastssh.com/dfp.min.js
@@ -5486,6 +5487,7 @@
 @@||share.flipboard.com/bookmarklet/$document
 @@||share1223.com^$generichide
 @@||shijue.me/advertise/getList?
+@@||shikimori.*/comments/*/edit$extension
 @@||shinden.pl^$generichide
 @@||shine.cn/showadcode2.asp?posid=68&
 @@||shink.in$generichide

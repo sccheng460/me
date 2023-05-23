@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-23 09:22:56（北京时间） 
-! Total count: 6627
+! Version: 2023-05-23 20:32:17（北京时间） 
+! Total count: 6629
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -133,6 +133,7 @@
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/hls/*.m3u8$stealth
 @@/home/ads/*$domain=esunbank.com.tw
+@@/iframe*.php$subdocument,stealth,domain=dizipal546.com|dizipal547.com|dizipal548.com|dizipal549.com|dizipal550.com|dizipal551.com|dizipal552.com|dizipal553.com|dizipal554.com|dizipal555.com|dizipal556.com|dizipal557.com|dizipal558.com|dizipal559.com|dizipal560.com|dizipal561.com|dizipal562.com|dizipal563.com|dizipal564.com|dizipal565.com|dizipal566.com|dizipal567.com|dizipal568.com|dizipal569.com|dizipal570.com|dizipal571.com|dizipal572.com|dizipal573.com|dizipal574.com|dizipal575.com|dizipal576.com|dizipal577.com|dizipal578.com|dizipal579.com|dizipal580.com|dizipal581.com|dizipal582.com|dizipal583.com|dizipal584.com|dizipal585.com|dizipal586.com|dizipal587.com|dizipal588.com|dizipal589.com|dizipal590.com|dizipal591.com|dizipal592.com|dizipal593.com|dizipal594.com|dizipal595.com|dizipal596.com|dizipal597.com|dizipal598.com|dizipal599.com|dizipal600.com|dizipal601.com|dizipal602.com|dizipal603.com|dizipal604.com|dizipal605.com|dizipal606.com|dizipal607.com|dizipal608.com|dizipal609.com|dizipal610.com|dizipal611.com|dizipal612.com|dizipal613.com|dizipal614.com|dizipal615.com|dizipal616.com|dizipal617.com|dizipal618.com|dizipal619.com|dizipal620.com|dizipal621.com|dizipal622.com|dizipal623.com|dizipal624.com|dizipal625.com|dizipal626.com|dizipal627.com|dizipal628.com|dizipal629.com|dizipal630.com|dizipal631.com|dizipal632.com|dizipal633.com|dizipal634.com|dizipal635.com|dizipal636.com|dizipal637.com|dizipal638.com|dizipal639.com|dizipal640.com|dizipal641.com|dizipal642.com|dizipal643.com|dizipal644.com|dizipal645.com|dizipal646.com|dizipal647.com|dizipal648.com|dizipal649.com|dizipal650.com|dizipal651.com|dizipal652.com|dizipal653.com|dizipal654.com|dizipal655.com|dizipal656.com|dizipal657.com|dizipal658.com|dizipal659.com|dizipal660.com|dizipal661.com|dizipal662.com|dizipal663.com|dizipal664.com|dizipal665.com|dizipal666.com|dizipal667.com|dizipal668.com|dizipal669.com|dizipal670.com|dizipal671.com|dizipal672.com|dizipal673.com|dizipal674.com|dizipal675.com|dizipal676.com|dizipal677.com|dizipal678.com|dizipal679.com|dizipal680.com|dizipal681.com|dizipal682.com|dizipal683.com|dizipal684.com|dizipal685.com|dizipal686.com|dizipal687.com|dizipal688.com|dizipal689.com|dizipal690.com|dizipal691.com|dizipal692.com|dizipal693.com|dizipal694.com|dizipal695.com|dizipal696.com|dizipal697.com|dizipal698.com|dizipal699.com|dizipal700.com
 @@/image/ad/*$domain=gashpoint.com
 @@/image/share_$domain=pan.baidu.com
 @@/images/*/*.gif$domain=maichun5.info|myhhg.com
@@ -872,7 +873,6 @@
 @@||api.ebay-kleinanzeigen.de/api/ads/
 @@||api.ebay-kleinanzeigen.de/api/ads/*.json$app=com.ebay.kleinanzeigen
 @@||api.enthusiastgaming.net^$xmlhttprequest,domain=diep.io
-@@||api.friends.ponta.jp/api/$~third-party
 @@||api.fw.tv/embed/$domain=filmibeat.com
 @@||api.gamer.com.tw/mobile_app/anime/*/stat_ad.php
 @@||api.geetest.com^$stealth
@@ -1213,6 +1213,7 @@
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
+@@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browser.yandex.*/sync/$stealth
 @@||browserleaks.com/img/9.gif$domain=browserleaks.com
@@ -1411,7 +1412,6 @@
 @@||cdn.georiot.com/snippet.js$domain=webwereld.nl
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
-@@||cdn.http.anno.channel4.com^$domain=channel4.com
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.interactivemedia.net/live/Med1.de/live/globalAdTag.min.js$domain=med1.de
 @@||cdn.jetcdn.co/reklam-button.png
@@ -2302,6 +2302,7 @@
 @@||fharr.com^$generichide
 @@||fifa.com^*/webanalytics.js?
 @@||file-upload.com/js/advertisement.js
+@@||file.myqcloud.com/*.mp4?token=$stealth
 @@||filecheck.ru^$elemhide
 @@||filecity.co.kr^$stealth=dpi
 @@||fileflares.com^$generichide
@@ -2864,6 +2865,7 @@
 @@||googleads.g.doubleclick.net/favicon.ico$app=com.ftt.boxingstar.gl.aos
 @@||googleads.g.doubleclick.net/mads/gma?*&_package_name=com.nextradiotv.bfmbusiness
 @@||googleads.g.doubleclick.net/mads/gma?request_id=*&_package_name=com.nextradiotv.bfmbusiness
+@@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-$domain=dl.ccbluex.net
 @@||googleads.g.doubleclick.net/pagead/html$domain=repo.hackyouriphone.org
 @@||googleads.g.doubleclick.net^$app=com.google.android.apps.cultural
 @@||googleads.g.doubleclick.net^$app=com.thoptv.livetvstream
@@ -2975,6 +2977,7 @@
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|support.amd.com|warnermusic.com.tw
 @@||googletagmanager.com/gtm.js$domain=auone.jp
 @@||googletagmanager.com/gtm.js$domain=avast.com
+@@||googletagmanager.com/gtm.js$domain=bbcgoodfood.com
 @@||googletagmanager.com/gtm.js$domain=beleuchtung.de
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua
@@ -3294,7 +3297,6 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
 @@||googletagservices.com/tag/js/gpt.js$domain=ukr.net
-@@||googletagservices.com/tag/js/gpt.js$domain=weather.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
 @@||gooogle.how^$generichide
@@ -3490,6 +3492,7 @@
 @@||i.pximg.net/*/img/$stealth,domain=pixiv.net
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
 @@||i.snssdk.com/slardar/sdk$domain=ixigua.com
+@@||i.tmgrup.com.tr^$script,stealth
 @@||i.y.qq.com/*.html?ADTAG=
 @@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
 @@||i2.bahamut.com.tw/JS/ad/animeVideo.js^$domain=ani.gamer.com.tw
@@ -3671,7 +3674,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.glomex.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.motorsport-magazin.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.pl|vod.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.theplatform.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=plex.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pluscdn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poki-gdn.com|repuls.io
@@ -3810,7 +3812,6 @@
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
 @@||img.ads.tvb.com^
 @@||img.blesk.cz/js/base-cz/gemius.js
-@@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.noobzone.ru^$stealth
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
@@ -4329,6 +4330,7 @@
 @@||media.wired.it/static_wired/js/misc/cn-adv.js
 @@||mediacdn.disqus.com^$document
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
+@@||medialaancdn.be^$generichide
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
 @@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -4396,7 +4398,6 @@
 @@||middleware.p7s1.io^$app=at.zappn
 @@||mil.by^$stealth=dpi
 @@||milb.com/shared/scripts/bam.tracking.js
-@@||milffox.com/player/config.php
 @@||milfzr.com^$generichide
 @@||minecraft-forum.net/v/adblock-detection-master/advert.js
 @@||mingle.kijiji.ca/api/ads/
@@ -4610,6 +4611,7 @@
 @@||nohup.it/js/webtrekk_js-media.js$domain=radioitalia.it
 @@||noizz.pl/*&srcc=ucs$removeparam=utm_source
 @@||noodid.ee/chordQuiz/$~third-party
+@@||nosteamgames.ro/notcaptcha/adheader.js
 @@||notafree.host^$generichide
 @@||nowscore.com/script/common/adHelper.js
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
@@ -4629,6 +4631,7 @@
 @@||numerade.com/static/videojs-event-tracking$~third-party
 @@||nvidia.cn^*-300x250-
 @@||nwolb.com^
+@@||ny.gov^$stealth
 @@||nyandcompany.com^*/resxclsa.js$domain=nyandcompany.com
 @@||nymag.com/decor/javascript/magnify_stats.js
 @@||nymag.com/vltr/scripts/analytics.js$domain=vulture.com
@@ -5036,6 +5039,7 @@
 @@||promods.net/*.js$~third-party
 @@||protagcdn.com/check-bot/index.html$subdocument,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
 @@||protagcdn.com/s/dropgalaxy.com/site.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com
+@@||proton.me/static/*/google-ads-blog.webp
 @@||protopage.com^$generichide
 @@||przegladsportowy.pl/*&srcc=ucs$removeparam
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
@@ -5387,7 +5391,6 @@
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=cinemaxx.de
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
-@@||securepubads.g.doubleclick.net/gampad/ads?$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=15min.lt
 @@||securepubads.g.doubleclick.net/gampad/ads^$domain=theatlantic.com
 @@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
@@ -6383,7 +6386,6 @@
 @@||wazimo.com/engine/common/widgets/content/$domain=showsnob.com
 @@||wazimo.com/engine/common/widgets/content/main.js$domain=showsnob.com
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
-@@||wcoanimedub.tv/inc/embed/ads.js
 @@||wcs.naver.net/wcslog.js$domain=ciokorea.com|adpiamall.com|live.joins.com|naver.com|jbe.go.kr|privatenote.co.kr|dabangapp.com|kyobobook.co.kr
 @@||wd.adcolony.com^|$app=com.jellybtn.cashkingmobile
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com

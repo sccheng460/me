@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-25 20:33:45（北京时间） 
-! Total count: 6585
+! Version: 2023-05-26 09:22:57（北京时间） 
+! Total count: 6586
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -178,7 +178,7 @@
 @@/site/ad/*$domain=islide.cc
 @@/site=*/size=*/viewid=$domain=morningstar.in
 @@/social-share.$domain=patentguru.com
-@@/static/ad/main.$domain=bbmen.top|bbmei.top
+@@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
 @@/themes/flow/frontend_assets/js/advertisement.js|$~third-party
 @@/tpc.googlesyndication.com\/simgad\/\d+/$image,domain=dragontea.ink
@@ -5763,6 +5763,7 @@
 @@||stream.nbcsports.com/assets/page/general/ads.js
 @@||stream.voidboost.cc^$stealth
 @@||stream4free.live^$generichide
+@@||streamhide.*/js/dnsads.js?$script,domain=streamhide.to
 @@||streamingcommunity.*/*$xmlhttprequest,~third-party
 @@||streamlare.com^$subdocument
 @@||streamlive.to^$generichide

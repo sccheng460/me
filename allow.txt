@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-27 09:23:07（北京时间） 
-! Total count: 6577
+! Version: 2023-05-27 20:29:36（北京时间） 
+! Total count: 6578
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -4209,6 +4209,7 @@
 @@||mamahd.com^$generichide
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
+@@||management.azure.com^$stealth=3p-auth
 @@||mangadex.*/images^
 @@||mangalist.org/url/lib/adbanner.js
 @@||mangapark.net^$image
@@ -5655,7 +5656,6 @@
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
 @@||static.adf.ly/static/image/
 @@||static.adman.gr^$domain=naftemporiki.gr
-@@||static.ads-twitter.com/uwt.js$domain=hentai.guru|hentaihaven.vip
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
@@ -6134,6 +6134,7 @@
 @@||txxx.com/embed/$stealth
 @@||tycoon.adspirit.net/adview.php^$domain=streetdir.com|roaddir.com
 @@||type.jp/common/js/clicktag.js
+@@||typhoon.zjwater.gov.cn^$stealth
 @@||uaprom.net/image/blank.gif?$image
 @@||uceprotect.net^$stealth
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party

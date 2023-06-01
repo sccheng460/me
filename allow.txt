@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-05-31 20:33:40（北京时间） 
-! Total count: 6522
+! Version: 2023-06-01 10:02:52（北京时间） 
+! Total count: 6519
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -86,6 +86,7 @@
 @@/adview_*_ads_300x250.js$domain=yaociyuan.bid
 @@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
+@@/advt.png$domain=freevpn4you.net
 @@/adx.$domain=tanx.com
 @@/analytics.php?$domain=xcar.com.cn
 @@/api/ad/*$domain=pinduoduo.com
@@ -533,6 +534,7 @@
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
 @@||adpop.me^$domain=adpop.me
+@@||adrinolinks.in^$stealth
 @@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-api.twitter.com/*/apps?app_store_identifiers=$domain=analytics.twitter.com
@@ -2431,7 +2433,6 @@
 @@||gelbooru.com/script/jquery*.js
 @@||gelbooru.com/script/lazyload.js
 @@||gelbooru.com^$generichide
-@@||gem.cbc.ca/public/vendor/comscore.js$script,~third-party
 @@||gemius.pl/gplayer.js$domain=tsn.ua
 @@||gemius.pl/gplayer.js$script,third-party
 @@||gemius.pl/gstream.js
@@ -3523,7 +3524,6 @@
 @@||images.bestbuy.com^$domain=bestbuy.com
 @@||images.boosty.to^$stealth
 @@||images.gmanetwork.com/res/dist/js/adsTracking.gz.js
-@@||images.news18.com^*/comscore.min.js$script,~third-party
 @@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
 @@||images.taboola.com^$domain=samsung.com|thestartmagazine.com|taboolanews.com
 @@||imasdk.googleapis.com$app=com.digiturk.ligtv
@@ -4004,7 +4004,6 @@
 @@||kingofshrink.com^$generichide
 @@||kiplinger.112.2o7.net^
 @@||kissasian.li/*/*?id=$popup
-@@||kissfm.es/wp-content/themes/kissfm/assets/js/comscore.js$~third-party
 @@||kissjav.com^$generichide
 @@||kizi.com/assets/*advertisement-*.js
 @@||kk665403.pixnet.net^$generichide
@@ -4098,7 +4097,6 @@
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
-@@||live.bbc.co.uk^*/comscore.js$~third-party
 @@||live.indiatimes.com/trackjs.cms
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/*.aac
@@ -5463,7 +5461,6 @@
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteanalytics.compete.com^$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
-@@||siteintercept.qualtrics.com^$domain=homedepot.com
 @@||sitestat.com/abp/abp/s?$domain=abp.nl
 @@||sitestat.com/crossdomain.xml$domain=abp.nl
 @@||sitestat.com/europcar/europcar-de/*&ns_url=http://microsite.europcar.com/deutschebahn/$subdocument,domain=bahn.de

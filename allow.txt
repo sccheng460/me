@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-02 20:34:10（北京时间） 
-! Total count: 6523
+! Version: 2023-06-03 09:42:53（北京时间） 
+! Total count: 6522
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1976,6 +1976,7 @@
 @@||diginetica.net^$domain=reg.megabitcomp.ru
 @@||digit77.com^$generichide
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
+@@||digitrend.it/wonder-marketing/assets/wordpress/js/videojs.ga.js?$script,domain=vrsicilia.it
 @@||digworm.io^$generichide
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||dijitalx.com/wp-content/uploads/2016/12/digital_advertising.jpg
@@ -3318,7 +3319,6 @@
 @@||haberler.com/static/video-js/video-ads.js
 @@||hach.de^*/emstrack.js
 @@||hackingwithphp.com/js/adsbygoogle.js
-@@||hackintoshzone.com^$generichide
 @@||haiwai.com^$generichide
 @@||hakurei.ga/bin2img/wasm_export_bg.wasm$~third-party
 @@||halykbank.kz/assets/js/fingerprint2.min.js
@@ -4961,7 +4961,6 @@
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=embed.rtl.hu
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
-@@||production-static.ondemandkorea.com/vendor/prebid/prebid*.*.js
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party

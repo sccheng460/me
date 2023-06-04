@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-04 09:59:22（北京时间） 
-! Total count: 6524
+! Version: 2023-06-04 20:30:00（北京时间） 
+! Total count: 6522
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -866,6 +866,7 @@
 @@||api.geetest.com^$stealth
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.github.com^$stealth
+@@||api.hostemb.ws^$stealth
 @@||api.imgur.com^$stealth
 @@||api.infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js
 @@||api.ip.sb/geoip$domain=ip.skk.moe
@@ -921,7 +922,6 @@
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||appcdn01.xyz/vast.js
-@@||appgw.ess.tencent.cn^$stealth
 @@||apple.com/metrics/ac-analytics/*/scripts/$domain=apple.com
 @@||apple.com/metrics/data-relay/*/scripts/data-relay.js
 @@||apple.com/metrics/scripts/$domain=locate.apple.com
@@ -968,7 +968,6 @@
 @@||assets.hc.com.tr/images/banners/$domain=hc.com.tr
 @@||assets.hcaptcha.com/captcha/
 @@||assets.macys.com/dyn_img/site_ads/
-@@||assets.msn.com/bundles/v*/edgeChromium/latest/native-ad-sales-highlight-v*.js$domain=ntp.msn.com
 @@||assets.sport1.de/bundles/
 @@||assets.vlitag.com/prebid/default/prebid-*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
 @@||assetstore.unity.com/packages/*?aid=*&utm_$removeparam
@@ -1979,6 +1978,7 @@
 @@||digworm.io^$generichide
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||dijitalx.com/wp-content/uploads/2016/12/digital_advertising.jpg
+@@||directline.botframework.com^$stealth
 @@||directline.com/touchclarity/$script
 @@||disaportal.gsi.go.jp/maps/js/counter.js
 @@||discord.com^$generichide
@@ -2071,6 +2071,7 @@
 @@||dragontea.ink^$generichide
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
+@@||driverseddirect.com/html5/$document
 @@||drop*.dropmefile.com^$stealth
 @@||dropbox.com/*/oauth$document
 @@||dropbox.com^$generichide
@@ -4274,6 +4275,7 @@
 @@||media.ticketmaster.*/click_track.js
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
 @@||media.wired.it/static_wired/js/misc/cn-adv.js
+@@||mediacdn.disqus.com^$document
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
 @@||medialaancdn.be^$generichide
 @@||mediamarkt.com.tr^$genericblock
@@ -4293,7 +4295,6 @@
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.com/fileserver/ad/img/
 @@||mellowads.com/*icon.$image,domain=mellowads.com
-@@||mellowads.com^$stylesheet,domain=mellowads.com
 @@||member.aetna.com/appConfig/
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||messenger.com^$extension
@@ -4408,7 +4409,6 @@
 @@||motherless.com/favorites/
 @@||motherless.com/scripts/mobile^
 @@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
-@@||motortrader.com.my/advert/$image,~third-party
 @@||moulinex.com/js/xtroi.js
 @@||movie.momo-net.com/_embed/video.php$domain=german-porno-deutsch.info
 @@||movie2free.com/wp-content/themes/next/images/nav-bullet
@@ -4477,7 +4477,6 @@
 @@||mylivesignature.com/js/adblocker.js
 @@||mynewsmedia.co^$generichide
 @@||myqqjd.com^$generichide
-@@||mysmth.net/nForum/*/ADAgent_$~third-party
 @@||myssl.com/scripts/analyze.js
 @@||myvidster.com/processor.php
 @@||mywot.com/*/confirmNewEmail/$removeparam
@@ -4827,6 +4826,7 @@
 @@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piaotian5www.cdn.bcebos.com^$script,domain=piaotian5.net
+@@||pic*.cdncl.net^$stealth,domain=cowlevel.net
 @@||piccool.com/2home/phpAdsNew/
 @@||pics.porndroids.com^
 @@||picsearch.com/js/comscore.js$domain=dn.se
@@ -5402,9 +5402,6 @@
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||sf*-*cdn-tos.pstatp.com^$domain=bcy.net|agefans.cc
 @@||sf*-*cdn-tos.pstatp.com^$domain=juejin.cn
-@@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/_static/$script,domain=kosmofoto.com
-@@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-content/$script,domain=kosmofoto.com
-@@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
 @@||sh.st$generichide
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
@@ -5526,7 +5523,6 @@
 @@||sonic-ui.highereducation.com/latest/ucl.adapter.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/ucl.publisher.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/vendor.js$domain=thebestschools.org
-@@||sonichits.com^$generichide
 @@||sonichits.com^$generichide,badfilter
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
 @@||soranews24.com/wp-content/themes/rocketnews-en/js/prebid.js
@@ -5883,7 +5879,9 @@
 @@||thegay.com/assets//jwplayer-*/jwplayer.js|$domain=thegay.com
 @@||thegay.com/assets//jwplayer-*/provider.hlsjs.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
+@@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/jwplayer.js|$domain=thegay.com
+@@||thegay.com/assets/jwplayer-*/provider.hlsjs.js|$domain=thegay.com
 @@||thegay.com/upd/*/assets/preview*.js|$domain=thegay.com
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
 @@||thegioididong.com^$stealth=dpi
@@ -6198,6 +6196,7 @@
 @@||video*.xhcdn.com/key=$stealth
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide
+@@||video.externulls.com/key=$stealth
 @@||video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
 @@||video.oms.eu/crossdomain.xml$domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
@@ -6263,7 +6262,6 @@
 @@||w88.espn.com/id?$domain=espn.com
 @@||w88.go.com/id?$domain=espn.com
 @@||w88.go.com^$domain=abc.go.com
-@@||waaw.tv/js/adv/fuckadblock.js
 @@||walla.co.il^$csp
 @@||wallpapers.ispazio.net/advert^
 @@||wallpapershome.com/scripts/ads.js

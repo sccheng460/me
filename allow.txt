@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-07 09:48:28（北京时间） 
-! Total count: 6517
+! Version: 2023-06-07 20:33:26（北京时间） 
+! Total count: 6511
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -401,7 +401,6 @@
 @@||aax.amazon-adsystem.com^$domain=mylifetime.com
 @@||ab.blogs.es/abtest.png?editorialRecommendations$domain=applesfera.com
 @@||abchina.com^*ad
-@@||abema-tv.com^$domain=abema.tv,stealth=3p-auth
 @@||aboluowang.com^$generichide
 @@||about-australia.com/*/clickheat.js
 @@||acceptable.a-ads.com/1^$domain=go.freetrx.fun
@@ -482,7 +481,6 @@
 @@||adblockanalytics.com/wp-banners.js|
 @@||adblockplus.org^$generichide
 @@||adbull.me^$generichide
-@@||adbull.me^$stealth
 @@||adcdn.pingan.com^
 @@||adclear.teufel.de^*/acv?*&ms=http$image,domain=gewinnspiele.freenet.de
 @@||adconsole.ch/api/ws-businessclick/*/data.json$domain=finanzen.ch
@@ -1221,7 +1219,6 @@
 @@||bunchball.net/scripts/cookies/current/NitroCookies.js$domain=mtvema.com
 @@||bundesliga.de/js/xtcore.js
 @@||burzowo.info/*.js?&
-@@||business-standard.com/ad/banner.js
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||businessinsider.com.pl/*&srcc=ucs$removeparam=utm_source
 @@||buyad.bi-xenon.cn^
@@ -1300,6 +1297,7 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
+@@||cdn*.esimg.jp/resize/*/image/nativead/
 @@||cdn*.jianshu.io^$stealth
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
 @@||cdn-gl.imrworldwide.com/conf/*.js#name=nlsnInstance$domain=joyn.de
@@ -1530,7 +1528,6 @@
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=theverge.com
 @@||cdn.wazimo.com/engine/common/js/$domain=showsnob.com
 @@||cdn.wazimo.com/media/images/$domain=showsnob.com
-@@||cdn.witchhut.com/network-js/witch-afg/ima3.js$domain=witchhut.com
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||cdnb.4strokemedia.com^$domain=video.corriere.it
@@ -1607,7 +1604,6 @@
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||chat.openai.com^$stealth
 @@||chatzy.com/?jsonp:$script
-@@||chaynikam.info^$stealth
 @@||check.ddos-guard.net/check.js
 @@||check.ddos-guard.net/check.js$script
 @@||checkfresh.com/js/prebid-ads.js
@@ -1830,6 +1826,7 @@
 @@||crackle.com/vendor/adex.js
 @@||crazygames.com/prebid.js$script,~third-party
 @@||crazygames.com^$content
+@@||crbmpurga.ru/files/files/ads/$image
 @@||create.jd.com/ad/
 @@||creativecloud-deliver.bytedance.com/api/webardeliver/verify$stealth,domain=capcut.cn
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
@@ -3598,7 +3595,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=html5.gamedistribution.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=in.gr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jezebel.com|theonion.com|thetakeout.com|avclub.com|deadspin.com|theroot.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
@@ -3790,6 +3786,7 @@
 @@||imgfx02.xyz/chapters/$stealth,image
 @@||imgiz.com/rshots/*/reklam-$image,domain=izlesene.com
 @@||imgtaxi.com/img-*.html
+@@||imgtn.bdimg.com^$stealth
 @@||imgur.com/min/px.js$~third-party
 @@||imgwallet.com/advertisement.js
 @@||imobiliare.ro/js/gtm.js$script,~third-party
@@ -4416,7 +4413,6 @@
 @@||moyu.im/*.jpg$stealth
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
 @@||mp3fy.com^$generichide
-@@||mp4upload.com/ads.js
 @@||mp4upload.com/embed-*.html$popup
 @@||mp4upload.com/jw/jwplayer.js
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|motortrendondemand.com
@@ -4566,6 +4562,7 @@
 @@||nuggad.net^$domain=video.sport1.de
 @@||nulledsite.com/ads-prebid.js
 @@||nvidia.cn^*-300x250-
+@@||nvidia.custhelp.com^$stealth=referrer
 @@||nwolb.com^
 @@||ny.gov^$stealth
 @@||nyandcompany.com^*/resxclsa.js$domain=nyandcompany.com
@@ -4575,6 +4572,7 @@
 @@||nytimes.com^*/EventTracker.js$~third-party
 @@||nytimes.com^*/adslot-$script,xmlhttprequest
 @@||o2.de/resource/js/tracking/ntpagetag.js
+@@||oasjs.kataweb.it/adsetup*.js$domain=huffingtonpost.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.deejay.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
 @@||oasjs.kataweb.it/adsetup_cmp.js$domain=repubblica.it
@@ -5140,6 +5138,7 @@
 @@||revsci.net/*/pcx.js?csid=$script,domain=video.foxnews.com|video.foxbusiness.com
 @@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
 @@||ric-ul.ru^$stealth=dpi
+@@||richrelevance.com/rrserver/$domain=blue-tomato.com
 @@||right.com.cn/forum/*300*250$image
 @@||rightnowtech.com/engagement/api/consumer/nvidia/*/requestEngagement?pool=$removeparam
 @@||rltdxt.com/files/h5/app.js
@@ -5986,7 +5985,6 @@
 @@||track.nzz.ch/cre-*/tracking/
 @@||track.nzz.ch^$script,~third-party
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
-@@||track.toggl.com/auth^$stealth
 @@||track2.royalmail.com^
 @@||trackcmp.net^|
 @@||tracker.ai.xiaomi.com^
@@ -6083,7 +6081,6 @@
 @@||twowheeler.policybazaar.com/js/googleanalytics.js
 @@||txc.gtimg.com/static/$stealth,domain=support.qq.com
 @@||txxx.ahcdn.com/key=$stealth
-@@||txxx.com/embed/$stealth
 @@||type.jp/common/js/clicktag.js
 @@||typhoon.zjwater.gov.cn^$stealth
 @@||uaprom.net/image/blank.gif?$image
@@ -6346,7 +6343,6 @@
 @@||wiktionary.org^$generichide
 @@||wilderssecurity.com/forums/
 @@||willhaben.apa.net/clientscript/xtcore.js
-@@||windows101tricks.com/wp-content/plugins/better-adsmanager/js/advertising.min.js
 @@||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script
 @@||winwk.com^$generichide
 @@||wipe.de/wa.js$domain=dasoertliche.de
@@ -6377,8 +6373,6 @@
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
-@@||wstream.video/*.js$~third-party
-@@||wstream.video^$generichide
 @@||wurfl.io/wurfl.js$domain=adshnk.com
 @@||wurfl.io/wurfl.js$domain=athabascau.ca
 @@||wurfl.io/wurfl.js$domain=configurator.ducati.com

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-06 20:34:13（北京时间） 
-! Total count: 6516
+! Version: 2023-06-07 09:48:28（北京时间） 
+! Total count: 6517
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -609,6 +609,7 @@
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
+@@||adv.clickadu.com^$domain=adv.clickadu.com
 @@||adv.lack-girl.com/_assets/$image,stylesheet,script,~third-party
 @@||adv.lack-girl.com^$popup
 @@||advert.kf5.com^
@@ -1276,6 +1277,7 @@
 @@||captcha.su.baidu.com^
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
 @@||careermap.co.uk/careers/js/google-analytics.js
+@@||carefood.kz/upload/$image
 @@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
 @@||cargocollective.com/designs/$document
 @@||carrefourpl.snrpage.com^$removeparam=utm_source
@@ -3511,7 +3513,6 @@
 @@||ikea.cn^*/img/ads/
 @@||iknow-pic.cdn.bcebos.com^$stealth
 @@||ilan.memurlar.net/common/job/advert/images/$domain=memurlar.net
-@@||ilan.memurlar.net/common/job/advert/images/*/headline.jpg|
 @@||ilpuntotecnico.com^$generichide
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imagefap.com/jscripts/ad_loader.js

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-08 09:45:44（北京时间） 
-! Total count: 6517
+! Version: 2023-06-08 14:10:59（北京时间） 
+! Total count: 6512
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -204,7 +204,6 @@
 @@://192.168.1.1$generichide
 @@://googleadservices.com^|
 @@://localhost:$generichide
-@@://www.coinbase.com^$stealth
 @@://www.fedex.com/Tracking?
 @@://www.googleadservices.com^|
 @@=mywebloadt1&$domain=myweb.hinet.net
@@ -398,7 +397,6 @@
 @@||a8.net/svt/$image,domain=samplefan.com
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js?serviceid=
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
-@@||aax.amazon-adsystem.com^$domain=mylifetime.com
 @@||ab.blogs.es/abtest.png?editorialRecommendations$domain=applesfera.com
 @@||abchina.com^*ad
 @@||aboluowang.com^$generichide
@@ -488,14 +486,12 @@
 @@||addon.dismall.com/resource/*/ad
 @@||addons.opera.com^$stealth
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
-@@||adf.ly/static/image/ad_top_bg2.png?
 @@||adguard.com^$stealth
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adjs.8591.com.tw^$script
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adlink.wf^
-@@||adload.ru^
 @@||admin.mailchimp.com^
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||admob.google.com/static/$domain=admob.google.com
@@ -540,6 +536,7 @@
 @@||ads-api.twitter.com/*/apps?app_store_identifiers=$domain=analytics.twitter.com
 @@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-interfaces.sc-cdn.net^$domain=ads.snapchat.com
+@@||ads-twitter.com/oct.js$domain=ncsoft.jp
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
 @@||ads.a-static.com/ads.js|
 @@||ads.adfox.ru/*/getCode$app=ru.infoshell.android
@@ -950,7 +947,6 @@
 @@||arte.tv^*/xtcore.js
 @@||artnet.com^$generichide
 @@||artstation.com/*/assets/images/images/*-adv.jpg
-@@||arukikata.com/images_ad/$image,~third-party
 @@||as.uncn.jp/uwt/$script,domain=www3.nissan.co.jp
 @@||asadcdn.com/adlib/$domain=computerbild.de
 @@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
@@ -1749,6 +1745,7 @@
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 @@||collegeboard.org/webanalytics/
 @@||collusion.com/static/newrelic.js$script,~third-party
+@@||comcast.net^$stealth
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
 @@||comeresaprensasl.tt.omtrdc.net/rest/v*/delivery?$domain=hoy.es
 @@||commercelayer.io^$stealth
@@ -2118,7 +2115,6 @@
 @@||easypari.fr^*/sitestat.js
 @@||eatsmarter.de^*/webtrekk.js
 @@||ebates.com^$generichide
-@@||ebay.*/bfl/placebid/$xmlhttprequest,elemhide,jsinject,extension
 @@||ebay.*/makeOffer/$document,subdocument
 @@||ebayrtm.com/rtm?$script,domain=annonces.ebay.fr|ebay.it
 @@||ec.atdmt.com/b/$domain=starwoodhotels.com
@@ -3569,6 +3565,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=coolgames.com|newgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=corrieredellosport.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cosmopolitan.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=crosswordsolver.org
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=docbao.vn
@@ -4891,7 +4888,6 @@
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.glomex.com/integration^$domain=t-online.de
 @@||player.pl^$generichide
-@@||player.starlight.digital^$stealth
 @@||player.vgtrk.com/js/stat.js?
 @@||player.vimeo.com/video^$stealth
 @@||player.ynet.co.il/*/flowplayer.ads.*.ynet.js$domain=ynet.co.il
@@ -5318,6 +5314,7 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=15min.lt
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=makeuseof.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
@@ -5347,6 +5344,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=factable.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=games.gamesplaza.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gazetakrakowska.pl
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gentside.com|ohmymag.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gq-magazine.co.uk
@@ -5609,11 +5607,9 @@
 @@||statcounter.com/js/fusioncharts.js
 @@||statcounter.com/js/packed/statcounter-$script,~third-party
 @@||states.newegg.com/b/ss/neweggprod/
-@@||static-file.com^$stealth,domain=eyny.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
-@@||static.adf.ly/static/image/
 @@||static.adman.gr^$domain=naftemporiki.gr
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
@@ -6071,7 +6067,6 @@
 @@||tvb.com^*/videojs.ads.
 @@||tvcatchup.com^$generichide
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
-@@||tvid.in/sdk/*.js$domain=em.timesnownews.com
 @@||tvid.in/sdk/loader.js$domain=indiatimes.com|timesofindia.com|timesnownews.com|zoomtventertainment.com
 @@||tvid.in/sdk/loader.js$domain=tvid.in
 @@||tvizorcdn.ru/*.php$stealth

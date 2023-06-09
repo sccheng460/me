@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-08 20:31:19（北京时间） 
+! Version: 2023-06-09 09:46:02（北京时间） 
 ! Total count: 6514
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1111,6 +1111,7 @@
 @@||bdstatic.com/static/v1/mip$domain=biqugecom.com
 @@||bdstatic.com^$domain=17k.com|bxwx888.org
 @@||beacon.guim.co.uk/accept-beacon?
+@@||beacon.unext.jp/beacon/stop/$domain=video.unext.jp
 @@||beanfun.com/ADClient/
 @@||beatthetraffic.com/traffic/?partner=$subdocument
 @@||behanceserved.com/stats/stats.js?
@@ -4369,7 +4370,6 @@
 @@||mmee04.com^$generichide
 @@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
-@@||mms.vtext.com^$document
 @@||mmstat.com/eg.js$domain=1688.com|taobao.com|tmall.com|tudou.com|youku.com
 @@||mmstat.com/eg.js$domain=aliexpress.*
 @@||mmstat.com/eg.js$domain=player.youku.com
@@ -5608,7 +5608,7 @@
 @@||statcounter.com/js/fusioncharts.js
 @@||statcounter.com/js/packed/statcounter-$script,~third-party
 @@||states.newegg.com/b/ss/neweggprod/
-@@||static-cdn.spot.im/production/launcher/$domain=nypost.com
+@@||static-cdn.spot.im/production/launcher/$domain=nypost.com|foxnews.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-09 09:46:02（北京时间） 
-! Total count: 6514
+! Version: 2023-06-09 20:32:25（北京时间） 
+! Total count: 6507
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -312,6 +312,7 @@
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
 @@||4cdn.org^$stealth
+@@||4channel.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4gtv.tv/4gtv/Data/GetAD.ashx
 @@||4horlover.com^$generichide
 @@||4spaces.org^$generichide
@@ -460,6 +461,7 @@
 @@||ad.doubleclick.net/ddm/trackclk/*http$popup
 @@||ad.ettoday.net/msg_liveshow.php^$domain=ettoday.net
 @@||ad.kazakinfo.com^
+@@||ad.nl/ad/
 @@||ad.ourgame.com^
 @@||ad.skylinewebcams.com/ad.php
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
@@ -1536,7 +1538,6 @@
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js
 @@||cdndm5.com^$stealth
 @@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.to
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
 @@||cdnjs.cloudflare.com/ajax/libs/*.min.js$domain=audioz.download
 @@||cdnjs.cloudflare.com/ajax/libs/Swiper/*/js/swiper.min.js$domain=9anime.*
 @@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js
@@ -1573,7 +1574,6 @@
 @@||cdntvn.pl/*/assets/*advert*.js$domain=player.pl|get.x-link.pl|tvn24.pl|vod.pl
 @@||cdnvideo.ru^$stealth
 @@||cdp.cloud.unity3d.com^$app=com.rovio.baba
-@@||cdpn.io^$stealth,domain=codepen.io
 @@||cdpn.io^$subdocument,stealth
 @@||cds.connatix.com/*/connatix.player.dc.js$domain=loot.tv
 @@||cds.connatix.com/*/connatix.playspace.dc.js$domain=loot.tv
@@ -2363,7 +2363,6 @@
 @@||g.doubleclick.net/gampad/ads?*wallpaper_1$xmlhttprequest,domain=spiegel.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=v.ifeng.com
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com,badfilter
-@@||g.doubleclick.net/gpt/pubads_impl_$domain=accuweather.com|blastingnews.com|bloomberg.com|chelseafc.com|chromatographyonline.com|digitaltrends.com|downdetector.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|game.anymanager.io|games.coolgames.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nationalreview.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|telsu.fi|voici.fr|weather.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=ukr.net
@@ -2508,7 +2507,6 @@
 @@||go.gov.il^$stealth=dpi
 @@||go2stream.net/stream/live/track/view/Tracking.php$domain=go2stream.net
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
-@@||gogoplay1.com/encrypt-ajax.php?id=
 @@||gogoplay5.com^$subdocument
 @@||golangnote.com^$generichide
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
@@ -3508,6 +3506,7 @@
 @@||ifengimg.com/a/201*Player
 @@||ifengimg.com/fe/shank/content/mobile_view.*_modern.js
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
+@@||iframe.dacast.com/vod/$stealth
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
 @@||iknow-pic.cdn.bcebos.com^$stealth
@@ -3936,7 +3935,6 @@
 @@||js.tv.itc.cn/gg.seed.js
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||jscdn.greeter.me/dropgalaxy.onlinehead.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
-@@||jscdn.greeter.me/reviewtech.mehead.js$xmlhttprequest,domain=reviewstation.me|pcreview.me
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=52bdys.com
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.icu
@@ -4753,7 +4751,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wooseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=anydebrid.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=smallseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=woowebtools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
@@ -5332,7 +5329,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=ukr.net
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
-@@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=downdetector.in
 @@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=independent.co.uk
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=purepeople.com
@@ -5608,7 +5604,6 @@
 @@||statcounter.com/js/fusioncharts.js
 @@||statcounter.com/js/packed/statcounter-$script,~third-party
 @@||states.newegg.com/b/ss/neweggprod/
-@@||static-cdn.spot.im/production/launcher/$domain=nypost.com|foxnews.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
@@ -5648,7 +5643,6 @@
 @@||static.doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=woowebtools.com
 @@||static.doubleclick.net^$app=com.google.android.apps.cultural
 @@||static.ex.co/pb-play/production/*/playbuzz-viewer-play.es5.js
-@@||static.ex.co/pb-story/paragraph/production/*/paragraph-viewer.js
 @@||static.ex.co/pb-story/production/*/story-viewer.js
 @@||static.ex.co/pb-story/quiz/production/*-viewer-svg.js
 @@||static.ex.co/pb-story/quiz/production/*/quiz-viewer.js
@@ -6125,6 +6119,7 @@
 @@||upload*.jianshu.io^$stealth
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||uploadbank.com^$generichide
+@@||uploadbox.io/js/advertisement.js
 @@||uploadcloud.pro^$generichide
 @@||uploadshub.com^$elemhide
 @@||upos-sz-mirrorhw.bilivideo.com^$stealth
@@ -6151,7 +6146,6 @@
 @@||user.pnetlab.com/store/advs/check
 @@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
-@@||userload.co/ads/ads-banner.png
 @@||userreport.com/*/settings.js$domain=csb.app
 @@||userreport.com/SystemSettings.js$domain=csb.app
 @@||userreport.com/computools/launcher.js$domain=csb.app
@@ -6515,6 +6509,5 @@
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxmee.com^$generichide
-@@||zxzja.com:*/Cloud/Down/$subdocument,stealth
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com

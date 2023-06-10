@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-09 20:32:25（北京时间） 
-! Total count: 6507
+! Version: 2023-06-10 09:37:14（北京时间） 
+! Total count: 6505
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -749,10 +749,6 @@
 @@||analytics.kbjfree.com/js/plausible.js
 @@||analytics.ladmedia.fr/parismatch/xtcore_mod2.js$domain=parismatch.com
 @@||analytics.tiktok.com/*/pixel/sdk.js$domain=wopilo.com
-@@||analytics.twitter.com/*/api$domain=analytics.twitter.com
-@@||analytics.twitter.com/mob_idsync_click
-@@||analytics.twitter.com/user/*.json?$domain=analytics.twitter.com
-@@||analytics.twitter.com/user/*/tweets/bundle?$domain=analytics.twitter.com
 @@||analytics.twitter.com^$domain=analytics.twitter.com
 @@||ananas.chaoxing.com^*video/ad/
 @@||anandabazar.com/*ad$script
@@ -1490,7 +1486,6 @@
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||cdn.shopify.com/*/trekkie*.js$domain=koh.com
 @@||cdn.smartclip-services.com^$script,domain=cerebriti.com
-@@||cdn.snigelweb.com/adengine/falixnodes.net/loader.js
 @@||cdn.snigelweb.com/adengine/imagetotext.info/loader.js$domain=imagetotext.info
 @@||cdn.sssam.com/static/js/*.js
 @@||cdn.stat-rock.com/player/*player.js$domain=4shared.com
@@ -1642,7 +1637,7 @@
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||click.appcast.io/track^$domain=neuvoo.co.uk
 @@||clicktale.net/wrb.js$domain=microsoft.com
-@@||client.falixnodes.net^$xmlhttprequest
+@@||client.falixnodes.net^$generichide
 @@||clientlogin.cdn.skype.com^$document
 @@||clipwatching.com/embed-*.html$stealth
 @@||clj.valuecommerce.com/*/vcushion.min.js
@@ -3701,8 +3696,8 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=24ur.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=f5haber.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=zattoo.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=10play.com.au
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|worldsurfleague.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=cbs.com|paramountplus.com|history.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=click2houston.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=engine.univtec.com|america.cgtn.com
@@ -4226,6 +4221,7 @@
 @@||maxmind.com^*/geoip.js$domain=sportube.tv
 @@||maxmind.com^*/geoip2.js$domain=bandai-hobby.net|boostedboards.com|donorschoose.org|driftinnovation.com|fallout4.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||maxstream.video^$generichide
+@@||mbank.pl^$stealth=dpi
 @@||mbe-cdn.fyber.com$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
 @@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||mc-premium.org/assets/js/fuckadblock.js
@@ -4635,7 +4631,6 @@
 @@||online.a1.by/l/v/track.php?event=$domain=a1.by
 @@||online.americanexpress.com/myca/statementimage/$document
 @@||online.bcs.ru^*/piwik.bcs.js$script
-@@||online.mbank.pl^$stealth=dpi
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
 @@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
@@ -5207,6 +5202,7 @@
 @@||s.yjtag.jp/tag.js$domain=www.epson.jp
 @@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
 @@||s.youtube.com/api/stats/playback?
+@@||s0.2mdn.net^$image,domain=client.falixnodes.net
 @@||s0ft4pc.com^$generichide
 @@||s1-filecr.xyz^$stealth
 @@||s1.adform.net/banners/scripts/adx.js$domain=delfi.lt
@@ -5496,6 +5492,7 @@
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||snapchat.com/static/js/autotrack.js
+@@||snigelweb.com/*.js$script,domain=client.falixnodes.net
 @@||snowfl.com/ads/*.js$~third-party
 @@||snssdk.com/video/drm/v*/play_licenses
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
@@ -5965,6 +5962,7 @@
 @@||totheglory.im/pic/ttg_logo
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
+@@||tpc.googlesyndication.com/simgad/$image,domain=client.falixnodes.net
 @@||tpc.googlesyndication.com/simgad/$image,domain=soranews24.com
 @@||tpc.googlesyndication.com/simgad/$image,xmlhttprequest,domain=soranews24.com
 @@||tpc.googlesyndication.com^$script,~third-party

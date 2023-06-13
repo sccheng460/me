@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-13 09:39:35（北京时间） 
-! Total count: 6511
+! Version: 2023-06-13 20:33:14（北京时间） 
+! Total count: 6521
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -144,7 +144,7 @@
 @@/img/ad/*$domain=exp.qq.com
 @@/img/ad_$domain=p9.com.tw|ruten.com.tw
 @@/img_ad/*$domain=tkec.com.tw
-@@/inc/embed/ads.js$domain=watchanimesub.net|wco.tv|wcostream.net|wcostream.com
+@@/inc/embed/ads.js$domain=wcostream.org|watchanimesub.net|wco.tv|wcostream.net|wcostream.com
 @@/index.m3u8?wmsAuthSign=$stealth
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/jannah/*js/advertisement.js|$~third-party
@@ -282,6 +282,7 @@
 @@||1bitspace.com/default/public/assets/*.js$~third-party
 @@||1fichier.com/?$stealth,~stylesheet,~image,~script
 @@||1fichier.com^$generichide
+@@||1filesharing.com/*/js/advertisement.js
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
 @@||1gr.cz/log/score.aspx?page*url=
 @@||1plus1.video/tvguide/embed/*?autoplay=$stealth
@@ -962,7 +963,6 @@
 @@||assets.adobedtm.com/*launch-*.min.js$domain=samsung.com
 @@||assets.beinsports.com/*/scripts/ads.js$~third-party
 @@||assets.bilsyndication.com/plugins/safeframe/src/js/sf_host.min.js$domain=atozmath.com
-@@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.customer.io/assets/track.js$domain=buffer.com
 @@||assets.dfb.de/uploads/*/original_$image
 @@||assets.espn.go.com/espn360/builds/nielsen/ggce*.swf
@@ -1316,7 +1316,6 @@
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
 @@||cdn.adrise.tv/js/ads.js$domain=tubitv.com
 @@||cdn.adspirit.de^$domain=cdn.adspirit.de
-@@||cdn.adswizz.com/adswizz/js/SynchroClient*.js$domain=lounge.fm
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.amplitude.com/libs/amplitude-*-min.gz.js$domain=agroros.ru
 @@||cdn.amplitude.com/libs/amplitude-*-min.gz.js$domain=crunchyroll.com|elconfidencial.com
@@ -1601,6 +1600,7 @@
 @@||chat-webim.rsb.ru/l/v/track.php?
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||chat.openai.com^$stealth
+@@||chaturbate.com/in/$subdocument,domain=cbhours.com|pussyspace.com|pussyspace.net|lemoncams.com
 @@||chatzy.com/?jsonp:$script
 @@||check.ddos-guard.net/check.js
 @@||check.ddos-guard.net/check.js$script
@@ -2164,6 +2164,7 @@
 @@||emathhelp.net^$csp
 @@||embed.binkies3d.com/content/$domain=gsmarena.com
 @@||embed.binkies3d.com^$stealth,domain=gsmarena.com
+@@||embed.watchanimesub.net/inc/embed/ads.js
 @@||embeddedanalytics.com/updateeakpi.html$domain=brocardi.it
 @@||embedupload.com^$generichide
 @@||emerald.omeda.com/npdn/custsrv_login.do
@@ -2274,6 +2275,7 @@
 @@||ff14angler.com^$generichide
 @@||fharr.com^$generichide
 @@||fifa.com^*/webanalytics.js?
+@@||file-upload.cc^$generichide
 @@||file-upload.com/js/advertisement.js
 @@||file.myqcloud.com/*.mp4?token=$stealth
 @@||filecheck.ru^$elemhide
@@ -2293,6 +2295,7 @@
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||firstdirect.com^*/logging-code.js
+@@||flashx.*/counter.cgi?$~third-party
 @@||flipboard.com/*/videojs-contrib-ads.*.bundle.js
 @@||fltaradio.com/js/ads.js
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
@@ -2398,7 +2401,6 @@
 @@||games.crazygames.com/*/index.html$stealth
 @@||games.gamesplaza.com/shared/loader/advert.js
 @@||games.gamesplaza.com/shared/loader/gads.js
-@@||games.pch.com^$generichide
 @@||gamesglue.com/game_core/check^
 @@||gamespot.com/js/compiled/trackingWithCT.js$domain=gamespot.com
 @@||gamezhero.com/api/ima3.js
@@ -3168,6 +3170,7 @@
 @@||googletagmanager.com/gtm.js$domain=thegazette.com
 @@||googletagmanager.com/gtm.js$domain=thestar.co.uk
 @@||googletagmanager.com/gtm.js$domain=thethaiger.com
+@@||googletagmanager.com/gtm.js$domain=tribuna.com
 @@||googletagmanager.com/gtm.js$domain=tvnow.de|tvnow.at
 @@||googletagmanager.com/gtm.js$domain=type.jp
 @@||googletagmanager.com/gtm.js$domain=ucicinemas.pt
@@ -3216,7 +3219,6 @@
 @@||googletagmanager.com/gtm.js$script,domain=radiko.jp
 @@||googletagmanager.com/gtm.js$script,domain=viviennewestwood-tokyo.com
 @@||googletagmanager.com/gtm.js$script,domain=www.nap-camp.com
-@@||googletagmanager.com/gtm.js?$domain=mac-torrent-download.net
 @@||googletagmanager.com/gtm.js?$domain=ozon.ru
 @@||googletagmanager.com/gtm.js?$domain=renault.ua
 @@||googletagmanager.com/gtm.js?$domain=vseinstrumenti.ru
@@ -3625,6 +3627,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=noz.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ntvspor.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
@@ -3690,6 +3693,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yad.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yepi.com|veedi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zoomtventertainment.com
@@ -3770,6 +3774,7 @@
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
 @@||img.ads.tvb.com^
 @@||img.blesk.cz/js/base-cz/gemius.js
+@@||img.mxomo.com^$image,stealth
 @@||img.noobzone.ru^$stealth
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
@@ -3866,6 +3871,7 @@
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itworld.com/elqnow/elq*.js
 @@||iv*.imgview.net/i/$image
+@@||ivi.ru/*/video/?id=$stealth
 @@||ivwbox.de/2004/01/survey.js$domain=stylished.de|t-online.de
 @@||ivwextern.prosieben.de/crossdomain.xml$domain=galileo-videolexikon.de
 @@||ivwextern.prosieben.de/php-bin/functions/ivwbox/ivwbox_extern.php?path=$domain=galileo-videolexikon.de
@@ -5704,6 +5710,7 @@
 @@||store-web.dynamics.com^$stealth
 @@||store.steampowered.com/events/ajaxgetbesteventsforuser?$stealth=3p-cookie
 @@||stores.office.com/authredir
+@@||stores.office.com/myaccount/advancedinstalls.aspx
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||stream.nbcsports.com/assets/page/general/ads.js
@@ -6045,6 +6052,7 @@
 @@||tryit.w3schools.com^$document
 @@||tsyndicate.com/iframes2/$domain=xfreehd.com
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
+@@||tt.omtrdc.net/rest/$xmlhttprequest,domain=shop.shoppersdrugmart.ca
 @@||tt1069.com/adbrite.js
 @@||tt1069.com/ads.js
 @@||tt1069.com/adserv.js
@@ -6081,6 +6089,7 @@
 @@||twowheeler.policybazaar.com/js/googleanalytics.js
 @@||txc.gtimg.com/static/$stealth,domain=support.qq.com
 @@||txxx.ahcdn.com/key=$stealth
+@@||txxx.com/embed/$stealth
 @@||type.jp/common/js/clicktag.js
 @@||typhoon.zjwater.gov.cn^$stealth
 @@||uaprom.net/image/blank.gif?$image
@@ -6371,6 +6380,7 @@
 @@||wpnrtnmrewunrtok.xyz/main/$image,domain=camwhores.tv
 @@||wpnrtnmrewunrtok.xyz/remote_control.php^$domain=camwhores.tv
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
+@@||ws.mmstat.com/ws$domain=v.youku.tv
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||wurfl.io/wurfl.js$domain=adshnk.com

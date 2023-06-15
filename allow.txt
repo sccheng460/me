@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-14 20:33:09（北京时间） 
-! Total count: 6522
+! Version: 2023-06-15 09:36:57（北京时间） 
+! Total count: 6524
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -3962,6 +3962,7 @@
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||k12-company.ru^*/statistics.js$script
 @@||kad.arbitr.ru^$stealth
+@@||kafan.cn^$stealth=dpi
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
 @@||kaltura.com/content/*/comscorePlugin.swf
 @@||kameleoon.eu/images/$domain=welt.de
@@ -4820,6 +4821,7 @@
 @@||pdk.theplatform.com^$domain=vplayer.nbcolympics.com
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||peacocktv.com^$generichide
+@@||pendo.io/agent/static/$script,domain=recruiting.adp.com
 @@||perfectgirls.net^$generichide
 @@||permission-proxy-gmxnet.uimserv.net^$app=de.gmx.mobile.android.mail
 @@||personaclick.com^$domain=skechers.com.tr

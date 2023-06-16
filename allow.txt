@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-15 20:32:40（北京时间） 
-! Total count: 6520
+! Version: 2023-06-16 09:38:55（北京时间） 
+! Total count: 6523
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -580,6 +580,7 @@
 @@||ads.roblox.com/v*/sponsored-pages$xmlhttprequest
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
+@@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads.rubiconproject.com/prebid^$domain=index.hr
 @@||ads.shopee.*/$popup
 @@||ads.spotify.com^$popup
@@ -1077,6 +1078,7 @@
 @@||bat.bing.com/bat.js$domain=airbnb.ru
 @@||bats.video.yahoo.com$app=com.yahoo.mobile.client.android.mail
 @@||battlecats-db.com^$generichide
+@@||bauersecure.com/dist/js/prebid/$domain=carmagazine.co.uk
 @@||baumberger.shop/cache/javascript_*_responsive_ad_footer.js$~third-party
 @@||baumberger.shop/cache/style_*_responsive_ad_header.css$~third-party
 @@||bazon.site^$stealth
@@ -2063,7 +2065,6 @@
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dpm.zebestof.com/*/tag.js$domain=sante.journaldesfemmes.fr
 @@||dqzsteel.com/Website/Image/guanggao/
-@@||dragontea.ink^$generichide
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
 @@||driverseddirect.com/html5/$document
@@ -4005,6 +4006,7 @@
 @@||kocaelibarisgazetesi.com/images/banner/l3oo.jpg
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||koldcast.tv/mint/*/tracker.php?
+@@||kommersant.ru^$removeparam=erid
 @@||komputerswiat.pl/*&srcc=ucs$removeparam=utm_source
 @@||korail.com^$stealth=dpi
 @@||kotaku.com/*/assets/new-client/adManager.*.js$domain=kotaku.com
@@ -4841,6 +4843,7 @@
 @@||pingjs.qq.com/ping_tcss_ied.js$domain=dnf.qq.com
 @@||pingjs.qq.com^$~third-party
 @@||pingomatic.com/ping^$domain=pingfarm.com
+@@||pip-player.zum.com/embed?$stealth=referrer
 @@||pisupisu.pl/*/adsbygoogle.js
 @@||piwik.pro/images/
 @@||piwik.windit.de/piwik.js$domain=livespotting.tv

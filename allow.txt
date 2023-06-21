@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-20 20:34:12（北京时间） 
-! Total count: 6468
+! Version: 2023-06-21 09:35:31（北京时间） 
+! Total count: 6474
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2110,6 +2110,7 @@
 @@||edgesuite.net/crossdomain.xml$domain=sbs.com.au
 @@||edgesuite.net^*/ad.css?
 @@||edgesuite.net^*/frontend_webtrekk.js$domain=goertz.de
+@@||edghst.me/*.m3u8$stealth
 @@||editor.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=add-panel-data$domain=editor.wix.com
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
@@ -2711,6 +2712,7 @@
 @@||google-analytics.com/gtm/js^$domain=uniqlo.com
 @@||google-analytics.com/gtm/js^$domain=waipu.tv
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
+@@||google-analytics.com/gtm/optimize.js$domain=turkcell.com.tr
 @@||google-analytics.com/plugins/$domain=amd.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|opendns.com|openshift.com|vimeo.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=askona.ru
@@ -3147,6 +3149,7 @@
 @@||googletagmanager.com/gtm.js$domain=thestar.co.uk
 @@||googletagmanager.com/gtm.js$domain=thethaiger.com
 @@||googletagmanager.com/gtm.js$domain=tribuna.com
+@@||googletagmanager.com/gtm.js$domain=turkcell.com.tr
 @@||googletagmanager.com/gtm.js$domain=tvnow.de|tvnow.at
 @@||googletagmanager.com/gtm.js$domain=type.jp
 @@||googletagmanager.com/gtm.js$domain=ucicinemas.pt
@@ -4714,6 +4717,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=streetdir.com|roaddir.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t2bot.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=technorozen.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=themodellingnews.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=turkce-brosurler.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tuxnews.it
@@ -5382,6 +5386,7 @@
 @@||share.flipboard.com/bookmarklet/$document
 @@||share1223.com^$generichide
 @@||sheinsz.ltwebstatic.com/*/libs/devices/fpv*.js$domain=shein.com
+@@||shenlongruanjian.com/website/js/fingerprint2.min.js
 @@||shijue.me/advertise/getList?
 @@||shinden.pl^$generichide
 @@||shine.cn/showadcode2.asp?posid=68&
@@ -6078,6 +6083,7 @@
 @@||unique-tutorials.info^$generichide
 @@||unpkg.com/vue-recaptcha@*/dist/vue-recaptcha.js$domain=vidoza.net
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
+@@||unpkg.com^$script,domain=vidsrc.stream
 @@||up-load.io^$generichide
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upload*.jianshu.io^$stealth

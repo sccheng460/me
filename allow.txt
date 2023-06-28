@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-06-27 20:37:57（北京时间） 
-! Total count: 6494
+! Version: 2023-06-28 09:50:26（北京时间） 
+! Total count: 6493
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -133,7 +133,7 @@
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/hls/*.m3u8$stealth
 @@/home/ads/*$domain=esunbank.com.tw
-@@/iframe*.php$subdocument,stealth,domain=dizipal607.com|dizipal608.com|dizipal609.com|dizipal610.com|dizipal611.com|dizipal612.com|dizipal613.com|dizipal614.com|dizipal615.com|dizipal616.com|dizipal617.com|dizipal618.com|dizipal619.com|dizipal620.com|dizipal621.com|dizipal622.com|dizipal623.com|dizipal624.com|dizipal625.com|dizipal626.com|dizipal627.com|dizipal628.com|dizipal629.com|dizipal630.com|dizipal631.com|dizipal632.com|dizipal633.com|dizipal634.com|dizipal635.com|dizipal636.com|dizipal637.com|dizipal638.com|dizipal639.com|dizipal640.com|dizipal641.com|dizipal642.com|dizipal643.com|dizipal644.com|dizipal645.com|dizipal646.com|dizipal647.com|dizipal648.com|dizipal649.com|dizipal650.com|dizipal651.com|dizipal652.com|dizipal653.com|dizipal654.com|dizipal655.com|dizipal656.com|dizipal657.com|dizipal658.com|dizipal659.com|dizipal660.com|dizipal661.com|dizipal662.com|dizipal663.com|dizipal664.com|dizipal665.com|dizipal666.com|dizipal667.com|dizipal668.com|dizipal669.com|dizipal670.com|dizipal671.com|dizipal672.com|dizipal673.com|dizipal674.com|dizipal675.com|dizipal676.com|dizipal677.com|dizipal678.com|dizipal679.com|dizipal680.com|dizipal681.com|dizipal682.com|dizipal683.com|dizipal684.com|dizipal685.com|dizipal686.com|dizipal687.com|dizipal688.com|dizipal689.com|dizipal690.com|dizipal691.com|dizipal692.com|dizipal693.com|dizipal694.com|dizipal695.com|dizipal696.com|dizipal697.com|dizipal698.com|dizipal699.com|dizipal700.com
+@@/iframe*.php$subdocument,stealth,domain=dizipal580.com|dizipal581.com|dizipal582.com|dizipal583.com|dizipal584.com|dizipal585.com|dizipal586.com|dizipal587.com|dizipal588.com|dizipal589.com|dizipal590.com|dizipal591.com|dizipal592.com|dizipal593.com|dizipal594.com|dizipal595.com|dizipal596.com|dizipal597.com|dizipal598.com|dizipal599.com|dizipal600.com|dizipal607.com|dizipal608.com|dizipal609.com|dizipal610.com|dizipal611.com|dizipal612.com|dizipal613.com|dizipal614.com|dizipal615.com|dizipal616.com|dizipal617.com|dizipal618.com|dizipal619.com|dizipal620.com|dizipal621.com|dizipal622.com|dizipal623.com|dizipal624.com|dizipal625.com|dizipal626.com|dizipal627.com|dizipal628.com|dizipal629.com|dizipal630.com|dizipal631.com|dizipal632.com|dizipal633.com|dizipal634.com|dizipal635.com|dizipal636.com|dizipal637.com|dizipal638.com|dizipal639.com|dizipal640.com|dizipal641.com|dizipal642.com|dizipal643.com|dizipal644.com|dizipal645.com|dizipal646.com|dizipal647.com|dizipal648.com|dizipal649.com|dizipal650.com|dizipal651.com|dizipal652.com|dizipal653.com|dizipal654.com|dizipal655.com|dizipal656.com|dizipal657.com|dizipal658.com|dizipal659.com|dizipal660.com|dizipal661.com|dizipal662.com|dizipal663.com|dizipal664.com|dizipal665.com|dizipal666.com|dizipal667.com|dizipal668.com|dizipal669.com|dizipal670.com|dizipal671.com|dizipal672.com|dizipal673.com|dizipal674.com|dizipal675.com|dizipal676.com|dizipal677.com|dizipal678.com|dizipal679.com|dizipal680.com|dizipal681.com|dizipal682.com|dizipal683.com|dizipal684.com|dizipal685.com|dizipal686.com|dizipal687.com|dizipal688.com|dizipal689.com|dizipal690.com|dizipal691.com|dizipal692.com|dizipal693.com|dizipal694.com|dizipal695.com|dizipal696.com|dizipal697.com|dizipal698.com|dizipal699.com|dizipal700.com
 @@/image/ad/*$domain=gashpoint.com
 @@/image/share_$domain=pan.baidu.com
 @@/images/*/*.gif$domain=maichun5.info|myhhg.com
@@ -405,6 +405,7 @@
 @@||abema.tv^$stealth=ip
 @@||aboluowang.com^$generichide
 @@||about-australia.com/*/clickheat.js
+@@||accaii.com^$domain=kyuusai2nd.net
 @@||acceptable.a-ads.com/1^$domain=go.freetrx.fun
 @@||account.mail.ru^$stealth
 @@||account.microsoft.com/?refd=$stealth
@@ -452,7 +453,6 @@
 @@||ad.amgdgt.com/ads/js/optout.js
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp
 @@||ad.crwdcntrl.net^$domain=ap.org
-@@||ad.crwdcntrl.net^$domain=ap.org|newsinc.com
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad.dotandad.com/mediamond_vm.jsp$domain=video.mediaset.it
@@ -1244,7 +1244,6 @@
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.mipcdn.com^$domain=prpcoin.com
 @@||c.mmcdn.net^*/flash/config/metrics.xml$domain=moshimonsters.com
-@@||c.newsinc.com/getids^$domain=washingtonexaminer.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
 @@||c.y.qq.com^
@@ -1873,13 +1872,11 @@
 @@||d2dq2ahtl5zl1z.cloudfront.net/analytics.js/*/analytics.min.js$domain=architizer.com
 @@||d2kv6n94eruxg9.cloudfront.net/Prebid_$domain=portmiamiwebcam.com
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
-@@||d2p3zdq8vjvnxd.cloudfront.net^$app=de.lineas.lit.ntv.android
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_identity_full.js$domain=washingtonpost.com
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_jskit_addon.js$domain=washingtonpost.com
 @@||d31j93rd8oukbv.cloudfront.net/metrika/watch_*.js$domain=gazeta.ru
 @@||d31j93rd8oukbv.cloudfront.net/metrika/watch_ua.js$domain=novayagazeta.ru
 @@||d347cldnsmtg5x.cloudfront.net/util/1x1.gif$image,domain=aplaceforeverything.co.uk
-@@||d396ihyrqc81w.cloudfront.net^$domain=currys.co.uk
 @@||d3c3cq33003psk.cloudfront.net/opentag$domain=sunglasses-shop.co.uk|sunglasses-shop.fi|sunglasses-shop.nl|sunglasses-shop.se|sunglassesshop.com|sunglassesshop.dk|sunglassesshop.fr|sunglassesshop.no
 @@||d3njgrq4uvb497.cloudfront.net/videojs/videojs-contrib-ads.js$domain=ksl.com
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
@@ -1983,7 +1980,6 @@
 @@||distrowatch.com/images/cpxtu/dwbanner.png
 @@||ditiezu.com^*.php$subdocument
 @@||dizhi99.com^$generichide
-@@||djtflbt20bdde.cloudfront.net^$domain=feedly.com
 @@||djxmaza.in^$generichide
 @@||dkb.de^$cookie=dtCookie
 @@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion
@@ -2266,6 +2262,8 @@
 @@||festyy.com^$generichide
 @@||ff14angler.com^$generichide
 @@||fharr.com^$generichide
+@@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
+@@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||fifa.com^*/webanalytics.js?
 @@||figma.com^$generichide
 @@||file-upload.cc^$generichide
@@ -2342,6 +2340,7 @@
 @@||fullhdfilm.pro/_video_onu_yeni.php$domain=fullhdfilm.pro
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
+@@||fundingchoicesmessages.google.com^$stealth,domain=adshnk.com|adshrink.it
 @@||funshion.com/*/media/$stealth
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fussball.de/fbed/js/xtcore.js
@@ -4515,7 +4514,6 @@
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de
 @@||news.u17i.com/advert/
 @@||newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
-@@||newsinc.com^*/getPlacements.js?pid=$domain=washingtonexaminer.com
 @@||newsmth.net/nForum/*/ADAgent_
 @@||newsource-cdn-static.ns.cnn.com/prd/analytics/*/cnnvan-omniture.min.js$domain=6abc.com
 @@||newsroom.consilium.europa.eu/smarttag.js$domain=newsroom.consilium.europa.eu
@@ -4682,6 +4680,7 @@
 @@||p30download.ir^$stealth=dpi
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de
 @@||pagead2.googlesyndication.com/pagead/$script,domain=soranews24.com
+@@||pagead2.googlesyndication.com/pagead/$stealth,domain=adshnk.com|adshrink.it
 @@||pagead2.googlesyndication.com/pagead/*?fcd=true$domain=adshnk.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
@@ -4721,6 +4720,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kiiw.icu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=laptrinhx.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lascimmiapensa.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mixrootmod.com
@@ -4855,7 +4855,6 @@
 @@||pixel.facebook.com^$domain=pixel.facebook.com
 @@||pixel.fetchback.com^$subdocument,domain=sears.com
 @@||pixel.quantserve.com/api/segments.json?$domain=ap.org
-@@||pixel.quantserve.com/api/segments.json?$domain=ap.org|newsinc.com
 @@||pixel.quantserve.com/api/segments.xml?a=$domain=cbs.com|cbsatlanta.com|centurylink.net|comedy.com|eurweb.com|fox5vegas.com|foxcarolina.com|grabnetworks.com|kctv5.com|kpho.com|kptv.com|theimproper.com|thenewsroom.com|tv.com|tvguide.com|wfsb.com|wnem.com|wsmv.com
 @@||pixel.quantserve.com/pixel^$domain=mixcloud.com
 @@||pixel.quantserve.com/seg/$script,domain=photos.essence.com
@@ -4951,7 +4950,6 @@
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
 @@||powvideo.net/$~third-party,popup
 @@||powvideo.net/new/css/fonts/font/custom-icons.$font
-@@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
 @@||pp.lp4.io/app^$domain=berliner-zeitung.de
 @@||pprune.org/clientscript/vbulletin_analytics.js
 @@||ppstatic.pl/lib/*/js/ads/*/reklama.js
@@ -5434,6 +5432,7 @@
 @@||showcase.codethislab.com/banners/$image,~third-party
 @@||showheroes.com/publishertag.js$domain=rollingstone.de
 @@||showheroes.com/pubtag.js$domain=rollingstone.de
+@@||shrink-service.it/api-extension/$stealth,domain=adshnk.com|adshrink.it
 @@||shtu.pro^$generichide
 @@||shumafen.cn/api/file_u/$extension
 @@||shutterbug.com^$elemhide

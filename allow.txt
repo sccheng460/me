@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-08 09:48:39（北京时间） 
-! Total count: 6469
+! Version: 2023-07-08 20:33:48（北京时间） 
+! Total count: 6466
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -600,7 +600,6 @@
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
-@@||adsco.re/p$domain=shorterall.com
 @@||adsense.woso.cn^$~third-party
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
@@ -1229,7 +1228,6 @@
 @@||byfly.dualstack.speedtestcustom.com^$stealth
 @@||bytedance.com/ttwid/union/register/
 @@||bytegoofy.com/ad/$domain=jinritemai.com
-@@||c.adsco.re^$domain=shorterall.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=baltimoresun.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=epochtimes.de
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fitforfun.de
@@ -1357,6 +1355,7 @@
 @@||cdn.contentful.com/spaces^$stealth
 @@||cdn.cpex.cz/cmp/v*/cpex-cmp.min.js$domain=zive.cz
 @@||cdn.cpex.cz/logos/cnc.png$domain=zive.cz
+@@||cdn.cpmstar.com/cached/js/advertisement.js
 @@||cdn.cquotient.com/js/*/gretel.min.js$domain=karstadt.de
 @@||cdn.cquotient.com/js/*/gretel.min.js$domain=sloggi.com
 @@||cdn.crowdtwist.com/img/$image,domain=myperks.catchow.com
@@ -2055,6 +2054,7 @@
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
+@@||driverseddirect.com/html5/$document
 @@||drop*.dropmefile.com^$stealth
 @@||dropbox.com/*/oauth$document
 @@||dropbox.com^$generichide
@@ -2080,7 +2080,6 @@
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
 @@||dygassets.dygdigital.com/player-new/
-@@||dyncdn.me/mimages/$stealth
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||dziennikwschodni.pl/*/*?ads=$~third-party,image
 @@||dziennikwschodni.pl/*/*ads.
@@ -2171,7 +2170,6 @@
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||equifaxps.122.2o7.net^
 @@||esia.gosuslugi.ru^$stealth
-@@||eskarock.pl/media/*/js/adblock_detector.js
 @@||eslite.com^*/ad
 @@||espn.com/b/ss/$domain=espn.com
 @@||espncdn.com/combiner/*/chartbeat/$script,domain=espn.go.com
@@ -4674,7 +4672,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=10play.com.au
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1cloudfile.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.com|akinator.mobi
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=anime-king.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
@@ -4719,6 +4716,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=portmiamiwebcam.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=prepostseo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=quienhabla.mx,xmlhttprequest
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=reh.tw|23qb.net|4spaces.org|aboluowang.com|chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rekidai-info.github.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=repo.hackyouriphone.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=reviewstation.me|pcreview.me
@@ -5254,6 +5252,7 @@
 @@||scorecardresearch.com^$third-party,domain=nissan.ru
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
 @@||scrippsdigital.com/cms/videojs/$stylesheet,domain=scrippsdigital.com
+@@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
@@ -5293,7 +5292,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=askmen.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=digitaltrends.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
@@ -5320,7 +5318,6 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=factable.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=games.gamesplaza.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gazetakrakowska.pl
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gentside.com|ohmymag.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gq-magazine.co.uk
@@ -5352,6 +5349,7 @@
 @@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
 @@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
+@@||serialy.io/theme/js/popunder.js
 @@||servedby.flashtalking.com/*iabeu$domain=cdn.flashtalking.com
 @@||service.4gtv.tv/4gtv/Data/GetAD.ashx
 @@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
@@ -5647,7 +5645,6 @@
 @@||static.redtube.com/mobi/images/$domain=redtube.com|redtube.net
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||static.shorte.st/bundles/smeweb/$domain=sh.st
-@@||static.shorte.st/js/packed/smeadvert-locked.js$domain=sh.st
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.trbo.com/img/$domain=o2online.de
 @@||static.vocstatic.com^$script,domain=areapersonal.hoy.es

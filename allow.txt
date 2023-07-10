@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-09 20:33:59（北京时间） 
-! Total count: 6466
+! Version: 2023-07-10 09:50:38（北京时间） 
+! Total count: 6465
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1053,7 +1053,6 @@
 @@||baidu-taobao-av.com/js/home.js
 @@||baidu-taobao-av.com/js/jquery.
 @@||baidu.com/api/bidder/$domain=jump2.bdimg.com
-@@||baidu.com/cse/search?$domain=16xx8.com
 @@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
 @@||baidu.com/hm.js$domain=cainiao.com|dwz.cn|ramboplay.com|seo.chinaz.com
 @@||baidu.com/location/ip?$domain=dominos.com.cn|saicmg.com|tanmizhi.com|tianqi.qq.com
@@ -5485,7 +5484,7 @@
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sogou.com/pv.gif?*&stype=showskinpanel
 @@||sohotheatre.com^*/PageView.js$~third-party
-@@||sohu.com/cityjson$domain=114shouji.com|51credit.com|castech.com|eduyun.cn|ems.com.cn|jdboshi.com|jialingmm.net|lcm88.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn
+@@||sohu.com/cityjson$domain=51credit.com|castech.com|eduyun.cn|ems.com.cn|jdboshi.com|jialingmm.net|lcm88.com|mop.com|platinum-pen.com.cn|shouji.com.cn|skk.moe|vivo.com.cn
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||sohu.com/play/videonew.do?*/share_play.
 @@||sohu.com/upload/static/share/share_play.html

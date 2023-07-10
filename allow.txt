@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-10 09:50:38（北京时间） 
-! Total count: 6465
+! Version: 2023-07-10 20:37:53（北京时间） 
+! Total count: 6468
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -178,6 +178,7 @@
 @@/site/ad/*$domain=islide.cc
 @@/site=*/size=*/viewid=$domain=morningstar.in
 @@/social-share.$domain=patentguru.com
+@@/static/*/js/plugins/adview_*_ads.js$~third-party,domain=zebranovel.com|panda-novel.com|pandasnovel.com
 @@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
 @@/themes/flow/frontend_assets/js/advertisement.js|$~third-party
@@ -1002,7 +1003,6 @@
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth
-@@||auth.opera.com^$stealth
 @@||auth.vodafone.hu^$cookie=dtCookie
 @@||auto-api.yelp.com
 @@||auto-swiat.pl/*&srcc=ucs$removeparam=utm_source
@@ -2498,6 +2498,7 @@
 @@||go.tnshort.net^$stealth
 @@||go2stream.net/stream/live/track/view/Tracking.php$domain=go2stream.net
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
+@@||gogoanime.tv/cover^
 @@||gogoplay1.com/encrypt-ajax.php?id=
 @@||gogoplay1.com/streaming.php?id=
 @@||gogoplay5.com^$subdocument
@@ -2851,6 +2852,7 @@
 @@||googleadservises.com/*.js$domain=auone.jpauone.jp
 @@||googleapis.com/customsearch/$domain=m.hdzog.com
 @@||googleapis.com/identitytoolkit^$stealth
+@@||googleapis.com/youtube/*/search?key=$stealth
 @@||googleapis.com^$script,stylesheet,domain=canyoublockit.com
 @@||googledrive.com$document
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
@@ -3491,7 +3493,6 @@
 @@||ifengimg.com/a/201*Player
 @@||ifengimg.com/fe/shank/content/mobile_view.*_modern.js
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
-@@||iframe.dacast.com/vod/$stealth
 @@||iframe.simplex-affiliates.com^$stealth
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
@@ -3558,7 +3559,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=drphil.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=express.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=flipboard.com
@@ -3584,6 +3584,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=iz.ru
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jezebel.com|theonion.com|thetakeout.com|avclub.com|deadspin.com|theroot.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=karnaval.com
@@ -3762,6 +3763,7 @@
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
 @@||img.ads.tvb.com^
 @@||img.blesk.cz/js/base-cz/gemius.js
+@@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.dladealera.pl/ads/$domain=budmatauto.pl
 @@||img.mxomo.com^$image,stealth
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
@@ -3985,6 +3987,7 @@
 @@||kh.google.com/rt/earth/$stealth,xmlhttprequest
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kimcartoon.me/ads/fbMob.aspx
+@@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth
 @@||kinja.com/api/profile/accountwithtoken$stealth
 @@||kiplinger.112.2o7.net^
@@ -4573,7 +4576,6 @@
 @@||officeapps.live.com/*.aspx$stealth
 @@||officeworks.com.au^*/site-tracker.js
 @@||official-amtemu.com/wp-content/*/assets/js/advertisement$script
-@@||oglaszamy24.pl/*js-css/reklamy/bannery/*/adv.js
 @@||ohmanhua.com/js/*.js
 @@||oiihk.com^$generichide
 @@||oisd.nl^$generichide
@@ -4736,6 +4738,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wooseotools.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=topsporter.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=pigeonburger.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=smallseotools.com
@@ -5204,6 +5207,7 @@
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||sascdn.com/diff/js/smart.js$domain=deezer.com
 @@||sascdn.com/tag/$script,domain=filmweb.pl
+@@||sascdn.com/video/controller.js$domain=towideo.pl
 @@||sax.sina.com.cn/video/newimpress?
 @@||sb.scorecardresearch.com/*/plugins/streamsense_plugin_theplatform.js$domain=cbc.ca
 @@||sb.scorecardresearch.com/beacon.js$domain=animalplanet.com
@@ -5638,7 +5642,6 @@
 @@||static.newmobilelife.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js
 @@||static.opensubtitles.org/libs/js/common.js
 @@||static.opensubtitles.org/libs/js/urlshortener.js
-@@||static.panda-novel.com/static/*/js/plugins/adview_*_ads.js
 @@||static.parsely.com/p.js$domain=nfl.com
 @@||static.parsely.com^$script,domain=dailystar.co.uk|express.co.uk|nydailynews.com
 @@||static.redtube.com/mobi/images/$domain=redtube.com|redtube.net
@@ -5649,7 +5652,6 @@
 @@||static.vocstatic.com^$script,domain=areapersonal.hoy.es
 @@||static.webshark.pl/adserver/*/main_script.js?advertise_check=1
 @@||static.yieldmo.com/ym.adv.min.js$domain=okdebrid.com
-@@||static.zebranovel.com/static/*/js/plugins/adview_*_ads.js$~third-party
 @@||static00.forvo.com/_presentation/assets/js/vendor_mobile_no_ads.js
 @@||statics.cfmcdn.net/*/scripts/webtrends-$script,domain=cheapflights.com
 @@||stats.e-go.gr/rx.asp?$domain=megatv.com
@@ -6427,6 +6429,7 @@
 @@||yiqifa.com/ad_images/$~third-party
 @@||ynet.co.il/Common/App/Video/Gemius/gstream.js
 @@||ynetnews.com/Common/App/Video/Gemius/gstream.js
+@@||yogajournal.com^$stealth=dpi
 @@||yospace.com/csm/builder/*,proxy$domain=joyn.de
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||you.visualdna.com/user/iab^$domain=youronlinechoices.com

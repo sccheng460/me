@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-17 20:39:17（北京时间） 
-! Total count: 6469
+! Version: 2023-07-18 10:00:27（北京时间） 
+! Total count: 6470
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -4447,6 +4447,7 @@
 @@||my.bmi.ir^$elemhide,jsinject
 @@||my.foxnews.com^$stealth
 @@||my.nextdns.io^$stealth=dpi
+@@||my.onvista.de^$stealth=dpi
 @@||my.prom.ua/*/iframe$stealth
 @@||my.prom.ua/remote/
 @@||my.westfieldinsurance.com^$document

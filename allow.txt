@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-18 10:00:27（北京时间） 
-! Total count: 6470
+! Version: 2023-07-18 20:35:11（北京时间） 
+! Total count: 6476
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -161,6 +161,7 @@
 @@/pdc_s_code.js$domain=adobe.com
 @@/piwik-$domain=github.com
 @@/pl/js/detect-adblock/*.js$domain=ddwloclawek.pl|ddtorun.pl
+@@/player/*$stealth,domain=ibomma.pw
 @@/playlist.m3u8$stealth
 @@/pop.js|$domain=pornve.com
 @@/pub/ad/*$domain=ruten.com.tw
@@ -424,6 +425,7 @@
 @@||acs.m.taobao.com^
 @@||actiris.be/urchin.js
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
+@@||ad-emea.doubleclick.net/clk
 @@||ad-img.gmarket.com/ads/$image,domain=gmarket.co.kr
 @@||ad-ipd.sxp.smartclip.net/select$domain=tele5.de
 @@||ad-ipd.sxp.smartclip.net/select^$domain=n-tv.de
@@ -896,7 +898,6 @@
 @@||api.personaclick.com/recommend/$domain=koctas.com.tr
 @@||api.phnx.click/js/article-stat-v2.js$domain=smak.ua
 @@||api.playstation.com^$stealth
-@@||api.prod.bunnings.com.au^$stealth
 @@||api.solvemedia.com/papi/
 @@||api.spendino.de/admanager^
 @@||api.taboola.com/2.0/json/*/recommendations.$domain=azby.fmworld.net
@@ -1165,6 +1166,7 @@
 @@||bloctel.gouv.fr/assets/scripts/smarttag.js
 @@||blog.torproject.org^$stealth=dpi
 @@||blog.ztjal.info^$generichide
+@@||blokstvs.xyz/*/fload.js
 @@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
@@ -1186,7 +1188,6 @@
 @@||brightcove.com^$domain=wwe.com
 @@||brighteon.com^$generichide
 @@||briian.com/advert.
-@@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||britishairways.com/cms/global/scripts/applications/tracking/visualsciences.js
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
@@ -1812,6 +1813,7 @@
 @@||craftaro.com/build/assets/GoogleAd-*.js
 @@||crazygames.com/prebid.js$script,~third-party
 @@||crazygames.com^$content
+@@||crbmpurga.ru/files/files/ads/$image
 @@||create.jd.com/ad/
 @@||creativecloud-deliver.bytedance.com/api/webardeliver/verify$stealth,domain=capcut.cn
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
@@ -2107,6 +2109,7 @@
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
+@@||economictimes.com/*ads*/*.cms
 @@||ecostream.tv/js/ecos.js
 @@||eddiebauer.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js
 @@||eden.international/script/ad_banner/
@@ -2327,6 +2330,8 @@
 @@||frosmo.com/recoApi/$domain=eeva.fi|terve.fi|lily.fi|meillakotona.fi|apu.fi
 @@||frosmo.com^$image,xmlhttprequest,domain=karkkainen.com
 @@||fscinda.com/ad/$~third-party
+@@||fuckadblock.sitexw.fr/beta/fuckadblock.js$domain=fuckadblock.sitexw.fr
+@@||fuckadblock.sitexw.fr^$generichide
 @@||fullhdfilm.pro/_video_onu_yeni.php$domain=fullhdfilm.pro
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
@@ -3390,6 +3395,7 @@
 @@||hit.interia.pl/iwa_core$script,~third-party
 @@||hit.stat24.com/*ad.xml$xmlhttprequest,other,domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl|geekweek.pl
 @@||hitbits.io/v1/ads2/ads/$xmlhttprequest
+@@||hiveworkscomics.com/frontboxes/300x250_$image,~third-party
 @@||hj.flxpxl.com^*.js?r=*&m=*&a=$domain=twitch.tv
 @@||hk.on.cc/js/v4/oncc-adbanner.js
 @@||hk.on.cc/js/v4/oncc-adbanner.js$domain=hk.on.cc
@@ -3490,6 +3496,7 @@
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
 @@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
+@@||idmsa.apple.com/appleauth/$stealth,domain=icloud.com|icloud.com.cn
 @@||idnes.cz^$generichide
 @@||idos.idnes.cz^$csp
 @@||iejima.org/ad-banner/$image,~third-party
@@ -3557,7 +3564,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=docbao.vn
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=drphil.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
@@ -3833,7 +3839,6 @@
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$third-party
 @@||inpref.s3.amazonaws.com/sites/eventim_$script,third-party
 @@||insidemarketing.eu/cdn/lib/js/adsframe.js
-@@||insight.adsrvr.org/track/edaa^$domain=youronlinechoices.com
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||inspsearchapi.com^$domain=zoo.com|dogpile.com
 @@||instagram.com/api/v1/ads/$~third-party,xmlhttprequest
@@ -4147,6 +4152,7 @@
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||lshstream.xyz/hls/$xmlhttprequest
 @@||lsi.com^*/google-analytics.js
+@@||lun.com/*/Scripts/Analytics.js
 @@||luscious.net/sailthru.js
 @@||lustich.de.adadapter.netzathleten-media.de/API-1.0/*/naMediaAd.js$domain=lustich.de
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
@@ -4264,6 +4270,7 @@
 @@||media.wired.it/static_wired/js/misc/cn-adv.js
 @@||mediacdn.disqus.com^$document
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
+@@||medialaancdn.be^$generichide
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
 @@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -4388,7 +4395,6 @@
 @@||mongoosemetrics.com/jsfiles/js-correlation/mm-rules.min.js$domain=subaru.com
 @@||monnsutogatya.com^$elemhide
 @@||monova.*/fonts/
-@@||monova.*/img/
 @@||mooc-image.nosdn.127.net^$stealth
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
 @@||motherboard.vice.com^*/vmp_analytics.js
@@ -4443,6 +4449,7 @@
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||mxpnl.com^$domain=dailysteals.com
 @@||mxpnl.com^$domain=mixpanel.com
+@@||my-bucket-s3-*-amazonaws.*.*/*.m3u8$stealth,domain=ibomma.pw
 @@||my.asos.com/identity^$stealth
 @@||my.bmi.ir^$elemhide,jsinject
 @@||my.foxnews.com^$stealth
@@ -4799,7 +4806,6 @@
 @@||pcworldcommunication.*.sc.omtrdc.net/b/ss/
 @@||pcworldcommunication.d2.sc.omtrdc.net/b/ss/$domain=techhive.com
 @@||pdk.theplatform.com/*/pdk/js/plugins/doubleclick.js$domain=cbc.ca
-@@||pdk.theplatform.com^$domain=vplayer.nbcolympics.com
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||peacocktv.com^$generichide
 @@||pendo.io/agent/static/$script,domain=recruiting.adp.com
@@ -5346,6 +5352,7 @@
 @@||selfimg.com.cn/??
 @@||sellercentral.amazon.com/hz/inventory/$elemhide,jsinject
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
+@@||senda.pl/ads/*.js$~third-party
 @@||sendgb.com/*/?utm_source=$removeparam=utm_source
 @@||sendgrid.com/marketing_campaigns$document
 @@||seoulland.co.kr^$stealth=dpi
@@ -6096,7 +6103,6 @@
 @@||ups.xplosion.de/ctx?event_id=$domain=tz.de
 @@||upstream.to/js/dnsads.js
 @@||uptodate.com^$stealth=dpi
-@@||upvid.co/embed-*.html$popup
 @@||upvtt.com/uploads^$third-party
 @@||upxin.net/advertisement.js
 @@||upxin.net^$generichide
@@ -6278,6 +6284,7 @@
 @@||weiyun001.com/banner_ads.js
 @@||wenxuecity.com/include/editor/*/media/ad/
 @@||wenxuecity.com^$generichide
+@@||weqnipiuor-ikcuv-zeijindia.ibo.link/player/$stealth
 @@||werbung.qs-optiker.de^$domain=werbung.qs-optiker.de
 @@||westelm.com^*/bloomreach.js
 @@||westjet.com/js/webstats.js
@@ -6434,7 +6441,6 @@
 @@||yolla-d.openx.net/|$script,domain=cdn.htmlgames.com
 @@||yospace.com/csm/builder/*,proxy$domain=joyn.de
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
-@@||you.visualdna.com/user/iab^$domain=youronlinechoices.com
 @@||youaima.com/zz/play_
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?

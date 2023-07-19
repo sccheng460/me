@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-19 10:49:05（北京时间） 
-! Total count: 6483
+! Version: 2023-07-19 20:32:44（北京时间） 
+! Total count: 6485
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -495,6 +495,7 @@
 @@||adguard.com^$stealth
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
+@@||adikpm.github.io/repo/assets/js-v3/prebid.js$domain=adikhealth.xyz|mangindo.xyz
 @@||adjs.8591.com.tw^$script
 @@||adlink.wf^
 @@||adload.ru^
@@ -4131,6 +4132,7 @@
 @@||logging.apache.org^$~third-party
 @@||logi5.xiti.com/go.click$domain=schneider-electric.com
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
+@@||login-api.e-pages.dk^$stealth
 @@||login.aliexpress.com^$stealth,domain=aliexpress.ru|aliexpress.com
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||login.coupang.com/resources/*/app-common/js/fingerprint/fingerprint.js$script

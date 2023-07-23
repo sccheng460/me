@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-23 09:37:56（北京时间） 
-! Total count: 6481
+! Version: 2023-07-23 20:29:36（北京时间） 
+! Total count: 6490
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -400,6 +400,7 @@
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||ab.blogs.es/abtest.png?editorialRecommendations$domain=applesfera.com
 @@||abchina.com^*ad
+@@||abolishstand.net/embed$stealth
 @@||aboluowang.com^$generichide
 @@||about-australia.com/*/clickheat.js
 @@||abv-p.com/Images/adv.png
@@ -453,6 +454,7 @@
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||ad.dotandad.com/mediamond_vm.jsp$domain=video.mediaset.it
+@@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||ad.doubleclick.net/clk*&destinationURL=$popup
 @@||ad.doubleclick.net/clk;$urlblock
 @@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
@@ -497,7 +499,6 @@
 @@||adikpm.github.io/repo/assets/js-v3/prebid.js$domain=adikhealth.xyz|mangindo.xyz
 @@||adjs.8591.com.tw^$script
 @@||adlink.wf^
-@@||adload.ru^
 @@||admin.mailchimp.com^
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnet.pravda.com/examples/adriver.core.2.minifire.js
@@ -721,6 +722,7 @@
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=crosswordsolver.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=arkadium.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=crosswordsolver.org
+@@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=games.metv.com
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
 @@||an.yandex.ru^$app=com.badmanners.murglar
@@ -1069,6 +1071,7 @@
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
 @@||bankrespublika.az^$stealth=dpi
 @@||banma.com/statics/js/??
+@@||banner.infoey.com/adbanner.png$domain=phineypet.com
 @@||banner.yt^$image,domain=socialblade.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||barax.de/cache/images/logo-*x*-
@@ -1262,10 +1265,10 @@
 @@||canadianlisted.com^*/ad/index.css$stylesheet,~third-party
 @@||canadiantire.ca^*/analytics.sitecatalyst.js
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
+@@||candlesouth.net/embed$stealth
 @@||capi.connatix.com/core/pls?v=$domain=loot.tv
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
 @@||captcha-api.yandex.ru^$stealth
-@@||captcha-delivery.com^$stealth
 @@||captcha-sgp-sec.heytapmobile.com/dx-captcha/index.js$domain=security.oneplus.com
 @@||captcha.qq.com^*&refer=http
 @@||captcha.qq.com^*?*=*=*=$subdocument
@@ -1965,7 +1968,6 @@
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||dijitalx.com/wp-content/uploads/2016/12/digital_advertising.jpg
 @@||directline.com/touchclarity/$script
-@@||disco-api.com^$stealth
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
@@ -3288,7 +3290,6 @@
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gpt-worldwide.com/js/gpt.js$~third-party
 @@||grandcentral.1plus1.video^$stealth
-@@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||grapeshot.co.uk/sare-api/
@@ -3605,6 +3606,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jezebel.com|theonion.com|thetakeout.com|avclub.com|deadspin.com|theroot.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=karnaval.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kizi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=knoxnews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kotaku.com
@@ -3825,6 +3827,7 @@
 @@||indiansgetfucked.com$generichide
 @@||indiatimes.com/configspace/
 @@||indiatimes.com/wp-content/themes/*/js/*ads*.js
+@@||indiegogo.com^$stealth
 @@||inews.gtimg.com^
 @@||info.seek.com/b/ss/$image,domain=seek.com.au
 @@||infojobs.com.br/mf-publicarea/_content/InfoJobs.Microfrontend.Components/js/smarttag.js
@@ -3897,6 +3900,7 @@
 @@||jeevansathi.com/minify.php?files=$script,stylesheet
 @@||jetzt.de^$generichide
 @@||jetztspielen.de^*/EventTracker.js
+@@||jewelavid.com/embed2.php$stealth
 @@||jianshu.com/asimov/ab_test/info
 @@||jiav000.com^$generichide
 @@||jiayuan.com^*/pv.js
@@ -4275,7 +4279,6 @@
 @@||media.studybreakmedia.com/doubleclick/ads2.js
 @@||media.ticketmaster.*/click_track.js
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
-@@||media.wired.it/static_wired/js/misc/cn-adv.js
 @@||mediacdn.disqus.com^$document
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
 @@||medialaancdn.be^$generichide
@@ -4562,6 +4565,7 @@
 @@||ntp.msn.com/edge/$stealth
 @@||ntu.edu.tw/modules/banner.php
 @@||ntuplay.xyz/*.php$domain=watch.sportsbearer.top
+@@||ntuplay.xyz/premiumtv$stealth
 @@||ntust.edu.tw/bin/showads.
 @@||ntv.io/serve/load.js$domain=mcclatchydc.com
 @@||nu.nl^$generichide
@@ -4982,6 +4986,7 @@
 @@||pubads.g.doubleclick.net/gampad/ads?$app=com.goldtouch.ynet
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||pubads.g.doubleclick.net/gampad/ads?*1&output=xml_vmap1&*&url=https%3A%2F%2Fwww.funimation.com%2F*&ad_rule=$domain=imasdk.googleapis.com
+@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&iu=%2F6762%2Fmkt.ythome_1x1$domain=youtube.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast*&url=http%3A%2F%2Famp.usatoday.com
 @@||pubads.g.doubleclick.net/gampad/live/ads?correlator=$domain=rx.iscdn.net
@@ -5053,6 +5058,7 @@
 @@||quanzhi.cn/v3/images/index_ad/
 @@||query1.petametrics.com/*&sdk=bc-jsonp$domain=lanacion.com.ar
 @@||query1.petametrics.com/*&sdk=bc-jsonp$domain=ranker.com
+@@||qwebplay.xyz/premiumtv/*stream*.php$stealth
 @@||r10s.jp/com/img/home/t.gif?$domain=24.rakuten.co.jp
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||r3sub.com^$generichide
@@ -5521,7 +5527,6 @@
 @@||sonic-ui.highereducation.com/latest/ucl.adapter.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/ucl.publisher.js$domain=thebestschools.org
 @@||sonic-ui.highereducation.com/latest/vendor.js$domain=thebestschools.org
-@@||sonichits.com^$generichide
 @@||sonichits.com^$generichide,badfilter
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
 @@||soranews24.com^$generichide
@@ -5833,6 +5838,7 @@
 @@||technews.tw^$generichide,badfilter
 @@||technical-service.net/api?$domain=n-tv.de|vip.de|rtl.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|rtl.de|vip.de
+@@||techniknews.net/data/ads/doubleserve.js
 @@||technopat.net/*/add-reply$xmlhttprequest
 @@||technopat.net/*/draft$xmlhttprequest
 @@||technopat.net/*/reply-preview$xmlhttprequest
@@ -5966,6 +5972,7 @@
 @@||track.nzz.ch/*/api/oauth/
 @@||track.nzz.ch/cre-*/tracking/
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
+@@||track.toggl.com/auth^$stealth
 @@||track2.royalmail.com^
 @@||trackcmp.net^|
 @@||tracker.ai.xiaomi.com^
@@ -6052,6 +6059,7 @@
 @@||tvid.in/sdk/loader.js$domain=tvid.in
 @@||tvn.adocean.pl/*ad.xml$xmlhttprequest,domain=player.pl|get.x-link.pl
 @@||tvn24.pl^$generichide
+@@||tvnturbo.pl^$generichide
 @@||tvr.by^$stealth=dpi
 @@||tweaktown.com^$generichide,badfilter
 @@||twicli.neocat.jp/plugins/geomap.js
@@ -6174,6 +6182,7 @@
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
 @@||video.qq.com/getvinfo?*&otype=*&host=*&refer=htt$domain=v.qq.com
 @@||video.repubblica.it^*/nielsen.js
+@@||video.ucplayer1.com/hembedplayer$stealth
 @@||video.weibocdn.com^$stealth
 @@||videogamesblogger.com^$csp
 @@||videoplaza.tv/proxy/pulse-sdk-html*latest.min.js$domain=mtvuutiset.fi

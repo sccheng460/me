@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-07-23 20:29:36（北京时间） 
-! Total count: 6490
+! Version: 2023-07-24 09:26:52（北京时间） 
+! Total count: 6493
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -71,6 +71,7 @@
 @@/adslider/*$domain=firstbank.com.tw
 @@/adsystem/*$domain=adcenter.dhgate.com
 @@/advert/*$domain=csxbank.com|fjgcjxgl.com|locuspublishing.com|moretv.com.cn
+@@/advert3.js|$~third-party,domain=waaw.tv|czxxx.org|scenelife.org|hqq.tv
 @@/advert_$domain=pisen.com.cn|wb.qq.com
 @@/advertise/*$domain=ceair.com|sfbuy.com
 @@/advertisement.$domain=gametower.com.tw
@@ -124,7 +125,7 @@
 @@/friendbuy.min.js$script,domain=butcherbox.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
 @@/fuckadblock.js$domain=playview.io
-@@/fuckadblock.js$domain=uniqueten.net|topcryptoz.net|allcryptoz.net|openload.casa|meucdn.vip|yandexcdn.com|videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv|newhost.me|czxxx.org|waaw.tv
+@@/fuckadblock.js$domain=uniqueten.net|topcryptoz.net|allcryptoz.net|meucdn.vip|yandexcdn.com|scenelife.org|hqq.tv|newhost.me|czxxx.org|waaw.tv
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
@@ -1405,6 +1406,7 @@
 @@||cdn.jsdelivr.net/npm/fingerprintjs2$domain=wannadep.com
 @@||cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js
 @@||cdn.jsdelivr.net/npm/jquery@
+@@||cdn.jsdelivr.net/npm/videojs-contrib-ads/dist/videojs.ads.min.js$domain=scenelife.org|hqq.tv|newhost.me|czxxx.org|waaw.tv
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.krxd.net/amp/remote.min.js$domain=static.telegraph.co.uk
@@ -3660,6 +3662,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rte.ie
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=rtl.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sbs.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=scenelife.org|hqq.tv|newhost.me|czxxx.org|waaw.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shahid.mbc.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sondakika.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sonyliv.com

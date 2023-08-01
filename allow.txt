@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-01 09:33:27（北京时间） 
-! Total count: 6465
+! Version: 2023-08-01 20:33:09（北京时间） 
+! Total count: 6474
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -601,7 +601,6 @@
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservice.google.*/adsid/integrator.js$domain=player.tubia.com
-@@||adservice.google.*/adsid/integrator.js^$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
 @@||adshnk.com^$generichide
 @@||adspirit.de^$domain=kinopolis.de
@@ -723,9 +722,7 @@
 @@||amplify.outbrain.com^$app=jp.co.alc.eow
 @@||amplitude.com/libs/$script,domain=elconfidencial.com|kink.com|pdfexpert.com
 @@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=arkadium.com
-@@||ams.cdn.arkadiumhosted.com/advertisement/display/stable/display-ads.js$domain=crosswordsolver.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=arkadium.com
-@@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=crosswordsolver.org
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=games.metv.com
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
@@ -878,6 +875,7 @@
 @@||api.geetest.com^$stealth
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.github.com^$stealth
+@@||api.imgur.com^$stealth
 @@||api.infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js
 @@||api.ip.sb/geoip$domain=ip.skk.moe
 @@||api.ipify.org/?format=json$domain=utils.surf
@@ -1693,6 +1691,7 @@
 @@||cnprint.org^$generichide
 @@||cnr.cn/gg/
 @@||cnsexy.top/wp-content/plugins/dh-anti-adblocker/assets/js/showads.js
+@@||cnt.streamz.ws/count.php
 @@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
 @@||cntv.cn/include/video/js/cntv_Advertise.js
 @@||cntv.cn^*_ad.js
@@ -1742,6 +1741,7 @@
 @@||communityenergysolutions.com/ui/assets/gtm/gtm.js$script,~third-party
 @@||component-vvs.glomex.com/embed^$popup
 @@||components2.corriereobjects.it/rcs_tealium/v1/distro/corriere/preprod/utag.*js?$domain=corriere.it
+@@||computerera.co.in^$generichide
 @@||computerworld.com/resources/scripts/lib/demandbase.js$script
 @@||computerworld.com/www/js/ads/jquery.lazyload-ad.js
 @@||comsclub.com^$stealth=dpi
@@ -2048,6 +2048,7 @@
 @@||download.amd.com/js/analytics/analyticscore.js
 @@||download.mokeedev.com^$genericblock,generichide
 @@||downloader.disk.yandex.$stealth
+@@||downloadly.ir^$stealth
 @@||downloads.descendant.me^$generichide
 @@||dpm.demdex.net/id?d_visid_ver=$domain=nbcdfw.com,important
 @@||dpm.demdex.net^$app=com.appseleration.android.selfcare
@@ -4866,6 +4867,7 @@
 @@||play.google.com/log?format=json$domain=news.google.com
 @@||play.google.com/store/apps/$document
 @@||play.max.com^$generichide
+@@||play.nova.bg/prebid-ads.js
 @@||play.stream2.me/embed/$stealth
 @@||play.tv3.ee^$generichide
 @@||play.tv3.lv^$generichide
@@ -5426,7 +5428,9 @@
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
 @@||simcotools.app/assets/adsense-
 @@||simcotools.app/assets/adsense-*.js$~third-party
+@@||simkl.com^$xmlhttprequest,elemhide,jsinject,extension
 @@||simple.ripley.cl$generichide
+@@||simplebits.io/ads/700/cz.html$xmlhttprequest,domain=simplebits.io
 @@||simyo.de/b/ss/$image
 @@||sina.com.cn/litong/*/close
 @@||sina.com.hk^*_ads.cgi
@@ -5671,6 +5675,8 @@
 @@||stats.sports.bellmedia.ca^$domain=tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||staty.portalradiowy.pl/wstats/$script,third-party
+@@||stc.cdncache.xyz/*/*.css$domain=streamz.ws
+@@||stc.cdncache.xyz/*/*.js$domain=streamz.ws
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||steamcustomizer.com/cache/skin/ad/$image
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
@@ -5961,6 +5967,7 @@
 @@||tracklog.58.com/referrer$~third-party
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||tracktrace.delivery/ads.txt
+@@||trade.aliexpress.com$stealth
 @@||tradedoubler.com^$removeparam=tduid
 @@||tradingview.com^$script,stealth
 @@||traffichaus.com/scripts/banner-ad.js
@@ -6169,6 +6176,7 @@
 @@||viid.me^$generichide
 @@||vikistream.com/embed$stealth
 @@||vip.sp-flv.com^*/?url=age_$subdocument,stealth=referrer
+@@||vipi.tv/ads.js
 @@||vipstatic.com/img/share/blank.png
 @@||viralize.tv^$domain=automoto.it
 @@||virpe.cc/includes/js/adver.js
@@ -6284,6 +6292,7 @@
 @@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widget.trustpilot.com/bootstrap/*/tp.widget.bootstrap.min.js$domain=mathem.se
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
+@@||widgets.outbrain.com/nanoWidget/externals/obFrame/obFrame.htm$jsinject,elemhide
 @@||widgets.outbrain.com/outbrain.js$domain=elcorreo.com
 @@||widgets.outbrain.com/outbrain.js$domain=work.ink
 @@||widgets.outbrain.com^*/comScore/comScore.htm

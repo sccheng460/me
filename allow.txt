@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-03 09:19:02（北京时间） 
-! Total count: 6491
+! Version: 2023-08-03 20:33:04（北京时间） 
+! Total count: 6488
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -197,7 +197,6 @@
 @@/wp-content/plugins/blockalyzer-adblock-counter/*$image,script,~third-party,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 @@/wp-content/plugins/imedia-basic/adserver-*.js$domain=sgxnifty.org|dollarindex.org|cacfutures.org|dowfutures.org|nasdaqfutures.org|spfutures.org|ftsefutures.org|daxfutures.org|nikkeifutures.org|niftyfutures.org|comexlive.org|mcxlive.org|ncdexlive.org
 @@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=mobi2c.com|world2our.com|healthy4pepole.com|bluetechno.net
-@@/wp-content/uploads/*$image,stealth,domain=mangastic.cc
 @@/ws$websocket,domain=speedtest.net
 @@://127.0.0.1$generichide
 @@://192.168.0.1$generichide
@@ -802,7 +801,6 @@
 @@||api-maps.yandex.ru/services/startup/$stealth
 @@||api-rewarded-video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
 @@||api-secure.solvemedia.com^
-@@||api-secure.solvemedia.com^$stealth
 @@||api-v*.trbo.com/r.php$domain=blau.de
 @@||api-v*.trbo.com/r.php$domain=o2online.de
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
@@ -1405,7 +1403,6 @@
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
-@@||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.mxpnl.com/libs/mixpanel*.min.js$domain=account.cyberghostvpn.com
 @@||cdn.mxpnl.com/libs/mixpanel*.min.js$domain=grammarly.com
@@ -2973,7 +2970,6 @@
 @@||googletagmanager.com/gtm.js$domain=ccleaner.com
 @@||googletagmanager.com/gtm.js$domain=cdek.ru
 @@||googletagmanager.com/gtm.js$domain=chainreactioncycles.com
-@@||googletagmanager.com/gtm.js$domain=chip.com.tr
 @@||googletagmanager.com/gtm.js$domain=ci-en.dlsite.com
 @@||googletagmanager.com/gtm.js$domain=cildimveben.com
 @@||googletagmanager.com/gtm.js$domain=cinemaxx.de
@@ -4739,6 +4735,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=turkce-brosurler.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tuxnews.it
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wooseotools.com
@@ -5397,6 +5394,7 @@
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-content/$script,domain=kosmofoto.com
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
+@@||sfl.ink^$generichide
 @@||sh.st$generichide
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
@@ -6492,6 +6490,5 @@
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxmee.com^$generichide
-@@||zxzja.com:*/Cloud/Down/$subdocument,stealth
 @@||zylom.com/images/site/zylom/scripts/google-analytics.js
 @@||zynga.com/current/iframe/track.php?$domain=apps.facebook.com

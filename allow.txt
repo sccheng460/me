@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-02 20:32:56（北京时间） 
-! Total count: 6494
+! Version: 2023-08-03 09:19:02（北京时间） 
+! Total count: 6491
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1034,6 +1034,8 @@
 @@||b.scorecardresearch.com/r$domain=macworld.com|elmundo.es|pcworld.com|seattletimes.com|ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
 @@||b.scorecardresearch.com/r$domain=techhive.com
 @@||b.scorecardresearch.com/r?$domain=bedfordshire-news.co.uk
+@@||b24-*.bitrix24.ru^$stealth
+@@||b24-*.bitrix24.ru^$xmlhttprequest,elemhide,jsinject,extension
 @@||b90.yahoo.co.jp/conv.js$domain=www3.nissan.co.jp
 @@||b92.net/a/cmt_submit.php$document
 @@||b92.yahoo.co.jp/js/s_retargeting.js$domain=www3.nissan.co.jp
@@ -1691,7 +1693,6 @@
 @@||cnr.cn/gg/
 @@||cnsexy.top/wp-content/plugins/dh-anti-adblocker/assets/js/showads.js
 @@||cnt.streamz.ws/count.php
-@@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
 @@||cntv.cn/include/video/js/cntv_Advertise.js
 @@||cntv.cn^*_ad.js
 @@||cnzz.com/c.php?id=30070167$domain=m.tieyou.com
@@ -1798,7 +1799,6 @@
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||cot.priceminister.com/res/static/*/xtcore.js
 @@||coubsecureassets-a.akamaihd.net/assets/
-@@||count.rtl.de/crossdomain.xml$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||count.taobao.com/counter$script
 @@||count.video.sina.com.cn^*?video_ids=
 @@||countrygarden.com.cn/ad/
@@ -2620,7 +2620,6 @@
 @@||google-analytics.com/analytics.js$domain=mediamarkt.nl
 @@||google-analytics.com/analytics.js$domain=mgts.ru
 @@||google-analytics.com/analytics.js$domain=mixcloud.com
-@@||google-analytics.com/analytics.js$domain=mobile.tvnow.de
 @@||google-analytics.com/analytics.js$domain=moniteurautomobile.be
 @@||google-analytics.com/analytics.js$domain=morhipo.com
 @@||google-analytics.com/analytics.js$domain=ndtv.com
@@ -3176,7 +3175,6 @@
 @@||googletagmanager.com/gtm.js$domain=tribuna.com
 @@||googletagmanager.com/gtm.js$domain=turkcell.com.tr
 @@||googletagmanager.com/gtm.js$domain=tv-asahi.co.jp
-@@||googletagmanager.com/gtm.js$domain=tvnow.de|tvnow.at
 @@||googletagmanager.com/gtm.js$domain=type.jp
 @@||googletagmanager.com/gtm.js$domain=ucicinemas.pt
 @@||googletagmanager.com/gtm.js$domain=ucpa-vacances.com
@@ -4947,6 +4945,7 @@
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pracuj.pl^$cookie=gptrackCookie
 @@||pravo.by^$stealth=dpi
+@@||prd.jwpltx.com/*/jwplayer$domain=embed.watchanimesub.net
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids$domain=atozmath.com
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||prepostseo.com/ad.js$domain=prepostseo.com
@@ -5651,6 +5650,7 @@
 @@||static.expressbpd.com/rsjs/ads.js
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.hdslb.com/ad-images/$image
+@@||static.hentai.direct^$stealth
 @@||static.lci.fr/assets/scripts/vendors/smarttag-prod.js
 @@||static.leaddyno.com/js$script,domain=s4l.us
 @@||static.mediav.com/js/feed_ts.js$domain=jianshu.com
@@ -6365,18 +6365,15 @@
 @@||www.googletagmanager.com^$domain=onlineshop.smt.docomo.ne.jp
 @@||www.olx.ua/api^$app=ua.slando
 @@||www.outsideonline.com^$stealth=dpi
+@@||www.pussyspace.*/ajax/contact/exo-logo.png|
 @@||www.pussyspace.*/class/captcha/arrow.png|
 @@||www.pussyspace.*/class/captcha/captcha.php|
 @@||www.pussyspace.*/favicon.ico|
 @@||www.pussyspace.*/player/loading.gif|
-@@||www.pussyspace.*/player/playBTN.png|
-@@||www.pussyspace.*/style/03/img/bg.png|
-@@||www.pussyspace.*/style/03/img/navbg.hover.png|
-@@||www.pussyspace.*/style/03/img/navbg.png|
-@@||www.pussyspace.*/style/03/img/speed-dials.png|
-@@||www.pussyspace.*/style/03/img/x-sprite.png|
 @@||www.pussyspace.*/style/img/abuse.email.png#|
+@@||www.pussyspace.*/style/img/bg.png|
 @@||www.pussyspace.*/style/img/navbg.hover.png|
+@@||www.pussyspace.*/upload/no_img.jpg|
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
 @@||www.statcounter.com/images/$image,third-party
 @@||www.ups.com/WebTracking/processInputRequest

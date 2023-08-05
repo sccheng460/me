@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-05 09:17:09（北京时间） 
-! Total count: 6487
+! Version: 2023-08-05 20:28:53（北京时间） 
+! Total count: 6486
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -811,6 +811,7 @@
 @@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
 @@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io
 @@||api.adinplay.com/libs/aiptag/pub/SND/skynode.pro/tag.min.js$domain=panel.skynode.pro
+@@||api.adinplay.com/libs/aiptag/pub/WRK/tetrads.io/tag.min.js$domain=tetrads.io
 @@||api.adinplay.com/player/*/player.min.js$domain=mineparkour.club|gunzer.io|pockey.io|bist.io|piaf.io
 @@||api.ads.tvb.com^
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
@@ -2271,8 +2272,6 @@
 @@||filmozercy.com/js/fuckadblock.min.js
 @@||films.imhonet.ru^$jsinject
 @@||filmweb.pl^$generichide
-@@||financeyogi.net/safe*.php?link=$stealth
-@@||finclub.in/safe*.php?link=$stealth
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
@@ -2492,7 +2491,6 @@
 @@||go.com/stat/flash/analyticreportingas3.swf
 @@||go.gov.il^$stealth=dpi
 @@||go.kr^$stealth=dpi
-@@||go.tnshort.net^$stealth
 @@||go2stream.net/stream/live/track/view/Tracking.php$domain=go2stream.net
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||gogoanime.tv/cover^
@@ -3385,6 +3383,7 @@
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.gemius.pl^$app=pl.allegro
 @@||hit.interia.pl/iwa_core$script,~third-party
+@@||hit.stat24.com/*ad.xml$xmlhttprequest,other,domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl|geekweek.pl
 @@||hitbits.io/v1/ads2/ads/$xmlhttprequest
 @@||hiveworkscomics.com/frontboxes/300x250_$image,~third-party
 @@||hj.flxpxl.com^*.js?r=*&m=*&a=$domain=twitch.tv
@@ -3652,6 +3651,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.onnetwork.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
@@ -3955,7 +3955,6 @@
 @@||karte.io/libs/tracker.$domain=zf1.tohoku-epco.co.jp|zozo.jp
 @@||karte.io/libs/tracker.$domain=zozo.jp
 @@||kaspersky.co$content
-@@||kaspersky.ru/advert/
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||katfile.com/js/*ad*.js
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
@@ -4479,7 +4478,6 @@
 @@||ncbi.nlm.nih.gov^$jsinject
 @@||nceea.cn/Content/images/ad/
 @@||ndr.de/common/resources/lib/atinternet/smarttag.js
-@@||neads.io^$domain=neads.io
 @@||nebula-cdn.kampyle.com^$domain=miclaro.com.gt
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
@@ -4686,11 +4684,13 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bemiraculous.tk|drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com|paytroncoins.cf|codenova-center.web.app|rivanimation.com|elbierzodigital.com|uploadrar.com|vknsorgula.net|safelink.asia
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chd4.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dl.ccbluex.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=downloads.descendant.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dthforum.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duplichecker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eirudo.com
@@ -5337,6 +5337,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=sinarharian.com.my
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=softonic.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=tetrads.io
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=vogue.ru
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
@@ -5458,7 +5459,6 @@
 @@||slashdot.org/story^
 @@||slashlook.com/_resource/js/_js_ads.min.js
 @@||sledujserialy.io/theme/js/popunder.js
-@@||sledujserialy.to/theme/js/popunder.js
 @@||slike.indiatimes.com/feed/$domain=idiva.com
 @@||slike.indiatimes.com/feed/playerconfig/*.json$domain=timesnownews.com
 @@||slike.indiatimes.com/feed/playerconfig/*.json$domain=zoomtventertainment.com
@@ -5871,7 +5871,6 @@
 @@||thenextweb.com$generichide
 @@||thepiratebay.*/ajax_
 @@||thepiratebay.org/*.php$csp,~third-party
-@@||thepiratebay.org/cdn-cgi/challenge-platform/$~third-party
 @@||thepiratebay.org/static/main.js$script,~third-party
 @@||thepiratebay.org^$subdocument
 @@||therichest.com^$generichide
@@ -6073,7 +6072,6 @@
 @@||uim.tifbs.net/js/3423.js$domain=top.de
 @@||uim.tifbs.net/js/7732.js$domain=gewinnspiel.gmx.de|gewinnspiel.web.de
 @@||ujinbi.com/UpLoadFile/guanggao/
-@@||ukbride.co.uk/css/*/adverts.css
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
 @@||ulifestyle.com.hk/store/prod/iskypost/res/js/dfp-
 @@||ulogin.ru/auth.php
@@ -6102,6 +6100,7 @@
 @@||ups.xplosion.de/ctx?event_id=$domain=tz.de
 @@||upstream.to/js/dnsads.js
 @@||uptodate.com^$stealth=dpi
+@@||uptostream.com^$csp=worker-src 'none'
 @@||upvtt.com/uploads^$third-party
 @@||upxin.net/advertisement.js
 @@||upxin.net^$generichide

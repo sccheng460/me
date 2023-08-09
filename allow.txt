@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-08 20:31:41（北京时间） 
-! Total count: 6488
+! Version: 2023-08-09 09:21:33（北京时间） 
+! Total count: 6492
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1261,6 +1261,7 @@
 @@||capi.connatix.com/core/pls?v=$domain=loot.tv
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
 @@||captcha-api.yandex.ru^$stealth
+@@||captcha-eu-sec.heytapmobile.com^$domain=id.heytap.com
 @@||captcha-sgp-sec.heytapmobile.com/dx-captcha/index.js$domain=security.oneplus.com
 @@||captcha.qq.com^*&refer=http
 @@||captcha.qq.com^*?*=*=*=$subdocument
@@ -3719,6 +3720,7 @@
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=sciencechannel.com
 @@||imasdk.googleapis.com^$app=bbc.mobile.news.ww
 @@||imasdk.googleapis.com^$app=be.persgroep.android.news.mobilead
+@@||imasdk.googleapis.com^$app=ch.iAgentur.i20MinFr
 @@||imasdk.googleapis.com^$app=com.bamnetworks.mobile.android.gameday.atbat
 @@||imasdk.googleapis.com^$app=com.cbs.app
 @@||imasdk.googleapis.com^$app=com.graymatrix.did
@@ -5605,6 +5607,7 @@
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
 @@||static.adman.gr^$domain=naftemporiki.gr
+@@||static.ads-twitter.com/uwt.js$domain=media.cms.nova.cz
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
@@ -5878,6 +5881,7 @@
 @@||thepiratebay.org/static/main.js$script,~third-party
 @@||thepiratebay.org^$subdocument
 @@||therichest.com^$generichide
+@@||thetvdb.com/banners/$image,domain=tvtime.com
 @@||theverge.com/_next/data/*.json
 @@||thingiverse.com/assets/ad/$image,~third-party
 @@||thisav.com^$generichide

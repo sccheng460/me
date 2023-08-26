@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-08-25 20:29:43（北京时间） 
-! Total count: 6625
+! Version: 2023-08-26 09:05:49（北京时间） 
+! Total count: 6628
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -812,6 +812,8 @@
 @@||api*-access-sg.pangle.io^$app=com.square_enix.android_googleplay.dqwalkj
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
+@@||api-js.datadome.co/js/|$stealth,domain=auth.garena.com
+@@||api-js.datadome.co/js/|$xmlhttprequest,domain=auth.garena.com
 @@||api-maps.yandex.ru/services/startup/$stealth
 @@||api-rewarded-video.fyber.com^$app=net.wooga.tropicats_tropical_cats_puzzle_paradise
 @@||api-secure.solvemedia.com^
@@ -3960,6 +3962,7 @@
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=learning.edx.org
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$domain=account.samsung.com
+@@||js.datadome.co/tags.js$domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.datadome.co/tags.js^$domain=hermes.com
 @@||js.dmtry.com/channel.js$domain=zillow.com

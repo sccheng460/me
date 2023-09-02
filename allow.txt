@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-01 20:30:18（北京时间） 
-! Total count: 6624
+! Version: 2023-09-02 09:06:29（北京时间） 
+! Total count: 6623
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -89,7 +89,7 @@
 @@/adverts/*$domain=onlychild.cn
 @@/adview_*_ads_300x250.js$domain=itbaoku.cn
 @@/adview_*_ads_300x250.js$domain=yaociyuan.bid
-@@/adview_pic_$domain=fffmo.com|bigpixel.cn|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
+@@/adview_pic_$domain=bigpixel.cn|fffmo.com|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/advt.png$domain=freevpn4you.net
 @@/adx.$domain=tanx.com
@@ -3793,7 +3793,6 @@
 @@||imasdk.googleapis.com^$app=jp.hamitv.hamiand1
 @@||imasdk.googleapis.com^$app=jp.naver.line.android
 @@||imasdk.googleapis.com^$app=pl.kanal.sportowy
-@@||imasdk.googleapis.com^$app=pl.polsatgo
 @@||imasdk.googleapis.com^$app=pl.tvp.stream|com.tvp.vodtv.mobile
 @@||imasdk.googleapis.com^$app=ru.full.khd.app
 @@||imasdk.googleapis.com^$app=tv.abema

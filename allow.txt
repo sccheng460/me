@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-04 09:09:45（北京时间） 
-! Total count: 6627
+! Version: 2023-09-04 20:31:20（北京时间） 
+! Total count: 6631
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -560,6 +560,7 @@
 @@||ads-interfaces.sc-cdn.net^$domain=ads.snapchat.com
 @@||ads-twitter.com/oct.js$domain=ncsoft.jp
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
+@@||ads.a-static.com/ads.js|
 @@||ads.adfox.ru/*/getCode$app=ru.infoshell.android
 @@||ads.adfox.ru/*/getCodeTest?$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru
 @@||ads.adfox.ru/*/prepareCode?$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru
@@ -629,6 +630,7 @@
 @@||advertising.yahoo.com^$~third-party
 @@||adverts.ie/css/
 @@||advertserve.com^$domain=trk-imps.com|lewdninja.com
+@@||adx.adform.net/adx/$xmlhttprequest,other,domain=tvp.pl
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
 @@||adyou.me^$generichide
@@ -956,6 +958,7 @@
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.
 @@||appledaily.com/js/nxm_
+@@||appnee.com/clever_ads.js
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
 @@||apv-launcher.minute.ly/api/$script
 @@||aqy103.com/js/aqy/main.js
@@ -1649,6 +1652,7 @@
 @@||chinapost-track.com/ads.txt
 @@||chinatimes.com/css-main/ad.css
 @@||chompers.io/ads.js
+@@||chrome.google.com/webstore/detail/$stealth
 @@||chronicle.blueconic.net/*/json$domain=chronicle.com
 @@||chtoen.com/js/adsbygoogle.js
 @@||chuangkit.com^$generichide
@@ -1961,6 +1965,7 @@
 @@||dcinfos.abtasty.com/geolocAndWeather.php^$domain=tf1.fr
 @@||dcinside.com$cookie=_ga
 @@||dco.smartclip.net/?plc=$domain=spiele.rtl.de
+@@||dd6zx4ibq538k.cloudfront.net/static/images/$domain=tkmaxx.com
 @@||de-config.sensic.net/sui-connector.js$domain=sportschau.de
 @@||deals.nextag.com^*/ClickTracker.jsp
 @@||debenhams.com/foresee/foresee-trigger.js
@@ -2059,7 +2064,6 @@
 @@||dood.watch/pass_md5/
 @@||dood.watch^$subdocument
 @@||doodcdn.co^$domain=dood.la|dood.pm|dood.so|dood.to|dood.watch|dood.ws
-@@||doodstream.com^$font,image,script,stylesheet,xmlhttprequest,other,domain=dood.to|dood.watch
 @@||doodstream.com^$subdocument
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||doridro.com^$generichide
@@ -2375,7 +2379,6 @@
 @@||g.adspeed.net/ad.php?do=detectadblocker$domain=btcbunch.com
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com^*/banner_ad_
-@@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|chromatographyonline.com|formularywatch.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
@@ -4024,6 +4027,7 @@
 @@||katfile.com/js/*ad*.js
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
 @@||kayixin.com^*/advert
+@@||kcjervis.github.io/jervis/static/media/src/images/ships/banner/
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.biz|10co.xyz|10co.co|10co.me
 @@||kdslife.com/ui/css/share2.
 @@||keep.google.com^$jsinject
@@ -4134,7 +4138,6 @@
 @@||linkvertise.com^$generichide
 @@||linkvertise.download^$generichide
 @@||linuxize.com/porpoiseant/banger.js
-@@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
@@ -4147,7 +4150,6 @@
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script
-@@||liveindex.org/wp-content/plugins/imedia-basic/*.js
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livenation.122.2o7.net/b/ss/$domain=oss.ticketmaster.com
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party
@@ -4241,6 +4243,7 @@
 @@||mangapark.net^$image
 @@||manhua.acimg.cn^$stealth,domain=ac.qq.com
 @@||manhua.weibo.com/adv/
+@@||manhuagui.com^$stealth
 @@||manoramamax.com/videojs/videojs-contrib-ads.min.js$domain=manoramamax.com
 @@||manwa.fun/static/upload/ads/*.gif?$image,~third-party
 @@||manwa.me/static/custom/files/300X250.gif
@@ -4758,7 +4761,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chd4.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chromeactions.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
@@ -4772,7 +4774,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=filgoal.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|poppamr.com|adnit.xyz|miuiku.com|tatangga.com|flash-firmware.blogspot.com|ghostsnet.com|rezkozpatch.xyz|rumahit.id|sekilastekno.com|romfirmware.com|orirom.com|gsmfirmware.net|animekuro.net|akwam.*|health-and.me|fc-lc.com|fc.lc|note1s.com|paste1s.com|playstore.pw|yoshare.net|pes-patches.com|1shorten.com|publicananker.com|ipacrack.com|codevn.net|traffic1s.com|adnews.me|eg-akw.com|ak4eg.*|xn--mgba7fjn.*|akw.to|mawsueaa.com|ak4ar.*|akwnet.top|anhdep24.com|nguyenvanbao.com|akw-cdn1.link|akw.mov|ak.sv|shahidd4u.cam|shaed4u.cam|akw.cam
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|poppamr.com|adnit.xyz|miuiku.com|tatangga.com|flash-firmware.blogspot.com|ghostsnet.com|rezkozpatch.xyz|rumahit.id|sekilastekno.com|romfirmware.com|orirom.com|gsmfirmware.net|animekuro.net|akwam.*|health-and.me|fc-lc.com|fc.lc|note1s.com|paste1s.com|playstore.pw|yoshare.net|pes-patches.com|1shorten.com|publicananker.com|ipacrack.com|codevn.net|traffic1s.com|adnews.me|eg-akw.com|ak4eg.*|xn--mgba7fjn.*|akw.to|mawsueaa.com|ak4ar.*|akwnet.top|anhdep24.com|nguyenvanbao.com|akw-cdn1.link|akw.mov|ak.sv|shahidd4u.cam|shaed4u.cam|akw.cam|shaaed4u.cam|sshahid4u.name
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeopenvpn.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hackedfreegames.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ifate.com
@@ -4941,6 +4943,7 @@
 @@||play.google.com/log?format=json$domain=news.google.com
 @@||play.google.com/store/apps/$document
 @@||play.max.com^$generichide
+@@||play.stream2.me/embed/$stealth
 @@||play.tv3.ee^$generichide
 @@||play.tv3.lv^$generichide
 @@||play.vidyard.com^$stealth
@@ -5028,6 +5031,7 @@
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=embed.rtl.hu
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
+@@||prod.adspsp.com/adb.2418030m.min.js$domain=medicalnewstoday.com
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party

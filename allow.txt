@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-06 20:31:28（北京时间） 
+! Version: 2023-09-07 09:09:26（北京时间） 
 ! Total count: 6638
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -4126,7 +4126,7 @@
 @@||lightning.bleacherreport.com/launch/*-source.min.js$~third-party
 @@||lightning.bleacherreport.com^*/launch-$~third-party
 @@||lightningmaps.org/min/index.php?f=js/
-@@||lilymanga.net/wp-content/uploads/ad-inserter/*/ads.js
+@@||lilymanga.net/wp-content/uploads/ad-inserter*/*/ads.js
 @@||line-scdn.net/*/torimochi.js$domain=web-tw-pay.line.me
 @@||line-scdn.net/*/torimochi.js/$script,domain=demae-can.com
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com

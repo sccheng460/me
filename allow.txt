@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-09 09:06:55（北京时间） 
-! Total count: 6655
+! Version: 2023-09-09 20:27:21（北京时间） 
+! Total count: 6651
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -401,7 +401,6 @@
 @@||a.klaviyo.com/onsite/api/*/modules?company_id=$domain=complyfoam.com
 @@||a.ligatus.com/?ids=*&t=js$script,domain=lachainemeteo.com
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
-@@||a.trk-imps.com/loader?$domain=new.lewd.ninja|lewdninja.com
 @@||a.visualrevenue.com/vrs.js$domain=nydailynews.com
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a1.itc.cn/pv/js/spv.
@@ -628,7 +627,6 @@
 @@||advert.kf5.com^
 @@||advertising.yahoo.com^$~third-party
 @@||adverts.ie/css/
-@@||advertserve.com^$domain=trk-imps.com|lewdninja.com
 @@||adx.adform.net/adx/$xmlhttprequest,other,domain=tvp.pl
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
@@ -906,7 +904,6 @@
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
 @@||api.mixpanel.com/track/*$domain=etcher.io
 @@||api.mixpanel.com/track/?data=$xmlhttprequest,domain=deezer.com
-@@||api.moeni.net^$xmlhttprequest,stealth=referrer|ip
 @@||api.ok.ru/fb.do?application_key=*_advertisement.user_id
 @@||api.olx.$app=com.app.tokobagus.betterb
 @@||api.onedrive.com^$stealth
@@ -1323,8 +1320,6 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=theverge.com
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn*.jianshu.io^$stealth
-@@||cdn*.movcdn.xyz^$xmlhttprequest,stealth=referrer|ip
-@@||cdn*.movcdns.xyz^$xmlhttprequest,stealth=referrer|ip
 @@||cdn*.pw/stream2/cdn-*/index.m3u8$stealth=ip|referrer
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
 @@||cdn-gl.imrworldwide.com/conf/*.js#name=nlsnInstance$domain=joyn.de
@@ -2261,7 +2256,6 @@
 @@||f95zone.to/login/$stealth
 @@||faberlic.com/images/banners/
 @@||facebook.com/*/dialog/oauth$stealth
-@@||facebook.com/ads/profile/$~third-party,xmlhttprequest
 @@||facebook.com/adsmanager^
 @@||facebook.com/bluebar/modern_settings_menu^$stealth
 @@||facebook.com/connect/xd_arbiter.php$jsinject,elemhide
@@ -3338,6 +3332,7 @@
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||grapeshot.co.uk/sare-api/
 @@||graphracer.com/js/libs/heatmap.js
+@@||greenbuildingadvisor.com^$removeparam=oly_enc_id
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||gstatic.com/admanager/outstream/rewarded_web_video_$script,domain=safeframe.googlesyndication.com
 @@||gstatic.com/ads/external/images/$image,domain=support.google.com
@@ -3545,13 +3540,16 @@
 @@||id.cxense.com/public/user/id?json=$domain=itmedia.co.jp
 @@||id.flybuys.com.au/*/fingerprint2.min.js
 @@||id.skyeng.ru^$stealth
+@@||id.tmtm.ru/login/
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
 @@||identity.mparticle.com/v*/identify$domain=nbc.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
 @@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
+@@||idmsa.apple.com/appleauth/$stealth,domain=icloud.com|icloud.com.cn
 @@||idnes.cz^$generichide
 @@||idos.idnes.cz^$csp
+@@||idsly.com^$generichide
 @@||iejima.org/ad-banner/$image,~third-party
 @@||ifengimg.com/a/201*Player
 @@||ifengimg.com/fe/shank/content/mobile_view.*_modern.js
@@ -3593,7 +3591,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=7plus.com.au
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=9am.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=aksam.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=alemfm.com
@@ -3824,7 +3821,6 @@
 @@||img.rakudaclub.com/adv/$~third-party
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.segmentify.com^$image,domain=gratis.com
-@@||img.techwallacdn.com/300x250/photos.demandstudios.com/getty/article/*/*.jpg
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -3867,13 +3863,14 @@
 @@||independent.co.uk/_build/prebid.*.js$domain=independent.co.uk
 @@||indiansgetfucked.com$generichide
 @@||indiatimes.com/configspace/
-@@||indiatimes.com/wp-content/themes/*/js/*ads*.js
 @@||inews.gtimg.com^
 @@||info.seek.com/b/ss/$image,domain=seek.com.au
 @@||infojobs.com.br/mf-publicarea/_content/InfoJobs.Microfrontend.Components/js/smarttag.js
 @@||infolink.pavv.co.kr^
 @@||infowars.com/wp-content/themes/$image
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
+@@||infusionsoft.app/aff.html$subdocument,domain=pages.infusionsoft.net|reginadancecity.ca
+@@||infusionsoft.com/aff.html$subdocument,domain=pages.infusionsoft.net|reginadancecity.ca
 @@||ing-diba.de^*/sitestat.js
 @@||ing.blueconic.net^$domain=ing.jobs
 @@||ingdirect.com.au^$document
@@ -3958,6 +3955,7 @@
 @@||jolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
 @@||joyk.com^$generichide
 @@||jpopsingles.eu/ddl/banner-ad-300x250.png
+@@||jpost.com^$csp=script-src 'self' 'unsafe-inline' http: https: blob:
 @@||jpush.cn^$domain=jiguang.cn
 @@||js-agent.newrelic.com/async-api$domain=northwell.edu
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
@@ -4474,6 +4472,7 @@
 @@||movie.momo-net.com/_embed/video.php$domain=german-porno-deutsch.info
 @@||movie2free.com/wp-content/themes/next/images/nav-bullet
 @@||moyens.net^$generichide
+@@||moyu.im/*.jpg$stealth
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
 @@||mp3fy.com^$generichide
 @@||mp4upload.com/embed-*.html$popup
@@ -5508,7 +5507,6 @@
 @@||shinden.pl^$generichide
 @@||shine.cn/showadcode2.asp?posid=68&
 @@||shink.in$generichide
-@@||shinsekai.me/bbs/board.php$stealth=webrtc
 @@||shipstation.com^$generichide
 @@||shmeea.edu.cn^$generichide
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
@@ -5739,7 +5737,6 @@
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
-@@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=tyla.com
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
@@ -6155,7 +6152,6 @@
 @@||trip.cmbchina.com^$generichide
 @@||trj.valuecommerce.com/vcushion.js
 @@||trj.valuecommerce.com^$app=jp.co.alc.eow
-@@||trk-imps.com^$csp
 @@||truck1.eu/_BANNERS_/client/*
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
 @@||trustprofile.com/banners/$image

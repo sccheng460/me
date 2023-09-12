@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-11 20:31:49（北京时间） 
-! Total count: 6663
+! Version: 2023-09-12 09:07:23（北京时间） 
+! Total count: 6664
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1460,6 +1460,7 @@
 @@||cdn.personaclick.com/shop_css/$domain=elektromarketim.com
 @@||cdn.personaclick.com/v*.js$domain=elektromarketim.com
 @@||cdn.personaclick.com^$domain=koctas.com.tr
+@@||cdn.petametrics.com/*-nbc.js$domain=thestar.com|thespec.com|therecord.com|thepeterboroughexaminer.com|stcatharinesstandard.ca|niagarafallsreview.ca|wellandtribune.ca|bramptonguardian.com|caledonenterprise.com|cambridgetimes.ca|durhamregion.com|flamboroughreview.com|guelphmercury.com|hamiltonnews.com|insidehalton.com|insideottawavalley.com|mississauga.com|muskokaregion.com|mykawartha.com|newhamburgindependent.ca|niagarathisweek.com|northbaynipissing.com|northumberlandnews.com|orangeville.com|ourwindsor.ca|parrysound.com|sachem.ca|simcoe.com|theifp.ca|toronto.com|waterloochronicle.ca|yorkregion.com|legacy.com|edition.pagesuite-professional.co.uk|hub.metroland.com
 @@||cdn.petametrics.com/*.js$domain=lanacion.com.ar
 @@||cdn.petametrics.com/*.js$domain=ranker.com
 @@||cdn.petametrics.com^$domain=techgenix.com
@@ -4903,7 +4904,6 @@
 @@||permission-proxy-gmxnet.uimserv.net^$app=de.gmx.mobile.android.mail
 @@||perrzo.com^$generichide
 @@||personaclick.com^$domain=skechers.com.tr
-@@||petametrics.com^$domain=stcatharinesstandard.ca
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
 @@||photofunia.com/effects/$image,~third-party
@@ -5269,6 +5269,7 @@
 @@||rumcdn.geoedge.be/*/grumi.js$domain=comingsoon.net
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
 @@||runescape.wiki^$image,~third-party
+@@||rut-miit.ru^$stealth=dpi
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||rv.treehousei.com/prm/js/*/public.min.js$domain=partnerportal.fortinet.com
@@ -5410,7 +5411,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=15min.lt
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=espn.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=mobile.donanimhaber.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=20min.ch
@@ -5862,6 +5862,7 @@
 @@||style.aliunicorn.com^$domain=alibaba.com|aliexpress.com
 @@||stylished.de/js/vendors/emos2.js$domain=stylished.de
 @@||stylist.co.uk^$stealth=dpi
+@@||succeedscene.com/*/ads.load.js
 @@||sudupan.com^*/*.gif
 @@||sumologic.com^$domain=sumologic.com
 @@||sundaysky.com/sundaysky.js?$domain=lenovo.com

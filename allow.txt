@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-16 20:27:46（北京时间） 
-! Total count: 6698
+! Version: 2023-09-17 09:13:15（北京时间） 
+! Total count: 6691
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -131,7 +131,6 @@
 @@/fingerprint2.min.js^$domain=ganyancanavari.com
 @@/fingerprint2.min.js^$domain=justfreethemes.com|ukit.com
 @@/fingerprintjs2.min.js$domain=imooc.com
-@@/friendbuy.min.js$script,domain=butcherbox.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
 @@/fuckadblock.js$domain=uniqueten.net|topcryptoz.net|allcryptoz.net|meucdn.vip|yandexcdn.com|scenelife.org|hqq.tv|newhost.me|czxxx.org|waaw.tv
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
@@ -1221,7 +1220,6 @@
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browserleaks.com^$generichide
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
-@@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||brutalmania.io/ads.js
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||bt.dk/build/prebid-ads-advertisement_adbanner.*.js
@@ -1704,7 +1702,6 @@
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 @@||cloudfront.net/libs/amplitude-*-min.gz.js$domain=elconfidencial.com
 @@||cloudfront.net/opentag*.js$domain=telegraph.co.uk
-@@||cloudfront.net/vis_opt.js$script,domain=gre.magoosh.com
 @@||cloudfront.net^*/jquery.google-analytics.js$domain=homepath.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
 @@||club.tgfcer.com^$generichide
@@ -3452,7 +3449,6 @@
 @@||hikmall.com/js/sensorsdata.min.js
 @@||hindustantimes.com/res/js/*ads*
 @@||hinet.net/keys/a.key^$domain=ani.gamer.com.tw
-@@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
 @@||histock.tw/JScript/AD/
 @@||history.com^$generichide
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
@@ -3540,7 +3536,6 @@
 @@||ib.adnxs.com^$app=se.prisjakt.pricespy
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
 @@||ibf.tw^$generichide
-@@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||icantw.com/platform/cover_ad/cover_ad.js
 @@||icashier.alipay.com^$domain=aliexpress.com
@@ -5930,7 +5925,6 @@
 @@||tablica.pl^*/xtcore.js
 @@||taboola.com/libtrc/$script,domain=bild.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|sueddeutsche.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
 @@||taboola.com/libtrc/*/loader.js$domain=dailymail.co.uk|entrepreneur.com|foxsports.com
-@@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
 @@||taboola.com/magazine/$domain=taboolanews.com
 @@||tacool.com^$stealth=dpi
 @@||tag.aticdn.net/*/at.js$domain=tv5monde.com
@@ -6252,7 +6246,6 @@
 @@||udn.com/mall/images/spacer.gif?
 @@||udndata.com/ndapp/ads/$~third-party
 @@||udnplay.com/js/momo/adsbygoogle.js
-@@||udottraffic.utah.gov/javascripts/Piwik.js
 @@||udp2p.com^$generichide
 @@||ue.flipboard.com/usage?data=
 @@||ugdturner.com/xd.sjs$domain=nba.com

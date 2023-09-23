@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-22 20:31:01（北京时间） 
-! Total count: 6711
+! Version: 2023-09-23 09:07:35（北京时间） 
+! Total count: 6712
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -3261,6 +3261,7 @@
 @@||googletagmanager.com/gtm.js$domain=www3.nissan.co.jp
 @@||googletagmanager.com/gtm.js$domain=x-kom.pl|al.to
 @@||googletagmanager.com/gtm.js$domain=xn--80adinvscgek9d.xn--p1ai
+@@||googletagmanager.com/gtm.js$domain=yankeecandle.com
 @@||googletagmanager.com/gtm.js$domain=yargici.com
 @@||googletagmanager.com/gtm.js$domain=ymobile.jp
 @@||googletagmanager.com/gtm.js$domain=yorkshirepost.co.uk
@@ -4179,6 +4180,7 @@
 @@||linkvertise.com^$generichide
 @@||linkvertise.download^$generichide
 @@||linuxize.com/porpoiseant/banger.js
+@@||lirarate.org/tardisrocinante/screx.js
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
@@ -4187,7 +4189,6 @@
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/*.aac
 @@||live.streamtheworld.com/*.mp3
-@@||live.streamtheworld.com/*/playlist.m3u8$elemhide,jsinject,extension,content
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com
 @@||live.tv247us.com/tv247/*.m3u8$stealth
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com

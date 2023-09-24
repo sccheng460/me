@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-23 20:28:01（北京时间） 
-! Total count: 6703
+! Version: 2023-09-24 09:13:25（北京时间） 
+! Total count: 6708
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -626,6 +626,7 @@
 @@||adv.clickadu.com^$domain=adv.clickadu.com
 @@||adv.gg^$popup
 @@||advert.kf5.com^
+@@||advertising1.shop/*/tracks-v1a1$stealth=referrer
 @@||adverts.ie/css/
 @@||adx.adform.net/adx/$xmlhttprequest,other,domain=tvp.pl
 @@||adx.yiche.com/cityindex.ashx
@@ -1223,6 +1224,7 @@
 @@||browserleaks.com^$generichide
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
 @@||brutalmania.io/ads.js
+@@||bscfsdf.azzureedge.xyz/scripts/*.m3u8$stealth=referrer
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||bt.dk/build/prebid-ads-advertisement_adbanner.*.js
 @@||btloader.com/tag?$domain=programme-tv.net
@@ -1960,6 +1962,7 @@
 @@||dcinside.com$cookie=_ga
 @@||dco.smartclip.net/?plc=$domain=spiele.rtl.de
 @@||dd6zx4ibq538k.cloudfront.net/static/images/$domain=tkmaxx.com
+@@||ddolahdplay.xyz/premiumtv/*.php$stealth=referrer
 @@||ddolahdplay.xyz/premiumtv/livetvon.php$stealth=referrer
 @@||de-config.sensic.net/sui-connector.js$domain=sportschau.de
 @@||deals.nextag.com^*/ClickTracker.jsp
@@ -6135,6 +6138,7 @@
 @@||top.list.ru/counter?id=$domain=crimea-kurort.com
 @@||top.list.ru/jump?from=$domain=pvo.guns.ru
 @@||toplay.biz/log_event$~third-party,xmlhttprequest
+@@||topsgun.online/chunklist/*.m3u8$stealth=referrer
 @@||topsporter.net^$generichide
 @@||torrage.info/torrent.php$popup,third-party
 @@||torrentsafe.com/fingerprint2.min.js
@@ -6432,6 +6436,7 @@
 @@||w88.go.com/id?$domain=espn.com
 @@||w88.go.com^$domain=abc.go.com
 @@||walla.co.il^$csp
+@@||walletkeyslocker.me^$domain=nolive.me,stealth=referrer
 @@||wallpapers.ispazio.net/advert^
 @@||wallpapershome.com/scripts/ads.js
 @@||walmart.com/__ssobj/core.js

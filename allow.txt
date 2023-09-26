@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-25 20:32:30（北京时间） 
-! Total count: 6704
+! Version: 2023-09-26 09:10:21（北京时间） 
+! Total count: 6706
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -299,7 +299,6 @@
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
-@@||21vek.by/js/jquery-ui.js?166
 @@||230book.com/images/bqg.js$domain=230book.net
 @@||2345.com/images/activity/20171111/open/j/close.png
 @@||2mdn.net/instream/
@@ -1028,6 +1027,7 @@
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||audiotag.info/images/banner
 @@||audiotag.info/js/adblockDetectorWithGA.js
+@@||ausha.tsbluebox.com^$media,domain=podcast.ausha.co
 @@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth
 @@||auth.opera.com^$stealth
@@ -2105,6 +2105,7 @@
 @@||dragontea.ink^$generichide
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
+@@||driverfix.com^*/index_src.php?tracking=$~third-party
 @@||dropbox.com/*/oauth$document
 @@||dropbox.com^$generichide
 @@||dropbox.com^$generichide,badfilter
@@ -3852,6 +3853,7 @@
 @@||img.rakudaclub.com/adv/$~third-party
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.segmentify.com^$image,domain=gratis.com
+@@||img.soft98.ir/*/300x250.
 @@||img.tfd.com/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -4185,7 +4187,7 @@
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/*.aac
 @@||live.streamtheworld.com/*.mp3
-@@||live.streamtheworld.com/partnerIds$domain=iheart.com|sojo1049.com
+@@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
 @@||live.tv247us.com/tv247/*.m3u8$stealth
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script

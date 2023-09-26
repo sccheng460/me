@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-26 09:10:21（北京时间） 
-! Total count: 6706
+! Version: 2023-09-26 20:32:22（北京时间） 
+! Total count: 6712
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -440,6 +440,7 @@
 @@||actiris.be/urchin.js
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
 @@||ad-delivery.net/px.gif?$domain=explorecams.com
+@@||ad-emea.doubleclick.net/clk
 @@||ad-img.gmarket.com/ads/$image,domain=gmarket.co.kr
 @@||ad-ipd.sxp.smartclip.net/select$domain=tele5.de
 @@||ad-ipd.sxp.smartclip.net/select^$domain=n-tv.de
@@ -709,7 +710,6 @@
 @@||allmusic.com/images/tracking/tracking_pixel.jpg
 @@||allthatsinteresting.com/wordpress/wp-content/plugins/bwp-minify^
 @@||almanilan.com/ads/$~third-party
-@@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$domain=almayadeen.net
 @@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$script,~third-party
 @@||alotof.software/wp-content/themes/alosss/ads.php
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
@@ -845,7 +845,6 @@
 @@||api.branch.io/v1/open
 @@||api.branch.io^$app=com.reddit.frontpage
 @@||api.branch.io^$app=com.thechive
-@@||api.browser.yandex.$stealth
 @@||api.bufferapp.com/*/profiles.json
 @@||api.bufferapp.com/*/service/
 @@||api.bufferapp.com/*/user
@@ -1223,6 +1222,7 @@
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
+@@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browserleaks.com^$generichide
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
@@ -1615,6 +1615,7 @@
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||challenges.cloudflare.com/turnstile/$script
 @@||challenges.cloudflare.com^$stealth
+@@||championat.com^$extension
 @@||chamsko.pl/js/advertisement.js
 @@||chanel.com/js/chanel-tracking.js$script
 @@||changyan.sohu.com/debug/cookie?
@@ -1888,6 +1889,7 @@
 @@||custhelp.com/owda/*/Tealeaf.js$domain=custhelp.com
 @@||custojusto.pt/smarttag.js
 @@||customer.iad-03.braze.com^$app=de.burgerking.kingfinder
+@@||cutearn.ca^$generichide
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||cwtv.com^$generichide
 @@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
@@ -2016,6 +2018,7 @@
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
+@@||discretemath.org/ads/
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.com^$generichide
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
@@ -2326,6 +2329,7 @@
 @@||file-upload.cc^$generichide
 @@||file-upload.com/js/advertisement.js
 @@||file.myqcloud.com/*.mp4?token=$stealth
+@@||file.myqcloud.com^$stealth,image,domain=icezmz.com
 @@||filecheck.ru^$elemhide
 @@||filecity.co.kr^$stealth=dpi
 @@||fileflares.com^$generichide
@@ -3086,6 +3090,7 @@
 @@||googletagmanager.com/gtm.js$domain=highsnobiety.com
 @@||googletagmanager.com/gtm.js$domain=hipolink.net
 @@||googletagmanager.com/gtm.js$domain=hub.docker.com
+@@||googletagmanager.com/gtm.js$domain=hyponamiru.cz
 @@||googletagmanager.com/gtm.js$domain=iltalehti.fi
 @@||googletagmanager.com/gtm.js$domain=imgur.com
 @@||googletagmanager.com/gtm.js$domain=incehesap.com
@@ -3733,7 +3738,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sonyliv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=stack.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=startrek.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tokfm.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
@@ -5411,7 +5415,6 @@
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
-@@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
 @@||scws.xyz^$domain=streamingcommunity.*
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
@@ -5566,6 +5569,7 @@
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
+@@||short.croclix.me/*js/viewad.js
 @@||shortadd.com^$generichide
 @@||shorterall.com^$cookie=_gid
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
@@ -6359,6 +6363,7 @@
 @@||vatanbilgisayar.com/upload/banner/
 @@||vatchus.com^$generichide
 @@||vattastic.com/js/fp2/fingerprint2.min.js
+@@||vector.hereapi.com/v*/vectortiles/$stealth
 @@||veedi.com/*/js/ads/advert.js
 @@||vegetariantimes.com^$stealth=dpi
 @@||verizon.com/images/track/track.gif?track=load&$xmlhttprequest
@@ -6375,6 +6380,7 @@
 @@||video.repubblica.it^*/nielsen.js
 @@||video.weibocdn.com^$stealth
 @@||videogamesblogger.com^$csp
+@@||videoplaza.tv/proxy/distributor/v2?s=$removeparam=s,xmlhttprequest,domain=tv4play.se
 @@||videoplaza.tv/proxy/pulse-sdk-html*latest.min.js$domain=mtvuutiset.fi
 @@||videoplaza.tv/resources/
 @@||videoplaza1.tv/proxy/as3_vp_player-ku

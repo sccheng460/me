@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-26 20:32:22（北京时间） 
-! Total count: 6712
+! Version: 2023-09-27 09:10:21（北京时间） 
+! Total count: 6717
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -3348,6 +3348,9 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=xn--allestrungen-9ib.de
 @@||googletagservices.com/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
+@@||googlevideo.com/videoplayback?*&pfa=$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
+@@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
+@@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
 @@||gooogle.how^$generichide
 @@||gosuslugi.ru^$stealth=dpi
 @@||gounlimited.to/ads/pop.js|
@@ -5013,6 +5016,7 @@
 @@||player.clevercast.com/players/video-js/video-js-plugins/videojs.ads.min.js
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
 @@||player.ex.co/player/$domain=si.com
+@@||player.ex.co/player/$domain=thestreet.com
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.glomex.com/integration^$domain=t-online.de
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
@@ -6280,6 +6284,7 @@
 @@||ugdturner.com/xd.sjs$domain=nba.com
 @@||ugdturner.com/xd.sjs$domain=tbs.com
 @@||ui.ads.microsoft.com^$~third-party
+@@||uid.mavencoalition.io^$domain=thestreet.com|reelrundown.com|owlcation.com
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||uim.tifbs.net/js/*.js$domain=web.de|gmx.net|gmx.ch|gmx.at
 @@||uim.tifbs.net/js/3423.js$domain=top.de
@@ -6380,7 +6385,6 @@
 @@||video.repubblica.it^*/nielsen.js
 @@||video.weibocdn.com^$stealth
 @@||videogamesblogger.com^$csp
-@@||videoplaza.tv/proxy/distributor/v2?s=$removeparam=s,xmlhttprequest,domain=tv4play.se
 @@||videoplaza.tv/proxy/pulse-sdk-html*latest.min.js$domain=mtvuutiset.fi
 @@||videoplaza.tv/resources/
 @@||videoplaza1.tv/proxy/as3_vp_player-ku
@@ -6468,6 +6472,7 @@
 @@||wazimo.com/engine/common/widgets/content/$domain=showsnob.com
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
 @@||wd.adcolony.com^|$app=com.jellybtn.cashkingmobile
+@@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com
 @@||web.any.do^$document
 @@||web.archive.org^$generichide

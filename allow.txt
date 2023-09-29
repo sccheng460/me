@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-28 20:31:52（北京时间） 
-! Total count: 6707
+! Version: 2023-09-29 09:10:01（北京时间） 
+! Total count: 6711
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1333,6 +1333,7 @@
 @@||cdn-net.com/cc.js
 @@||cdn-static.egybest.net/static/global/js/adblock.js
 @@||cdn-surfline.com/quiver/*/scripts/$domain=surfline.com
+@@||cdn.adapex.io/hb/aaw.worthpoint.js$domain=worthpoint.com
 @@||cdn.adguard.com/public/$domain=adguard.com|adguard.ru
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
 @@||cdn.adrise.tv/js/ads.js$domain=tubitv.com
@@ -1922,6 +1923,7 @@
 @@||d3c3cq33003psk.cloudfront.net/opentag$domain=sunglasses-shop.co.uk|sunglasses-shop.fi|sunglasses-shop.nl|sunglasses-shop.se|sunglassesshop.com|sunglassesshop.dk|sunglassesshop.fr|sunglassesshop.no
 @@||d3njgrq4uvb497.cloudfront.net/videojs/videojs-contrib-ads.js$domain=ksl.com
 @@||d3u598arehftfk.cloudfront.net/prebid_hb_1670_2903.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
+@@||d3u598arehftfk.cloudfront.net/prebid_hb_3922_6541.js$domain=adsy.pw|playstore.pw
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||d81mfvml8p5ml.cloudfront.net/n8hnletr.js$domain=countryattire.com
 @@||d8rk54i4mohrb.cloudfront.net/js/video.js$domain=forbes.com
@@ -3671,6 +3673,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=karnaval.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kizi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
@@ -4793,6 +4796,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1cloudfile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=abdoutech.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=adsy.pw|playstore.pw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akinator.com|akinator.mobi
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=anime-king.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
@@ -5198,7 +5202,6 @@
 @@||rapidrar.com^$generichide
 @@||rapidvid.to/e/$subdocument,third-party
 @@||raptu.com/e/$generichide
-@@||rarbgproxied.org/cdn-cgi/challenge-platform/*/orchestrate/
 @@||ratemyteachers.com/ads.js
 @@||ravensburger-werbemittel.de/content/wcm/mediadata/images/Werbemittel/$~third-party
 @@||ravensburger.com/content/wcm/mediadata/images/Werbemittel/$domain=ravensburger-werbemittel.de
@@ -5470,6 +5473,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=agario-play.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=bloomberg.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=chelseafc.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=digitaltrends.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=epaper.timesgroup.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=factable.com

@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-09-29 20:31:25（北京时间） 
-! Total count: 6718
+! Version: 2023-09-30 09:08:35（北京时间） 
+! Total count: 6720
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -5095,6 +5095,7 @@
 @@||primevideo.com^$stealth
 @@||primis.tech^$domain=sportsmole.co.uk
 @@||privat24.privatbank.ua^
+@@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=embed.rtl.hu
@@ -5104,6 +5105,7 @@
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
+@@||proquest.com/modules.gz/snowplow/snowplow-
 @@||protagcdn.com/s/dropgalaxy.com/site.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
 @@||protopage.com^$generichide
 @@||przegladsportowy.pl/*&srcc=ucs$removeparam

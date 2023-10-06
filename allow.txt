@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-05 20:33:33（北京时间） 
-! Total count: 6746
+! Version: 2023-10-06 09:10:29（北京时间） 
+! Total count: 6750
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -1487,6 +1487,7 @@
 @@||cdn.questionpro.com^$domain=questionpro.*
 @@||cdn.radiostreamlive.com/v*/js/adblock/advert-1bb.js
 @@||cdn.rawgit.com/*/lazyload.js$domain=javmost.com
+@@||cdn.reproio.com^$app=jp.co.bookoff.bookoffapp
 @@||cdn.retailrocket.*/*/tracking.js$domain=ozerki.ru
 @@||cdn.retailrocket.ru/content/javascript/tracking.js$domain=comfy.ua
 @@||cdn.reverso.net/*/static/js/advertising.js^
@@ -1682,7 +1683,8 @@
 @@||cleananalytics.com/browser.js?$script,domain=cheapflights.com
 @@||clerk.io/clerk.js$script,domain=trony.it
 @@||cleverbridge.com/*/cleveranalytics.js^$domain=secure.ccleaner.com
-@@||cleverpush.com/channel/$script,domain=bsdex.de
+@@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
+@@||cleverpush.com/sdk/$script,domain=heise.de
 @@||click.appcast.io/track^$domain=neuvoo.co.uk
 @@||clicktale.net/wrb.js$domain=microsoft.com
 @@||client.falixnodes.net^$generichide
@@ -4217,6 +4219,7 @@
 @@||live.streamtheworld.com/*.mp3
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
 @@||live.tv247us.com/tv247/*.m3u8$stealth
+@@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script
 @@||liveindex.org/wp-content/plugins/imedia-basic/*.js
@@ -5882,6 +5885,7 @@
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||static.shorte.st/bundles/smeweb/$domain=sh.st
 @@||static.shorte.st/js/packed/smeadvert-locked.js$domain=sh.st
+@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.trbo.com/img/$domain=o2online.de
 @@||static.vocstatic.com^$script,domain=areapersonal.hoy.es

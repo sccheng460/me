@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-07 09:09:24（北京时间） 
-! Total count: 6751
+! Version: 2023-10-07 20:28:48（北京时间） 
+! Total count: 6749
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2477,6 +2477,7 @@
 @@||games.gamesplaza.com/shared/loader/advert.js
 @@||games.gamesplaza.com/shared/loader/gads.js
 @@||games.gamesplaza.com^$generichide
+@@||games.iwin.com^$generichide
 @@||gamesglue.com/game_core/check^
 @@||gamespot.com/js/compiled/trackingWithCT.js$domain=gamespot.com
 @@||gamezhero.com/api/ima3.js
@@ -4007,7 +4008,6 @@
 @@||jeevansathi.com/minify.php?files=$script,stylesheet
 @@||jetzt.de^$generichide
 @@||jetztspielen.de^*/EventTracker.js
-@@||jewelavid.com/embed2.php$stealth
 @@||jianshu.com/asimov/ab_test/info
 @@||jiav000.com^$generichide
 @@||jiayuan.com^*/pv.js
@@ -4429,6 +4429,7 @@
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||messenger.com^$extension
 @@||meta.wikimedia.org/wiki^
+@@||metabomb.net^$generichide
 @@||metrics.bangbros.com/tk.js$~third-party
 @@||metrics.bitdefender.com/b/ss/*$domain=bitdefender.com
 @@||metrics.brooksbrothers.com/b/ss/$image
@@ -4484,6 +4485,7 @@
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||miui.com/unlock/$stealth
 @@||miuiflash.com^$generichide
+@@||mixdrop.co/adblock.js
 @@||mixdrop.co/loadremotesub.php
 @@||mixdrop.co/panel/actions/load.php
 @@||mixpanel.com/site_media/js/api/mixpanel.js$domain=blog.cloudflare.com
@@ -5099,7 +5101,6 @@
 @@||pornhub.*/*?ajax=*&$xmlhttprequest
 @@||pornhub.*/recommended/ajax_rate?$~third-party,xmlhttprequest
 @@||pornhub.*/signup
-@@||pornhub.phncdn.com^$image,domain=pornhub.com|pornhub.org|pornhub.net|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
 @@||portal.mail.ru^$stealth
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com
 @@||pos.baidu.com^$subdocument,domain=bigpixel.cn
@@ -5565,7 +5566,6 @@
 @@||services.bilsyndication.com^$domain=atozmath.com,~media
 @@||services.brid.tv/player/build/plugins/adunit.js
 @@||services.fliqz.com/metrics/*/applications/$domain=leftlanenews.com
-@@||services.postcodeanywhere.co.uk/Capture/Interactive/$stealth
 @@||services.vlitag.com/adv1/$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||seselah.com^$generichide
@@ -5578,7 +5578,6 @@
 @@||sf*-*cdn-tos.pstatp.com^$domain=bcy.net|agefans.cc
 @@||sf*-*cdn-tos.pstatp.com^$domain=juejin.cn
 @@||sf.ezoiccdn.com/ezoimgfmt/i0.wp.com/kosmofoto.com/wp-content/uploads/$image,domain=kosmofoto.com
-@@||sf.ezoiccdn.com/ezoimgfmt/kosmofoto.com/wp-content/uploads/2022/01/KFLogo-272x90-1.jpg$domain=kosmofoto.com
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/_static/$script,domain=kosmofoto.com
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-content/$script,domain=kosmofoto.com
 @@||sf.ezoiccdn.com/ezossp/https/kosmofoto.com/wp-includes/$script,domain=kosmofoto.com
@@ -5934,7 +5933,6 @@
 @@||streamingcommunity.*/*$xmlhttprequest,~third-party
 @@||streamlare.com^$subdocument
 @@||streamlive.to^$generichide
-@@||streamrapid.ru/embed-$subdocument
 @@||streamtape.*/ad.js
 @@||streamtape.com^$subdocument
 @@||streamwish.com/js/dnsads.js?ads
@@ -6169,7 +6167,6 @@
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||toolbox.dfb.de/img/partner-logos^
 @@||toolfk.com/tools/js/share/js/jquery.share.min.js
-@@||tools.services.tvn.pl/_ads/advert.js
 @@||tools.services.tvn.pl/maertsg.js$domain=tvn24.pl
 @@||tools.usps.com/go/TrackConfirmAction
 @@||top.gg/js/*.js
@@ -6432,6 +6429,7 @@
 @@||vidoza.net/js/pop.js
 @@||vidtech.cbsinteractive.com^*/AkamaiAnalytics.swf$domain=kuathletics.com|mutigers.com|okstate.com
 @@||viid.me^$generichide
+@@||vipi.tv/ads.js
 @@||vipstatic.com/img/share/blank.png
 @@||viralize.tv^$domain=automoto.it
 @@||virpe.cc/includes/js/adver.js

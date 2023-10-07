@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-06 20:32:33（北京时间） 
-! Total count: 6747
+! Version: 2023-10-07 09:09:24（北京时间） 
+! Total count: 6751
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1213,6 +1213,7 @@
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||bookwalker.com.tw/images/p_img/pc_ad*.png$~third-party
 @@||bootcss.com^$script,domain=kan-tv.com
+@@||bordeaux.futurecdn.net/bordeaux.js$script,domain=tomsguide.com
 @@||bos.ads.nexage.com/adServe?
 @@||bose.tt.omtrdc.net/*/bose/mbox/json?$domain=bose.fr
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
@@ -4288,6 +4289,7 @@
 @@||m.beautypageants.in^$generichide
 @@||m.da.mgtv.com/m/player?_type_object=$domain=m.mgtv.com
 @@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android|com.dcinside.app
+@@||m.dcinside.com^$stealth=dpi
 @@||m.haberturk.com/adscbg/mdet.js
 @@||m.media-amazon.com/images/*$domain=amazon.*,stealth
 @@||m.muensterschezeitung.de/var/storage/images^
@@ -4843,6 +4845,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=boards.vinylcollective.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=breatheheavy.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cheersandgears.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chromeactions.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=coursesghar.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
@@ -5451,6 +5454,7 @@
 @@||scws.xyz^$domain=streamingcommunity.*
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
+@@||sdk.fra-02.braze.eu^$app=jp.co.cosmo_oil
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=mundodeportivo.com
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||sdn-global-audio-adswizz-cache.3qsdn.com/*/files/$other,media,domain=noz.de

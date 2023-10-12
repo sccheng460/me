@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-11 20:32:21（北京时间） 
-! Total count: 6735
+! Version: 2023-10-12 09:08:22（北京时间） 
+! Total count: 6744
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2142,6 +2142,7 @@
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
 @@||dygassets.dygdigital.com/player-new/
+@@||dynamicyield.com/scripts/*/dy-coll-nojq-min.js$domain=gigasport.at|gigasport.ch|gigasport.de
 @@||dyncdn.me/mimages/$stealth
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||dziennikwschodni.pl/*/*?ads=$~third-party,image
@@ -2174,6 +2175,7 @@
 @@||ecma.bdimg.com/holmes/*.svg
 @@||economictimes.com/*ads*/*.cms
 @@||ecostream.tv/js/ecos.js
+@@||ed-*.edgking.me/*/chunklist.m3u8$stealth
 @@||eddiebauer.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js
 @@||eden.international/script/ad_banner/
 @@||eden.org.tw^*/ad_banner/
@@ -2567,6 +2569,7 @@
 @@||glookup.info/api/json/$domain=grabify.link
 @@||gls-group.eu/*/csomagkovetes$elemhide,jsinject
 @@||gma.alicdn.com^
+@@||gmail.com^$generichide
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||gntm.connect.prosieben.de^$generichide
 @@||go.admost.com/adx/js/admost.js$domain=arsiv.mackolik.com
@@ -4594,6 +4597,7 @@
 @@||mycokerewards.com^*/webtrends/mcr3-webtrends_POST_$script
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
 @@||myfamilycominc.tt.omtrdc.net^$domain=ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
+@@||myfilmyzilla.com^$generichide
 @@||myid.canon^$stealth
 @@||mylivesignature.com/js/adblocker.js
 @@||myqqjd.com^$generichide
@@ -4868,6 +4872,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mta-resource.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=myfilmyzilla.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=navbharattimes.indiatimes.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=photopea.com
@@ -5360,6 +5365,7 @@
 @@||s.ip-cdn.com/img/logo.gif
 @@||s.jacquieetmichelelite.com/assets/popunder.js
 @@||s.jsrdn.com/s/1.js$domain=lcpdfr.com
+@@||s.nitropay.com/ads-*.js$domain=soccerguru.live
 @@||s.ntv.io/serve/load.js$domain=titantv.com
 @@||s.tgfcer.com^$generichide
 @@||s.thebrighttag.com/tag?site=$domain=sephora.com
@@ -5406,6 +5412,7 @@
 @@||sberbank.ru^$stealth=ip
 @@||sbg.hit.gemius.pl/gplayer.js$domain=play.nova.bg
 @@||sc.omtrdc.net^$domain=cibc.com
+@@||sc.youmaker.com/site/article/count?
 @@||sc2casts.com^$generichide
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
 @@||scdn.cxense.com/cx.cce.js$domain=cdn.cxpublic.com
@@ -5941,6 +5948,7 @@
 @@||supersonicads.com^$app=com.square_enix.android_googleplay.dqwalkj
 @@||support.google.com^$domain=support.google.com
 @@||support.thesslstore.com/visitor/index.php
+@@||surfe.pro/net/teaser$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
 @@||surfguru.com^$generichide
 @@||suumo.jp/sp/js/beacon.js$script,~third-party
 @@||suwonlib.go.kr^$stealth=dpi
@@ -6467,6 +6475,7 @@
 @@||w88.go.com/id?$domain=espn.com
 @@||w88.go.com^$domain=abc.go.com
 @@||walla.co.il^$csp
+@@||walletkeyslocker.me/?stream=$domain=sinvida.me,stealth
 @@||walletkeyslocker.me^$domain=nolive.me,stealth=referrer
 @@||wallpapers.ispazio.net/advert^
 @@||wallpapershome.com/scripts/ads.js

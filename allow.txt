@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-13 20:32:10（北京时间） 
-! Total count: 6751
+! Version: 2023-10-14 09:08:34（北京时间） 
+! Total count: 6757
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -3209,6 +3209,7 @@
 @@||googletagmanager.com/gtm.js$domain=rbbtoday.com
 @@||googletagmanager.com/gtm.js$domain=realestate.co.nz
 @@||googletagmanager.com/gtm.js$domain=redbull.com
+@@||googletagmanager.com/gtm.js$domain=reglomobile.fr
 @@||googletagmanager.com/gtm.js$domain=renault.ru
 @@||googletagmanager.com/gtm.js$domain=repubblica.it
 @@||googletagmanager.com/gtm.js$domain=rewards.msi.com
@@ -3380,6 +3381,8 @@
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gplinks.in/*/data.php$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com
 @@||gplinks.in/*/main.js$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com
+@@||gplinks.in/track/data.php$domain=govsfid.com
+@@||gplinks.in/track/js/$domain=govsfid.com
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||grapeshot.co.uk/sare-api/
@@ -4224,7 +4227,7 @@
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livenation.122.2o7.net/b/ss/$domain=oss.ticketmaster.com
 @@||liveonlinetv247.info/embed/$generichide
-@@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party
+@@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
 @@||livew.l.qq.com/livemsg?ty=web&ad_type=$domain=v.qq.com
 @@||lk-subscr.tricolor.tv^$document
@@ -4875,6 +4878,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=laptrinhx.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lascimmiapensa.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=listvpn.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
@@ -5534,6 +5538,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gazetakrakowska.pl
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gentside.com|ohmymag.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=govsfid.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gq-magazine.co.uk
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=line.me
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=maharashtratimes.com
@@ -6746,6 +6751,7 @@
 @@||zinro.net/m/log.php
 @@||zive.cz/Client.Scripts/advertisment.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
+@@||zmdownload.zoho.com/zm/imagedisplay$stealth=dpi
 @@||zmovs.com/js/pop.js
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zonebourse.com/js/googleads.js

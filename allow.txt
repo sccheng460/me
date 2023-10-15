@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-15 09:15:39（北京时间） 
-! Total count: 6750
+! Version: 2023-10-15 20:29:03（北京时间） 
+! Total count: 6747
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -383,7 +383,6 @@
 @@||9anime.to/ajax/
 @@||9anime.to/assets^
 @@||9anime.vip/ajax/
-@@||9cache.com^$stealth,domain=9gag.com
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
 @@||a-delivery*.mxdcontent.net/*/*?$popup,domain=mixdrop.co
@@ -1981,7 +1980,6 @@
 @@||dco.smartclip.net/?plc=$domain=spiele.rtl.de
 @@||dd6zx4ibq538k.cloudfront.net/static/images/$domain=tkmaxx.com
 @@||ddolahdplay.xyz/premiumtv/*.php$stealth=referrer
-@@||ddolahdplay.xyz/premiumtv/livetvon.php$stealth=referrer
 @@||de-config.sensic.net/sui-connector.js$domain=sportschau.de
 @@||deals.cheapovegas.com^$domain=cheapovegas.com
 @@||deals.nextag.com^*/ClickTracker.jsp
@@ -3812,7 +3810,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wcvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=worldsurfleague.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$important,domain=digi24.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|insideedition.com|pch.com
@@ -3884,6 +3881,7 @@
 @@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.dladealera.pl/ads/$domain=budmatauto.pl
 @@||img.noobzone.ru^$stealth
+@@||img.rakudaclub.com/adv/$~third-party
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.segmentify.com^$image,domain=gratis.com
 @@||img.soft98.ir/*/300x250.
@@ -4911,7 +4909,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=topsporter.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=n-egy.best
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=watchx.top|phimlongtieng.net|abysscdn.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=woowebtools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=hax.co.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest

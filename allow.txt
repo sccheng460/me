@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-17 09:11:02（北京时间） 
-! Total count: 6741
+! Version: 2023-10-17 20:32:40（北京时间） 
+! Total count: 6745
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -2962,6 +2962,7 @@
 @@||googletagmanager.com/gtag/js$domain=ln24.be
 @@||googletagmanager.com/gtag/js$domain=m.hkgolden.com
 @@||googletagmanager.com/gtag/js$domain=malwaretips.com
+@@||googletagmanager.com/gtag/js$domain=mobile01.com
 @@||googletagmanager.com/gtag/js$domain=muji.order.place
 @@||googletagmanager.com/gtag/js$domain=nbc.com
 @@||googletagmanager.com/gtag/js$domain=nibelungen-kurier.de
@@ -3154,6 +3155,7 @@
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=miltonkeynes.co.uk
+@@||googletagmanager.com/gtm.js$domain=mobile01.com
 @@||googletagmanager.com/gtm.js$domain=moniteurautomobile.be
 @@||googletagmanager.com/gtm.js$domain=morningstar.nl|morningstar.de|morningstar.at|morningstar.fr|morningstarfunds.ie|morningstar.it|morningstar.es|morningstar.se|morningstar.ch|morningstar.co.uk|morningstar.hk|morningstar.com
 @@||googletagmanager.com/gtm.js$domain=motorsport.com
@@ -3370,8 +3372,8 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
-@@||gplinks.in/*/data.php$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com
-@@||gplinks.in/*/main.js$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com
+@@||gplinks.in/*/data.php$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com|thenovbharattimes.com|nokrimilegi.in
+@@||gplinks.in/*/main.js$domain=revadvert.com|mynewsmedia.co|rontymobile.in|globlenews.in|onlinegratuitycalculator.com|mydomainscan.com|netflixrelease.com|kejriwalyojana.com|sattanewss.com|digiclown.com|thenovbharattimes.com|nokrimilegi.in
 @@||gplinks.in/track/data.php$domain=govsfid.com
 @@||gplinks.in/track/js/$domain=govsfid.com
 @@||grapeshot.co.uk/image-resize/$image
@@ -3388,6 +3390,7 @@
 @@||gstatic.com/recaptcha/
 @@||gstatic.com^$domain=mixdrop.co
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
+@@||gsuite.tools/js/gtag.js$script,~third-party
 @@||gtimg.cn/images/nz/cp/*/adimg.png$domain=qq.com
 @@||gtimg.cn/qz-proj/wy-pc-v3/static/img/svg/icon-share-
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
@@ -3760,6 +3763,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sonyliv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=stack.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=stickgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tokfm.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
@@ -4866,7 +4870,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lascimmiapensa.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=listvpn.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
@@ -5696,6 +5699,7 @@
 @@||solvetube.site/*js$domain=solvetube.site
 @@||solvetube.site^$generichide
 @@||som.aeroplan.com/b/ss/
+@@||sonar.viously.com^$domain=melty.fr
 @@||sondakika.com/static/reklam/advertisement.gif
 @@||songza.com/static/*/songza/systems/$script
 @@||sonic-ui.highereducation.com/latest/sonic-callout.js$domain=thebestschools.org

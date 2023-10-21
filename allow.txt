@@ -2,8 +2,8 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2023-10-20 20:31:38（北京时间） 
-! Total count: 6757
+! Version: 2023-10-21 09:08:24（北京时间） 
+! Total count: 6761
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&__cf_chl_tk=$stealth,~third-party
@@ -511,6 +511,7 @@
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adjs.8591.com.tw^$script
+@@||adligature.com^|$xmlhttprequest,domain=work.ink
 @@||adlink.wf^
 @@||admin.mailchimp.com^
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
@@ -963,6 +964,8 @@
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
 @@||apv-launcher.minute.ly/api/$script
 @@||aqy103.com/js/aqy/main.js
+@@||arabiclink.info/go/*.key$stealth=referrer
+@@||arabiclink.info/go/*/index.m3u8$stealth=referrer
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
 @@||aranzulla.it/_adv/
 @@||aranzulla.it^*ads$domain=aranzulla.it
@@ -1574,6 +1577,7 @@
 @@||cdn.wazimo.com/engine/static/*/images/$domain=lastnighton.com
 @@||cdn.wazimo.com/media/images/$domain=lastnighton.com
 @@||cdn.wazimo.com/media/images/$domain=showsnob.com
+@@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||cdnb.4strokemedia.com^$domain=video.corriere.it
@@ -2303,6 +2307,7 @@
 @@||facebook.com/connect/xd_arbiter.php$jsinject,elemhide
 @@||facebook.com/dialog/oauth$document
 @@||facebook.com/login.php$stealth
+@@||facebook.com/qr/$stealth=referrer
 @@||facebook.com/share/share_now_menu/$domain=facebook.com
 @@||facebook.com/tr$domain=rusradio.ru
 @@||facebook.com/videocall/$stealth
@@ -5927,7 +5932,6 @@
 @@||storage.googleapis.com/aisw-assets/fanpage/adblock/advert*_.json$domain=staige.tv
 @@||storage.googleapis.com/prebid/qm_prebid.js$domain=kicker.de
 @@||storage.yandex.net/rdisk/$stealth
-@@||store-jp.nintendo.com^$cookie
 @@||store-web.dynamics.com^$stealth
 @@||stores.office.com/authredir
 @@||stpd.cloud^$domain=freemcserver.net

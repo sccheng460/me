@@ -8,9 +8,8 @@ echo '创建临时文件夹'
 mkdir -p ./tmp/
 
 #添加补充规则
-cp ./data/rules/adblock.txt ./tmp/rules01.txt
-cp ./data/rules/whitelist.txt ./tmp/allow01.txt
-
+#cp ./data/rules/adblock.txt ./tmp/rules01.txt
+#cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 cd tmp
 #下载yhosts规则
 curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
@@ -32,7 +31,8 @@ rules=(
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
   "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
- )
+  "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt"
+)
  
 allow=(
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"

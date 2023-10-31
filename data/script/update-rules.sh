@@ -32,11 +32,8 @@ rules=(
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"   #uniartisan's Adblock List
   "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt"
-  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt"
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
-  "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt"
   "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
-  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt"
  )
  
 allow=(

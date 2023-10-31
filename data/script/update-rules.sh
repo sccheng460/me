@@ -32,6 +32,8 @@ rules=(
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
   "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
+  "https://hostfiles.frogeye.fr/multiparty-only-trackers.txt"
+  "https://git.bubblev.org/bubblev/bubble-filter-lists/raw/branch/master/ads_and_trackers1.txt"
  )
  
 allow=(

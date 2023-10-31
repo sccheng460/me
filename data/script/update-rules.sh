@@ -25,15 +25,15 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 
 echo '下载规则'
 rules=(
-  "https://filters.adtidy.org/android/filters/2_optimized.txt" #adg基础过滤器
-  "https://filters.adtidy.org/android/filters/11_optimized.txt" #adg移动设备过滤器
-  "https://filters.adtidy.org/android/filters/17_optimized.txt"  #adgURL过滤器
-  "https://filters.adtidy.org/android/filters/3_optimized.txt" #adg防跟踪
-  "https://filters.adtidy.org/android/filters/224_optimized.txt" #adg中文过滤器
-  "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
-  "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
-  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
-  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
+  "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"   #混合规则
+  "https://raw.githubusercontent.com/banbendaao/ADgk/master/ADgk.txt"   #ADGK
+  "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
+  "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt"
+  "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"   #uniartisan's Adblock List
+  "https://abp.oisd.nl/basic"
+  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
  )
 
 allow=(

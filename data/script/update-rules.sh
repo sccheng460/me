@@ -32,11 +32,10 @@ rules=(
   "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt"
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"   #uniartisan's Adblock List
-  "https://abp.oisd.nl/basic"
   "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
  )
 
-allow=(
+#allow=(
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"

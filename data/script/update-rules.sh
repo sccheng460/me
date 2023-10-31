@@ -35,7 +35,7 @@ rules=(
   "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
  )
 
-#allow=(
+allow=(
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"

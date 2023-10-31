@@ -17,17 +17,6 @@
     <img src="https://img.shields.io/github/license/8680/GOODBYEADS?style=flat-square" alt="license" />
   </a>
 </p>
-
-<h4>
-    <a href="#a">规则订阅</a>
-  <span> · </span>
-    <a href="#b">上游列表</a>
-  <span> · </span>
-    <a href="#c">拦截效果</a>
-  <span> · </span>
-    <a href="#d">完善项目</a>
-  </h4>
-
 </div>
 
 <h2 id="a">🎯 规则订阅</h2>

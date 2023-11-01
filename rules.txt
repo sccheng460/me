@@ -11,8 +11,8 @@
 ！https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"  #uniartisan's Adblock List
 ！https://abp.oisd.nl/basic
 ！https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
-! Version: 2023-11-01 10:22:14（北京时间） 
-! Total count: 59549
+! Version: 2023-11-01 10:40:56（北京时间） 
+! Total count: 59555
  
 # .app/ads: Ad management platform for mobile application developers (located in US)
 # AOL Advertising
@@ -32098,6 +32098,7 @@ whnews.cn###gd_l
 whnews.cn###gd_r
 whnight.com##DIV.a_mu,DIV.wp.a_t,DIV.a_pb
 whnyd.com##div[style*="height: 115px"]
+whois.com#@#.full-width-banner
 wholehk.com#?#div[id^="postmessage_"] > div[align="center"][style^="font-size:11px;"] > font:contains(Advertisement)
 whsbpw.cn
 whsjg.cn
@@ -34258,6 +34259,7 @@ zzzyk.com###Tinfo
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
 |https://tellme.pw/go/jav$popup
 ||*.$image,redirect=1x1-transparent.gif,third-party,domain=rmdown.com
+||*.$image,redirect=1x1.gif,third-party,domain=rmdown.com
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.apk$domain=gulingge.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
@@ -34286,6 +34288,7 @@ zzzyk.com###Tinfo
 ||*/videos/other*.f4v*$redirect=noopmp4-1s,domain=www.iqiyi.com|m.iqiyi.com
 ||*/videos/other/*.f4v$object,rewrite=abp-resource:blank-mp3,domain=iqiyi.com
 ||*/xlchannel.app2amlogic/RouteMsg
+||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||*^sdtfrom=^$media,redirect=noopmp3-0.1s,domain=qq.com
 ||*btbtt.*/view/image/QT_
 ||*ggua.xyz^$third-party
@@ -42844,6 +42847,7 @@ zzzyk.com###Tinfo
 ||deliver.ptgncdn.com^
 ||delivery*.wasu.cn/d/js/1.0?pos=
 ||delivery-cdn-cf.adswizz.com^
+||delivery-pc.wasu.cn/d/frontJs/3.0$redirect=noop.js,domain=wasu.cn,script
 ||delivery-pc.wasu.cn/d/frontJs/3.0$redirect=noopjs,domain=wasu.cn
 ||delivery-pc.wasu.cn/d/js/
 ||delivery.impressionmonster.com/sync.php
@@ -46231,6 +46235,7 @@ zzzyk.com###Tinfo
 ||husky.sogou.com^
 ||huxifena.cn^
 ||huya.com*/cache1min.
+||huya.com/leaf/*=vodadv&$redirect=noop-0.1s.mp3,domain=huya.com,media
 ||huya.com/leaf/*=vodadv&$redirect=noopmp3-0.1s,domain=huya.com
 ||huyaimg.msstatic.com/cdnimage/roomad/
 ||huzhanbin.cn^
@@ -49118,6 +49123,7 @@ zzzyk.com###Tinfo
 ||ltienll.top^
 ||ltkbyfd.icu^
 ||ltn.com.tw/js/ad_door.js
+||lts*.qq.com^*.ts?index=$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||lts*.qq.com^*.ts?index=$media,redirect=noopmp3-0.1s,domain=qq.com
 ||ltsdl.qq.com/$xmlhttprequest
 ||ltsubzgmw.xyz^

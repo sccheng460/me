@@ -25,6 +25,7 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 echo '下载规则'
 rules=(
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
+  "https://ghproxy.com/https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"
   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
   "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)

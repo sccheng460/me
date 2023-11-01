@@ -31,6 +31,7 @@ rules=(
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
   "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
   "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
+  "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
 )
  
 allow=(

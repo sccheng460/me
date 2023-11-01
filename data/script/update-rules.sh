@@ -25,13 +25,12 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 echo '下载规则'
 rules=(
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
-  "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"   #混合规则
   "https://raw.githubusercontent.com/banbendaao/ADgk/master/ADgk.txt"   #ADGK
   "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
   "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
-  "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt"
+  "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
 )
  
 allow=(

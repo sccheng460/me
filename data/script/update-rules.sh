@@ -12,7 +12,7 @@ mkdir -p ./tmp/
 #cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 cd tmp
 #下载yhosts规则
-curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
+#curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
 
 #下载大圣净化规则
 curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
@@ -25,7 +25,7 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 echo '下载规则'
 rules=(
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
-  "https://raw.githubusercontent.com/banbendaao/ADgk/master/ADgk.txt"   #ADGK
+  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
   "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
   "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"

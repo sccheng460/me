@@ -24,14 +24,22 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 
 echo '下载规则'
 rules=(
-  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
+   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
+"https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
+"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #消失的dd
+"https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"  #adblock
+"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"    #dd大佬
+"https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt"
+"https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"   #大萌主
+"https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
   "https://ghproxy.com/https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"
-  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
-  "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
-  "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
-  "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
-  "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
-  "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
+"https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
+"https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
+"https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
+"https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
+"https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"
+"https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all"
+"https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 )
  
 allow=(

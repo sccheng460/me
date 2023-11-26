@@ -33,8 +33,8 @@
 
 - **[拦截规则（Github）](https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)**
 - **[拦截规则(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/sccheng460/me/master/rules.txt)**
-- **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt)**
+- **[白名单（Github）](https://raw.githubusercontent.com/sccheng460/me/master/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://ghproxy.com/raw.githubusercontent.com/sccheng460/me/master/allow.txt)**
 
 </ul>
 </details>

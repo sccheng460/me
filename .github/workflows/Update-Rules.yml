@@ -22,8 +22,8 @@ jobs:
       - name: Git push assets to Github
         run: |
           git init
-          git config --local user.email "2750967751@qq.com"
-          git config --local user.name "Dusk0531"
+          git config --local user.email "309711765@qq.com"
+          git config --local user.name "sccheng460"
           git branch -m master
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"

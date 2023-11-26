@@ -37,7 +37,9 @@ rules=(
 "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
 "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
 "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
-"https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"
+"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"  
+"https://raw.hellogithub.com/hosts"  #github加速
+"https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all"
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 )

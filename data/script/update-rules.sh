@@ -40,10 +40,7 @@ rules=(
 "https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"  
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
-"https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all"
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
-"https://raw.githubusercontent.com/sccheng460/adpmerge/main/easylistnocssrule.txt"
-"https://dev.iw233.cn/Lucky/Adguard.php"
 )
  
 allow=(

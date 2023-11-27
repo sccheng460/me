@@ -42,6 +42,7 @@ rules=(
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all"
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
+"https://raw.githubusercontent.com/sccheng460/adpmerge/main/easylistnocssrule.txt"
 )
  
 allow=(

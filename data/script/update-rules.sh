@@ -43,6 +43,7 @@ rules=(
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all"
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 "https://raw.githubusercontent.com/sccheng460/adpmerge/main/easylistnocssrule.txt"
+"https://dev.iw233.cn/Lucky/Adguard.php"
 )
  
 allow=(

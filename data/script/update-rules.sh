@@ -29,6 +29,7 @@ rules=(
 "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #消失的dd
 "https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"  #adblock
 "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"    #dd大佬
+"https://cdn.jsdelivr.net/gh/afwfv/DD-AD@main/rule/dns.txt" #ddall
 "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt"
 "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"   #大萌主
 "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"

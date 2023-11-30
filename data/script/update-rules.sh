@@ -43,6 +43,7 @@ rules=(
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 "https://raw.githubusercontent.com/sccheng460/AdGuard-Rules/main/sccad.txt"
+"https://dev.iw233.cn/Lucky/Adguard.php"
 )
  
 allow=(

@@ -26,10 +26,9 @@ echo '下载规则'
 rules=(
    "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
 "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
-"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #消失的dd
+"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd带佬dns
 "https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"  #adblock
-"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"    #dd大佬
-"https://cdn.jsdelivr.net/gh/afwfv/DD-AD@main/rule/dns.txt" #ddall
+"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"    #dd带佬adgh
 "https://raw.gitmirror.com/Cats-Team/dns-filter/main/abp.txt"
 "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"   #大萌主
 "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
@@ -38,12 +37,17 @@ rules=(
 "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
 "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
 "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
-"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"  
+"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"  #小靓仔
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 "https://raw.githubusercontent.com/sccheng460/AdGuard-Rules/main/sccad.txt"
-"https://dev.iw233.cn/Lucky/Adguard.php"
+"https://dev.iw233.cn/Lucky/Adguard.php"  #小殇音
+"https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
+"https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
+"https://anti-ad.net/easylist.txt"  #adni
+"https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
+
 )
  
 allow=(

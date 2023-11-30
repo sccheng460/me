@@ -31,7 +31,6 @@ rules=(
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 "https://raw.githubusercontent.com/sccheng460/AdGuard-Rules/main/sccad.txt"
-"https://dev.iw233.cn/Lucky/Adguard.php"  #小殇音
 "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
 "https://anti-ad.net/easylist.txt"  #adni

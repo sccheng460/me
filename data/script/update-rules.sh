@@ -39,10 +39,7 @@ rules=(
 )
  
 allow=(
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/sccheng460/adg/main/whitelist.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"

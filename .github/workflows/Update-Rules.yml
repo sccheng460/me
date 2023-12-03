@@ -22,7 +22,7 @@ jobs:
       - name: Git push assets to Github
         run: |
           git init
-          git config --local user.email "309711765@qq.com"
+          git config --local user.email "sccheng0909@163.com"
           git config --local user.name "sccheng460"
           git branch -m master
           git add --all

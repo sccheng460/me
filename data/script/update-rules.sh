@@ -36,6 +36,7 @@ rules=(
 "https://anti-ad.net/easylist.txt"  #adni
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
 "https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
+"https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt"  #国内集合
 )
  
 allow=(

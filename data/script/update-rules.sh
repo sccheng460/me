@@ -33,7 +33,6 @@ rules=(
 "https://raw.githubusercontent.com/sccheng460/AdGuard-Rules/main/sccad.txt"
 "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
-"https://anti-ad.net/easylist.txt"  #adni
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
 "https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
 "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt"  #国内集合

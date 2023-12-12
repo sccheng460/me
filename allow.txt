@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2023-12-12 19:11:51（北京时间） 
-! Total count: 6878
+! Version: 2023-12-12 21:07:07（北京时间） 
+! Total count: 6873
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*$elemhide,domain=hfneiott.buzz|imgair.net|imgbew.buzz|imgbjryy.buzz|imgblaze.net|imgewe.buzz|imgeza.buzz|imgfl.xyz|imgfrost.net|imgiut.buzz|imgizx.buzz|imgjetr.buzz|imgkaka.xyz|imgkixx.buzz|imgoiu.buzz|imgokr.buzz|imgowk.buzz|imgpuloki.online|imgqew.buzz|imgqwt.buzz|imgtwq.buzz|imguebr.buzz|imguo.buzz|imgux.buzz|imgxelz.buzz|imgxhfr.buzz|imgxxxx.buzz|imgytreq.buzz|imgzzzz.buzz|mrlzqoe.buzz|pixsera.net|utinwpqqui.buzz|vestimage.site
@@ -1693,7 +1693,6 @@
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
-@@||api5-normal-sinfonlinea.fqnovel.com^
 @@||apibay.org^$script,xmlhttprequest,domain=thepiratebay.org
 @@||apikeys.civiccomputing.com^$xmlhttprequest,domain=videogameschronicle.com
 @@||apis.google.com/js/plusone.js$domain=pornhub.com
@@ -4635,9 +4634,6 @@
 @@||p.jwpcdn.com^$script
 @@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
 @@||p11.techlab-cdn.com^$domain=wizzair.com
-@@||p26-sign.douyinpic.com^
-@@||p6-developer-sign.bytemaimg.com^
-@@||p9-developer-sign.bytemaimg.com^
 @@||paddleangle.com^$script,xmlhttprequest
 @@||padsdel.com^$image,subdocument,domain=bitzfree.com
 @@||padstm.com^$image,subdocument,domain=bitzfree.com
@@ -6457,7 +6453,6 @@
 @@||v.gdt.qq.com/gdt_stats.fcg?
 @@||v.l.ykimg.com
 @@||v1.cn/player/cloud/cloud_player
-@@||v26-novelapp.fqnovelvod.com^
 @@||v2rayssr.com/wp-content/plugins/dh-anti-adblocker/public/js/prebid-ads.js
 @@||v2rayssr.com^$generichide
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&

@@ -26,7 +26,6 @@ rules=(
 "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
 "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
 "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
-"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"  #小靓仔
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
@@ -35,7 +34,8 @@ rules=(
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
 "https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
-"https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all-lite.txt"  #国内集合
+"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"
+"https://jihulab.com/cats-team/adrules/-/raw/main/hosts.txt"
 )
  
 allow=(

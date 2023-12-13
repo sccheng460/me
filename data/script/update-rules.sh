@@ -34,8 +34,6 @@ rules=(
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
 "https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
-"https://jihulab.com/qq5460168/5460/-/raw/master/black.txt"
-"https://jihulab.com/cats-team/adrules/-/raw/main/hosts.txt"
 )
  
 allow=(

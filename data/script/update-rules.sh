@@ -41,7 +41,6 @@ rules=(
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
 "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
-"https://raw.githubusercontent.com/sccheng460/AdGuard-Rules/main/sccad.txt"
 "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List

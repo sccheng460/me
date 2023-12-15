@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2023-12-15 10:33:08（北京时间） 
-! Total count: 14279
+! Version: 2023-12-15 11:14:02（北京时间） 
+! Total count: 14278
 @@$generichide,~third-party,domain=myl.li|mylink.how|mylink.love|mylink.me.uk|mylink.st
 @@$webrtc,domain=sourceforge.net
 @@$webrtc,domain=walla.co.il
@@ -4749,7 +4749,6 @@
 @@||developer.apple.com$generichide
 @@||developer.softonic.com^$document
 @@||developer.tomtom.com/sites/all/modules/contrib/eu_cookie_compliance/js/jquery.cookie-*.min.js
-@@||developers.e.qq.com^
 @@||developers.google.com^
 @@||developpez.com/show_i.php?$~image
 @@||devlog.ys7.com^$important

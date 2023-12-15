@@ -45,7 +45,8 @@ rules=(
 "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
 "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"  #乘风过滤
 "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
-"https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
+#"https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
+"https://raw.githubusercontent.com/2771936993/HG/main/hg.txt"  #海哥
 )
  
 allow=(

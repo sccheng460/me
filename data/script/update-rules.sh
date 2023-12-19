@@ -50,6 +50,7 @@ rules=(
  
 allow=(
   "https://raw.githubusercontent.com/sccheng460/adg/main/whitelist.txt"
+  "https://raw.githubusercontent.com/sccheng460/adg/main/2.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"

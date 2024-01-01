@@ -35,7 +35,7 @@ rules=(
   "https://anti-ad.net/easylist.txt"  
   "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd
  "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd
-"https://gitee.com/xiac520/AdGuardHome/raw/main/AdGuardHome.txt"#清欢
+#"https://gitee.com/xiac520/AdGuardHome/raw/main/AdGuardHome.txt"#清欢
 "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"   #大萌主
 "https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"#qq 
 "https://raw.hellogithub.com/hosts"  #github加速

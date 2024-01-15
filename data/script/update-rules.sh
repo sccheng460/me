@@ -15,35 +15,35 @@ cd tmp
 #curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
 
 #下载大圣净化规则
-curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
+#curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
 sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
 sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
 
 #下载乘风视频过滤规则
-curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"} else if($0 ~ /[#\$|@]/){print $0}}' | sort -u > rules003.txt
+#curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"} else if($0 ~ /[#\$|@]/){print $0}}' | sort -u > rules003.txt
 
 echo '下载规则'
 rules=(
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
   "https://ghproxy.com/https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"
   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
-  "https://raw.github.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"   #NoCoin Filter List
+  "https://file-git.trli.club/file-hosts/ad-hosts/adblock" 
   "https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
-  "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt"
-  "https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
-  "https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
-  "https://anti-ad.net/easylist.txt"  
-  "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd
+  "https://file-git.trli.club/file-hosts/ad-hosts/hosts"
+  #"https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
+  #"https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
+ "https://anti-ad.net/easylist.txt"  
+  #"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd
  "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd
 #"https://gitee.com/xiac520/AdGuardHome/raw/main/AdGuardHome.txt"#清欢
 "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"   #大萌主
-"https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"#qq 
+#"https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"#qq 
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
-"https://badmojr.github.io/1Hosts/Lite/hosts.txt"
-"https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
-"https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
-"https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
+#"https://badmojr.github.io/1Hosts/Lite/hosts.txt"
+#"https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"  #Halflife
+#"https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"  #Fanboy’s Annoyances List
+#"https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
 )
 
 allow=(

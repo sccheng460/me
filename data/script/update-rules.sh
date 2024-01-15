@@ -32,7 +32,7 @@ rules=(
   "https://file-git.trli.club/file-hosts/ad-hosts/hosts"
   #"https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt"
   #"https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt"
- "https://anti-ad.net/easylist.txt"  
+#"https://anti-ad.net/easylist.txt"  
   #"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd
  "https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd
 #"https://gitee.com/xiac520/AdGuardHome/raw/main/AdGuardHome.txt"#清欢

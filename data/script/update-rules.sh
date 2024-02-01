@@ -24,8 +24,8 @@ sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
 
 echo '下载规则'
 rules=(
-"https://raw.githubusercontent.com/xiac520/AdGuardHome/main/dns2.txt"
-"https://raw.githubusercontent.com/xiac520/AdGuardHome/main/AdGuardHome.txt"
+#"https://raw.githubusercontent.com/xiac520/AdGuardHome/main/dns2.txt"
+#"https://raw.githubusercontent.com/xiac520/AdGuardHome/main/AdGuardHome.txt"
  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
   "https://ghproxy.com/https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock"
   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK

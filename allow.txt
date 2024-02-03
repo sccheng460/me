@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-02-03 02:10:04（北京时间） 
-! Total count: 4384
+! Version: 2024-02-03 08:33:27（北京时间） 
+! Total count: 4385
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1525,6 +1525,7 @@
 @@||chinamobile.com^*/ad$~third-party
 @@||chinatelecom.com.cn^
 @@||chinatimes.com/css-main/ad.css
+@@||chineseanime.vip^$generichide
 @@||chinsnakes.com^$script,xmlhttprequest
 @@||chtoen.com/js/adsbygoogle.js
 @@||chuangkit.com^$generichide

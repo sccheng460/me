@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-02-07 20:11:23（北京时间） 
-! Total count: 4388
+! Version: 2024-02-08 02:07:54（北京时间） 
+! Total count: 4386
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -209,6 +209,7 @@
 @@.com/logo/ad.$domain=colamanga.com
 @@.com/logo/ad.$domain=colamanga.com|colamanhua.com
 @@.com/o.js$domain=2biqu.com
+@@.com/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@.com/script/comm.js$~third-party
 @@.com/script/main.js$~third-party
 @@.com/script/read.js$~third-party
@@ -688,7 +689,6 @@
 @@/rwd_cap.js$domain=ibf.tw
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -731,7 +731,7 @@
 @@_cpa_cpm_$domain=52xkdy.com
 @@_cpc_cpm/$domain=youranshare.com
 @@_cpc_cpm_$domain=fydy8.com|saraba1st.com
-@@cc/o.js$third-party,script,domain=mpo18.com
+@@cc/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@cdn.allflow.cn/assets/ad-utils.*.js$domain=flowus.cn
 @@game.baifumeiba.com/login/ad/adex.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
@@ -1552,7 +1552,7 @@
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudflare.net^$script,domain=colamanga.com|colamanhua.com
-@@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org
+@@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org
 @@||cloudsdestruction.com^$script,xmlhttprequest
 @@||cloudtime.to/banner.php$script
 @@||clovercabbage.com^$script,xmlhttprequest
@@ -3478,7 +3478,6 @@
 @@||saffronrefuge.com^$script,xmlhttprequest
 @@||sailsuit.com^$script,xmlhttprequest
 @@||samestretch.com^$script,xmlhttprequest
-@@||samplefan.com/img/ad/$image
 @@||sandinsect.com^$script,xmlhttprequest
 @@||sascdn.com/config.js?nwid=$domain=femmeactuelle.fr
 @@||sascdn.com/diff/js/smart.js$domain=femmeactuelle.fr
@@ -3568,7 +3567,6 @@
 @@||serve.popads.net/checkInventory.php$script,domain=jav4.me
 @@||server1.affiz.net/tracking/ads_display.php$script,domain=fit.sh
 @@||service.4gtv.tv/4gtv/Data/GetAD.ashx
-@@||serviceads.co.uk/api/ad/$~third-party,xmlhttprequest
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||serving-sys.com^$third-party,domain=myspass.de
 @@||seselah.com^$generichide
@@ -4165,9 +4163,9 @@
 @@||v.17173.com/advideo/*.mp4
 @@||v.17173.com/advideo/20*.flv
 @@||v.fwmrm.net/ad/g/*$domain=nhl.com|dtmts.com
+@@||v.fwmrm.net/ad/g/*Nelonen$script
 @@||v.fwmrm.net/ad/g/1$domain=uktv.co.uk|vevo.com
 @@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
-@@||v.fwmrm.net/ad/g/1?*_html5_live$domain=~gulli.fr|~msn.com
 @@||v.fwmrm.net/ad/g/1?csid=vcbs_cbsnews_desktop_$xmlhttprequest
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
 @@||v.fwmrm.net/ad/p/1?$object-subrequest,domain=gametrailers.com

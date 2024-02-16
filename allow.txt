@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-02-16 20:11:15（北京时间） 
-! Total count: 2878
+! Version: 2024-02-17 02:09:18（北京时间） 
+! Total count: 2913
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -893,6 +893,8 @@
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
+@@||acidpigs.com^$script,xmlhttprequest
+@@||actuallysheep.com^$script,xmlhttprequest
 @@||ad*.liverail.com/?LR_$object-subrequest,domain=play.tv|playtv.fr
 @@||ad-gone.com^
 @@||ad.10010.com^
@@ -1102,6 +1104,7 @@
 @@||appledaily.com/js/nxm_
 @@||aquabitcoin.com/show_ads.js$script
 @@||aqy103.com/js/aqy/main.js
+@@||ar1nvz5.com^$script,xmlhttprequest
 @@||ascii.jp/img/ad/$image,~third-party
 @@||aseanlegacy.net/adsense/ads.png
 @@||aseanlegacy.net/assets/*/*/advertisement.php$script
@@ -1171,6 +1174,7 @@
 @@||bestlistofporn.com^$generichide
 @@||beta.bugly.qq.com^
 @@||beyondsoft.com/dataservice/img/ad_
+@@||bhcumsc.com^$script,xmlhttprequest
 @@||bid.g.doubleclick.net/$object-subrequest,domain=play.tv|playtv.fr
 @@||bild.de^$elemhide
 @@||bili96.co^$image
@@ -1338,6 +1342,7 @@
 @@||convertpad.com/ad/
 @@||coolinet.com^$generichide
 @@||coolkora.com^$elemhide
+@@||copyrightaccesscontrols.com^$script,xmlhttprequest
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||count.taobao.com/counter$script
@@ -1396,13 +1401,17 @@
 @@||ddtorun.pl/pl/js/show_ads.js$script
 @@||ddwloclawek.pl/pl/js/show_ads.js$script
 @@||deb.gs/intermission/loadTargetUrl$xmlhttprequest
+@@||delegatediscussion.com^$script,xmlhttprequest
 @@||demo.ama.pub^$generichide
 @@||demo.hongkiat.com/jquery-detect-ads-block/images/ads.jpg$image
 @@||demonoid.pw/show_ads_.js$script
 @@||des.smartclip.net/ads?$domain=vvvvid.it
 @@||descargas.seguridadwireless.es/banner.gif
 @@||designtaxi.com/js/ads.js$script
+@@||deskdecision.com^$script,xmlhttprequest
+@@||detailedgovernment.com^$script,xmlhttprequest
 @@||detectadblock.com/ads.js$script
+@@||detectdiscovery.com^$script,xmlhttprequest
 @@||developer.apple.com$generichide
 @@||di.se^$elemhide
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
@@ -1411,6 +1420,7 @@
 @@||ditiezu.com^*.php$subdocument
 @@||diymediahome.org/*/adframe.min.js$script,~third-party
 @@||dizhi99.com^$generichide
+@@||dk4ywix.com^$script,xmlhttprequest
 @@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
 @@||dlh.net/ads.html$subdocument
 @@||dlkoo.cc/down/*/*.htm$popup
@@ -1433,9 +1443,12 @@
 @@||doda.jp/brand/ad/img/icon_play.png
 @@||doda.jp/cmn_web/img/brand/ad/ad_text_
 @@||doda.jp/cmn_web/img/brand/ad/ad_top_3.mp4
+@@||dogcollarfavourbluff.com^$script,xmlhttprequest
 @@||dogecoinpuddle.com/show_ads.js$script
 @@||dogefaucet.com/initializr/js/ads.js$script
 @@||dogry.pl/ads.html$subdocument
+@@||dollardelta.com^$script,xmlhttprequest
+@@||doorbrazil.com^$script,xmlhttprequest
 @@||douban.com/popup/login?
 @@||doubibackup.com^$generichide
 @@||doubleclick.infineoncorp.com^$domain=eventhubs.com
@@ -1444,12 +1457,16 @@
 @@||doubleclick.net/gpt/pubads_impl_$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@||doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||doubleclickbygoogle.com^$object-subrequest,domain=vercanalestv.com
+@@||doubtfulrainstorm.com^$script,xmlhttprequest
 @@||douyucdn.cn^*-share-master/
 @@||down.cc/down/js/ad.js
 @@||download.jumpw.com^
 @@||download.mokeedev.com^$genericblock,generichide
 @@||dqzsteel.com/Website/Image/guanggao/
+@@||draconiancurve.com^$script,xmlhttprequest
 @@||dragoart.com/ads.js$script,~third-party
+@@||dramaticdirection.com^$script,xmlhttprequest
+@@||dripappliance.com^$script,xmlhttprequest
 @@||drive.quark.cn^
 @@||drstickyfingers.com/intermission/loadTargetUrl$xmlhttprequest
 @@||duelmeta.com^$generichide
@@ -1466,6 +1483,7 @@
 @@||e9china.net^$generichide
 @@||eafyfsuh.net/intermission/loadTargetUrl$xmlhttprequest
 @@||eami.in/images/js/ads.js$script
+@@||earthquakescarf.com^$script,xmlhttprequest
 @@||easylife.tw/js/adblockDetector.js
 @@||easylife.tw^$generichide
 @@||ecitic.com/source/*/pop
@@ -1476,17 +1494,25 @@
 @@||edgesuite.net^*/ad.css?
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
+@@||educatedeggnog.com^$script,xmlhttprequest
 @@||eenadu.net/ads.js$script
 @@||eiv.baidu.com/fcimg
+@@||ejyymghi.com^$script,xmlhttprequest
 @@||ekamus.info^$generichide
 @@||elife-cloud.blogspot.com^$generichide
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emome.net/files/advertising/
+@@||emptyescort.com^$script,xmlhttprequest
 @@||en.bongacash.com/js/videojs/video.js$domain=pornsocket.com
 @@||en.bongacash.com/js/videojs/videojs_*.vast.vpaid.min.js$domain=pornsocket.com
+@@||encouragingwilderness.com^$script,xmlhttprequest
 @@||ency-educ.com^$generichide
+@@||energeticexample.com^$script,xmlhttprequest
 @@||english-subtitles.club/assets/$image,~third-party
+@@||enormousearth.com^$script,xmlhttprequest
 @@||enrondev.net/ads/server/www/delivery/$domain=filecore.co.nz,subdocument
+@@||enthusiasticring.com^$script,xmlhttprequest
+@@||enviousshape.com^$script,xmlhttprequest
 @@||eolinker.com^$generichide
 @@||eporner.com^$~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
@@ -1496,9 +1522,11 @@
 @@||ettoday.net^$generichide
 @@||eu4cn.com^$generichide
 @@||eurosolidaire.com^$generichide
+@@||evaluateend.com^$script,xmlhttprequest
 @@||everydayporn.co/player/player_ads.html
 @@||eveskunk.com/ad/300x250/ads/$xmlhttprequest,domain=eveskunk.com
 @@||exashare.com/ici.html$subdocument
+@@||exclusivebrass.com^$script,xmlhttprequest
 @@||exoclick.com/iframe.php?*=2596969&$domain=jav777.cc
 @@||exoclick.com/iframe.php?*=2596969&$domain=jav777.cc|jav777.xyz
 @@||exoclick.com/iframe.php?idzone=*&size=468x60$domain=porn77.info
@@ -1506,6 +1534,7 @@
 @@||ez3c.tw^$generichide
 @@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
 @@||f11.baidu.com/it^
+@@||fadewaves.com^$script,xmlhttprequest
 @@||familyporner.com/jesojof/js/prebid-ads.js
 @@||fang.com/stats/clickm2011.js
 @@||fangcloud.com^$generichide
@@ -1698,6 +1727,7 @@
 @@||hellporno.net/_a_ht/s/s/su.php?
 @@||hellsmedia.com/js/advert.js$script
 @@||heytapimage.com^$third-party,domain=news.heytapdownload.com
+@@||hfc195b.com^$script,xmlhttprequest
 @@||hh010.com^$generichide
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hindustantimes.com^/ads.js$script
@@ -1753,6 +1783,7 @@
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ik123.com/js/a.js
 @@||ikea.cn^*/img/ads/
+@@||illustriousoatmeal.com^$script,xmlhttprequest
 @@||image.coolapk.com^
 @@||images.voyageforum.com^$image
 @@||imasdk.googleapis.com$domain=vvvvid.it
@@ -1968,6 +1999,7 @@
 @@||megaline.co/intermission/loadTargetUrl$xmlhttprequest
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.com/fileserver/ad/img/
+@@||memopilot.com^$script,xmlhttprequest
 @@||merlininkazani.com/js/ads.js$script
 @@||mgcashgate.com/cpalocker/?$domain=free-movie-home.com
 @@||mgcashgate.com/cpalocker/?$script,domain=pc.online143.com
@@ -1998,6 +2030,7 @@
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
+@@||modularmental.com^$script,xmlhttprequest
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||momovod.com/js/momo/adsbygoogle.js
@@ -2517,6 +2550,7 @@
 @@||sinaimg.cn^*/deco/*/sinaObj.js
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
 @@||sinajs.cn/open/api/js/wb.js$domain=sc.sina.com.cn
+@@||sinceresubstance.com^$script,xmlhttprequest
 @@||sinopac.com/applyweb/OpenAccount/js/oas.
 @@||sitenable.com/admega.php$script
 @@||sitenable.org/admega.php$script
@@ -2711,6 +2745,7 @@
 @@||union2.50bang.org^$third-party
 @@||universfreebox.com/js/advertisement.js
 @@||unshowmasonline.com/banner.gif$image
+@@||untidyquestion.com^$script,xmlhttprequest
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upf.co.il/advertisment.js$script
 @@||uploaded-premium.ru/ads/ad.js$script

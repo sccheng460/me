@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-02-26 02:07:27（北京时间） 
-! Total count: 2878
+! Version: 2024-02-26 08:32:39（北京时间） 
+! Total count: 2872
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1093,7 +1093,6 @@
 @@||apk.tw^*/ads.js$script,~third-party
 @@||apkmos.com^$generichide
 @@||apkpure.com^$generichide
-@@||apkpure.com^$generichide,badfilter
 @@||apmebf.com/ad/$domain=betfair.com
 @@||app-advertise.zhihuishu.com^
 @@||app.titsx.com*/search$domain=porn-plus.com
@@ -2168,7 +2167,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=usafaucet.tk
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=xiaopan.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=articlerewritertool.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=big-coin.eu
@@ -2426,8 +2424,6 @@
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||rutube.ru/dbg/player_stat?$object-subrequest
-@@||s.ip-cdn.com/img/ag.jpg
-@@||s.ip-cdn.com/img/logo.gif
 @@||s.tgfcer.com^$generichide
 @@||s.tvp.pl/files/tvplayer/*/advertisement.gif$image
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
@@ -2755,8 +2751,6 @@
 @@||voxmusic.tv/html/js/adv.bbelements.js$script,domain=voxmusic.tv
 @@||vstrim.pl/js/ads.js$script,domain=vstrim.pl
 @@||vvic.com/monetize/ads/index/
-@@||vvv.aaaf.info/*.ts$domain=159i.com
-@@||vvv.aaaf.info/*/playlist.m3u8$domain=159i.com
 @@||vvvvid.it/img/ad/advertisement.xml$xmlhttprequest
 @@||wallpapermania.eu/assets/js/ads.js$xmlhttprequest
 @@||wallpapershacker.com/js/adsbygoogle.js$script

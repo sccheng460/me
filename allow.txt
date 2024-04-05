@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-04-05 10:33:56（北京时间） 
-! Total count: 3633
+! Version: 2024-04-05 14:10:16（北京时间） 
+! Total count: 3636
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1024,6 +1024,7 @@
 @@||adoi.cn^$generichide
 @@||adpdx.com^$image,subdocument,domain=bitzfree.com
 @@||adr.realclick.co.kr/favicon.ico$subdocument,image,domain=shencomics.com
+@@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
 @@||ads.abusinessforsellingyouthingsthatareniceandyoulikethem.info^$domain=eventhubs.com
 @@||ads.ad-center.com/smart_ad/display?$subdocument,domain=wstream.video
 @@||ads.ad-center.com^$subdocument,domain=dayt.se
@@ -3168,6 +3169,7 @@
 @@||static.anyporn.com/bravoplayer/scripts/bpconfig.js
 @@||static.bfmtv.com/ressources/js/ads.js$script
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
+@@||static.doubleclick.net/instream/ad_status.js$domain=youtube.com
 @@||static.e.189.cn^$important
 @@||static.filmon.com/ad/affiliateimages/banner-250x350.png
 @@||static.game-state.com/js/adblock.js$script
@@ -3601,6 +3603,7 @@
 @@||youtube.com/get_video_info*&el=editpage
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
 @@||youtube.com/get_video_info?*embedded$~third-party
+@@||youtube.com/get_video_info?*embedded$~third-party,other
 @@||youtube.com/my_video_ad$document
 @@||youtubei.googleapis.com^$important
 @@||yoyodadada.lanzouw.com^$important

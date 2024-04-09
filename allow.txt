@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-04-09 20:13:28（北京时间） 
-! Total count: 3639
+! Version: 2024-04-10 02:08:20（北京时间） 
+! Total count: 3636
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1076,7 +1076,6 @@
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
 @@||aegis.qq.com^$important
-@@||aeventlog.beacon.qq.com^
 @@||afairweb.com/api/$xmlhttprequest,domain=hulkusc.com
 @@||affyun.com^$generichide
 @@||aflrm.com/$subdocument,domain=dayt.se
@@ -1449,7 +1448,6 @@
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.js$domain=radiojavan.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||cdnqq.net/ad/api/popunder.js$script
-@@||cfg.flurry.com^
 @@||cfg.imtt.qq.com^$important
 @@||cfm.jd.com^$important
 @@||cgmodel.com/plugin/share/
@@ -1606,7 +1604,6 @@
 @@||darmowa-bramkasms.pl/ad-server/$script
 @@||dashi.163.com^$important
 @@||data.bilibili.com^$important
-@@||data.flurry.com^
 @@||data.mistat.intl.xiaomi.com^$important
 @@||data.mistat.xiaomi.com^$important
 @@||datalog.co.uk/js/ads.js$script

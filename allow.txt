@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-04-23 02:08:11（北京时间） 
-! Total count: 3642
+! Version: 2024-04-23 08:32:35（北京时间） 
+! Total count: 3650
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
 @@-social-bar.$domain=mobi.yahoo.com
@@ -566,6 +566,7 @@
 @@/BTVQRA6OS11SO6ARQVTB/*.php$script,domain=up2stream.com
 @@/BTVQRA6OS11SO6ARQVTB/*.php$script,domain=videomega.tv
 @@/WebAd/*$domain=yongyoujia.com
+@@/_next/static/chunks/$script,domain=hentaipaw.com
 @@/ad-close.png$domain=ch.com
 @@/ad.aspx|$domain=biqudao.com|ldzw.com|xdingdiann.com
 @@/ad/images/*$domain=37-express.com|vnnox.com
@@ -1094,6 +1095,7 @@
 @@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||aizhan.com^$important
 @@||ajax.googleapis.com/ajax/libs/jquery$domain=gaypornwave.com
+@@||ajax.googleapis.com^$script,domain=rule34hentai.net
 @@||ak77now.pixnet.net^$generichide
 @@||akamaized.net^$important
 @@||al.ly/Advertiser.js$script
@@ -1488,6 +1490,7 @@
 @@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
+@@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudflare.net^$script,domain=colamanga.com|colamanhua.com
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
@@ -2256,6 +2259,7 @@
 @@||kupongid.ru/design/js/adblock_detector.js$script
 @@||kwejk.pl^$elemhide
 @@||kwimgs.com^$important
+@@||kxcdn.com^$domain=wikiwand.com
 @@||kyaru-concat.now.sh^$important
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 @@||l2topzone.com/ads.png$image,~third-party
@@ -2969,6 +2973,9 @@
 @@||router.ctc.lan^$important
 @@||rqq.co/intermission/loadTargetUrl$xmlhttprequest
 @@||rs.xmeye.net^$important
+@@||rule34hentai.net/cdn-cgi/challenge-platform/orchestrate/$domain=rule34hentai.net
+@@||rule34hentai.net/fluidplayer.min.js$domain=rule34hentai.net
+@@||rule34hentai.net^$generichide
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
@@ -3447,6 +3454,7 @@
 @@||wallpapermania.eu/assets/js/ads.js$xmlhttprequest
 @@||wallpapershacker.com/js/adsbygoogle.js$script
 @@||wamiz.com/css/ads.css
+@@||wan.douyu.com^$domain=wan.douyu.com
 @@||wancaibb.com/share/js/share.min.js
 @@||wandhi.com^$generichide
 @@||wap.cmpassport.com^$important

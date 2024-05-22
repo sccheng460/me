@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-05-22 02:09:17（北京时间） 
-! Total count: 3294
+! Version: 2024-05-22 08:33:40（北京时间） 
+! Total count: 3298
 @@*.myapp.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -2035,6 +2035,7 @@
 @@||mobile.ximalaya.com^$important
 @@||mobile.yangkeduo.com^$important
 @@||mobilelog.kugou.com^
+@@||mobinovels.com^$generichide
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||momovod.com/js/momo/adsbygoogle.js
@@ -2249,6 +2250,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=usafaucet.tk
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=xiaopan.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=raenonx.cc
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=articlerewritertool.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/r*/show_ads_impl.js$script,domain=big-coin.eu
@@ -2533,6 +2535,7 @@
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||rackcdn.com/ads1.js$script,domain=funniermoments.com
 @@||radioline.co/js/advert.js$xmlhttprequest,~third-party
+@@||raenonx.cc^$generichide
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||rappers.in/js/antiadblock.js$script
 @@||razem.tv/Scripts/InsysPlayer.v0.1.0/adTest.png$image,domain=razem.tv
@@ -2778,6 +2781,7 @@
 @@||static-videostar2.4vod.tv/assets/js/adcheck.min.js$script,domain=videostar.pl
 @@||static.122.gov.cn^$important
 @@||static.adf.ly/static/image/ad*.png$image,third-party
+@@||static.admysports.com/hb/site/als/hb_allosurf.js$domain=allosurf.net
 @@||static.adsafeprotected.com/favicon.ico$domain=tf1info.fr
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
 @@||static.anyporn.com/bravoplayer/fluidplayer.js

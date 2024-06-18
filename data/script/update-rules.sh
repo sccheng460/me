@@ -12,10 +12,10 @@ mkdir -p ./tmp/
 #cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 cd tmp
 #下载yhosts规则
-curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
+#curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
 
 #下载大圣净化规则
-curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
+#curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
 sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
 sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
 

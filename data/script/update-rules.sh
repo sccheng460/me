@@ -37,8 +37,6 @@ rules=(
 "https://raw.githubusercontent.com/qq5460168/me/master/rules.txt"#qq 
 "https://raw.hellogithub.com/hosts"  #github加速
 "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
-
-"https://cdn.jsdelivr.net/gh/5-whys/adh-rules@release/output_full.txt"  #火柴
 )
 
 allow=(

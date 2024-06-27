@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-06-27 08:35:15（北京时间） 
-! Total count: 2440
+! Version: 2024-06-27 14:11:02（北京时间） 
+! Total count: 2442
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -2075,6 +2075,7 @@
 @@||smtcaw.com^$generichide
 @@||snesfun.com/js/ads.js$script
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
+@@||sobot.com^
 @@||soft8ware.com^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
@@ -2142,7 +2143,7 @@
 @@||straight-world.de/js/ads.js$script
 @@||stream4free.eu/modules/mod_jpayday/js/doubleclick.js$script,domain=stream4free.eu
 @@||streaming-foot.me/js/adblock.js$script
-@@||stripe.com$domain=pay.openai.com
+@@||stripe.com^$domain=pay.openai.com
 @@||studioclassroom.com/ad/
 @@||sudupan.com^*/*.gif
 @@||sumeronline.com^$generichide
@@ -2309,6 +2310,7 @@
 @@||wallpapermania.eu/assets/js/ads.js$xmlhttprequest
 @@||wallpapershacker.com/js/adsbygoogle.js$script
 @@||wamiz.com/css/ads.css
+@@||wan.douyu.com^
 @@||wan.douyu.com^$domain=wan.douyu.com
 @@||wancaibb.com/share/js/share.min.js
 @@||wandhi.com^$generichide

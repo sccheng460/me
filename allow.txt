@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-06-29 02:09:32（北京时间） 
-! Total count: 2442
+! Version: 2024-06-29 08:34:31（北京时间） 
+! Total count: 2444
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1946,6 +1946,8 @@
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||removeadblock.com/js/show_ads.js$script
 @@||renfei.net^$generichide
+@@||republicbharat.com/_app/immutable/assets/FloatAd.*.css$domain=republicbharat.com
+@@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
 @@||res.yyets.com/ads/mediav-250.js
 @@||research.hchs.hc.edu.tw/*/banner.php$domain=research.hchs.hc.edu.tw
 @@||rhtag.com^$image,subdocument,domain=bitzfree.com

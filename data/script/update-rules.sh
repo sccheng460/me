@@ -28,6 +28,7 @@ rules=(
 )
 
 allow=(
+  "https://get.66a.vip/https://raw.githubusercontent.com/sccheng460/adguard/main/whitelist.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"

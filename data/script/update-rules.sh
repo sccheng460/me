@@ -23,7 +23,6 @@ rules=(
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txtt"
   "https://raw.hellogithub.com/hosts"  #github加速
   "https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt"   #秋风
-  "https://www.xlxbk.cn/dns.txt"
   "https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt"
 )
 

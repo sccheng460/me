@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-07-23 20:14:07（北京时间） 
-! Total count: 2957
+! Version: 2024-07-24 02:10:09（北京时间） 
+! Total count: 2964
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -464,6 +464,7 @@
 @@||ad4.on.cc/web/www/delivery/spcjs.php
 @@||adap.tv/redir/javascript/vpaid.js
 @@||adapi.zcool.com.cn/api/adstrategy/realtime/get_ad_info?location_id=$domain=zcool.com.cn
+@@||adashx.m.taobao.com^$important
 @@||adashx.ut.dingtalk.com^
 @@||adblockanalytics.com/ads.js$script
 @@||adblockdetect.xyz^$script,domain=anitoonstv.com
@@ -568,6 +569,7 @@
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
 @@||aeventlog.beacon.qq.com^
+@@||aeventlog.beacon.qq.com^$important
 @@||afairweb.com/api/$xmlhttprequest,domain=hulkusc.com
 @@||affyun.com^$generichide
 @@||afi-b.com^|
@@ -658,6 +660,7 @@
 @@||anyporn.com/player/kt_player.js
 @@||anyporn.com/player/kt_player_*.jsx
 @@||aobi.100bt.com/play/ad/ad*.swf
+@@||api-album.quark.cn^$important
 @@||api-cn.store.heytapmobi.com^
 @@||api-v*.trbo.com^|
 @@||api.academia.edu/v0/users/*/stats$script
@@ -677,6 +680,7 @@
 @@||api.slightcommunicativeinterconnectedness.xyz^
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.val.qq.com/go/agame/resource/banner?bannerid=aclos_website_banner$domain=val.qq.com
+@@||api2-album.quark.cn^$important
 @@||apis.google.com/js/plusone.js$domain=pornhub.com
 @@||apis.google.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||apk.tw/source/plugin/mydefplugin/advertise.js$script,~third-party
@@ -695,6 +699,7 @@
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.
 @@||appledaily.com/js/nxm_
+@@||applog.lc.quark.cn^$important
 @@||appservice.qq.com^
 @@||apt.sonarr.tv^$important
 @@||aquabitcoin.com/show_ads.js$script
@@ -1156,6 +1161,7 @@
 @@||duelmeta.com^$generichide
 @@||dushu.ru^$script,domain=bhshu.net
 @@||dvbtmap.eu/script/ads*.js$script
+@@||dw-data-channel.quark.cn^$important
 @@||dw.iask.com.cn^
 @@||dwstatic.com/b=amkit
 @@||dwstatic.com/b=amkit&f=*/adjoin.
@@ -2264,6 +2270,7 @@
 @@||puui.qpic.cn^
 @@||pv.sohu.com/suv/
 @@||px.a8.net^|
+@@||px.wpk.quark.cn^$important
 @@||q.gs^$generichide
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@||qcheng.cc/x/statics/js/guanggao.

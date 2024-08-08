@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-08-08 02:11:09（北京时间） 
-! Total count: 2974
+! Version: 2024-08-08 08:37:08（北京时间） 
+! Total count: 2975
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -2380,6 +2380,7 @@
 @@||s0.2mdn.net^$important
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
 @@||s1-adfly.com/show.php$subdocument,domain=adf.ly|j.gs|q.gs|ay.gy
+@@||s1-static.msstatic.com/mfe/huya_main/*.html$xmlhttprequest,elemhide,jsinject,content,extension,domain=huya.com
 @@||s2.ssl.qhres2.com^$important
 @@||s2.youtube.com^$important
 @@||s3-eu-west-1.amazonaws.com/bucket-ad/ad-image.png=$image

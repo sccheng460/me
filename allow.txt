@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-08-15 02:10:08（北京时间） 
+! Version: 2024-08-15 08:35:51（北京时间） 
 ! Total count: 2974
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1288,7 +1288,7 @@
 @@||fscinda.com/ad/$~third-party
 @@||ftp.bmp.ovh^
 @@||fullstuff.co^$generichide
-@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
+@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
 @@||fusacq.com/javascript/advertising.js|$script
 @@||future.biz.weibo.com^

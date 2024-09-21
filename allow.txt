@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-09-21 02:14:27（北京时间） 
-! Total count: 2993
+! Version: 2024-09-21 08:41:41（北京时间） 
+! Total count: 2995
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -543,6 +543,7 @@
 @@||ads.vk.com^
 @@||ads.wordego.com/a.js$script,domain=link.tl
 @@||ads.x.com^
+@@||adsafeprotected.com^$domain=marketwatch.com|wsj.com
 @@||adscale.de/getads.js$image,domain=dasolo.org
 @@||adscendmedia.com/gwjs.php?aff=$script,third-party
 @@||adsense.woso.cn^$~third-party
@@ -1611,6 +1612,7 @@
 @@||jav777.cc/advertise/
 @@||jav777.xyz/advertise/
 @@||javb1.com/js/boxad.js
+@@||javedit.com/d/js/acmsd/thea0.
 @@||javhdonline.com^$generichide
 @@||javhdx.tv$generichide
 @@||javpee.com/*.js|$script

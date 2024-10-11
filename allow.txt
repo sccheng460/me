@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-10-11 02:11:37（北京时间） 
-! Total count: 3013
+! Version: 2024-10-11 08:41:46（北京时间） 
+! Total count: 3011
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1990,7 +1990,6 @@
 @@||omniture.walmart.com^|
 @@||omsc.kpn.com^|
 @@||omtrdc.net/m2/hsbcbankhase/mbox/ajax?$domain=hangseng.com
-@@||onedrive.live.com^
 @@||oneline.nextday.media^|
 @@||oneplay.tv/assets/js/ads.js$script,~third-party
 @@||oneplay.tv/embed/darkuzdev_ads.js$script
@@ -2668,7 +2667,6 @@
 @@||tbskip.taobao.com/json/
 @@||tce.alicdn.com^$domain=alimama.com
 @@||tcss.qq.com^$domain=55you.com
-@@||teams.live.com^
 @@||technews.tw/www/delivery/$badfilter
 @@||technews.tw^$generichide,badfilter
 @@||techonthenet.com/javascript/advert-min.js

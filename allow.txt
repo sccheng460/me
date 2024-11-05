@@ -3,14 +3,13 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-11-05 20:17:30（北京时间） 
-! Total count: 3029
+! Version: 2024-11-06 02:12:42（北京时间） 
+! Total count: 3023
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
 @@.cn/j/*$script,third-party,domain=weather.com.cn
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
-@@.com/*M*M*M*M*M*M*==$third-party,domain=youtube.com
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=colamanga.com
@@ -221,6 +220,7 @@
 @@://d*.cloudfront.net/usr/themes
 @@://img.souche.com/*.jpg
 @@://up.taoseye.com/contents/other/player/playerlogo.png
+@@://xewl.xyz/8mei/js/*.js?16
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
@@ -326,7 +326,6 @@
 @@||2.android.pool.ntp.org^$important
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
-@@||230book.com/images/bqg.js$domain=230book.net
 @@||2345.com/images/activity/20171111/open/j/close.png
 @@||2unlimited.info/js/adsense.js
 @@||3.bp.blogspot.com/*.jpg#/adaffiliate_/adops/ad/adsales/ad/adsby./adtest./$domain=f1fanklub.pl
@@ -636,6 +635,7 @@
 @@||aliyundrive.com^*/share_link/$xmlhttprequest
 @@||allanalpass.com/intermission/loadTargetUrl$xmlhttprequest
 @@||allmedia-d.openx.net/w/1.0/jstag$script,domain=allmusic.com
+@@||allpornstream.com/api/ads?type=thumbnail$~third-party
 @@||alluc.ee/js/ads.js$script
 @@||alotof.software/wp-content/themes/alosss/ads.php
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
@@ -780,7 +780,6 @@
 @@||bdfrm.bidvertiser.com/BidVertiser.dbm$subdocument,domain=exrapidleech.info
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|18xs.org|1biquge.com|23us.la|23xsw.cc|52biquge.com|b5200.net|biqiuge.com|biqiugexsw.com|biquge.lu|biquge.tv|biquge.tw|biquge5200.cc|biquge9.cc|biqugecd.com|biqugeg.com|biquger.com|biqugetv.com|biqugex.com|biquguan.com|biqukan.com|biqumo.com|biquw.com|bixia.org|boquge.com|bqg5.cc|bqg99.cc|ddbiquge.cc|didaxiaoshuo.cc|gdbzkz.com|gzbpi.com|huanyue123.com|iqksw.com|janpn.com|jx.la|ldks.cc|lindiankanshu.cc|m.sjtxt.la|malshenzu.com|maopuzw.com|meegoq.com|paoshu8.com|qianrenge.cc|shuquge.com|touxiang.la|ttzw.tv|txtwan.com|uu234.cc|x23us.me|xbiqugecc.com|xinxs.la|xshengyan.com|xshuyaya.com|xsw55.com|xwxguan.com|xxqb5200.com|xyangguiweihuo.com|ymxxs.com|yssm.tv|yuyouge.com|zanghaihuatxt.com|zbzw.la|ztv.la
-@@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|23xstxt.net|24kxs.cc|8181zw.com|b520.cc|b5200.net|biqiuge8.cc|biquge99.cc|biqugecd.com|biqugewu.net|boquku.com|bqg999.net|bqwxg8.com|bxwx.live|ddbqgtxt.cc|gdbzkz.org|huanyue1234.com|msxsw.com|paoshu8.com|piaotian55.com|qianrenge.cc|quge66.com|shuyy8.com|sytxt.cc|ttzw.tv|txtwan.com|u33.me|viviyzw.com|xinxs.la|xqianqian.cc|xs98.me|xxbiqudu.com|xygwh.cc|ygshu.com|ymxwx.com|yuyougu.com
 @@||bdimg.com/libs/$domain=00ksw.com|147xiaoshuo.com|23xstxt.net|24kxs.cc|8181zw.com|b520.cc|b5200.net|biqiuge8.cc|biquge99.cc|biqugecd.com|biqugewu.net|boquku.com|bqg999.net|bqwxg8.com|bxwx.live|ddbqgtxt.cc|gdbzkz.org|huanyue1234.com|msxsw.com|paoshu8.com|piaotian55.com|quge66.com|shuyy8.com|sytxt.cc|txtwan.com|u33.me|xqianqian.cc|xxbiqudu.com|xygwh.cc|ygshu.com|ymxwx.com|yuyougu.com
 @@||bdimg.com/static/wapwenku/static/common/widget/share/share_
 @@||bdimg.com/static/wenda-pc/widget/share/share_
@@ -881,13 +880,11 @@
 @@||cdn-msp*.18comic.*^
 @@||cdn-static.pornhd.com/pornhd/*/css/dist/main.css$domain=pornhd.com
 @@||cdn.animenewsnetwork.com/javascripts/ads.js$~third-party
-@@||cdn.bcebos.com^*/$script,domain=fyxfcw.com
 @@||cdn.bootcdn.net^$script,domain=38kanshu.net|tianz.la
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
 @@||cdn.bootcss.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|didaxiaoshuo.cc|rijutv.com|shudai.org|xhxswz.com|xsw55.com|ysxs8.com
-@@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|luoqiuzw.com|u33.me|xbiqugela.com|xhtxt.cc|xs98.me|ysxs8.vip
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|luoqiuzw.com|u33.me|xbiqugela.com|ysxs8.vip
 @@||cdn.chatytvgratis.me/ads/ads.php?$domain=cineplanet21.com
 @@||cdn.chatytvgratis.me/ads/ads2.php?$domain=cineplanet21.com
@@ -940,7 +937,6 @@
 @@||chart-embed.service.newrelic.com^
 @@||chaturbate.com/*embed^$domain=sweetpornlinks.com
 @@||chaturbate.com/in/$subdocument,domain=cam-sex.net
-@@||cheatsquad.gg/javascript/ad*.js
 @@||checkm8.com^$object-subrequest,domain=mako.co.il
 @@||cheshi-img.com/ad/csad_2019.js
 @@||china.com/dianbo/adv1.xml
@@ -1125,7 +1121,6 @@
 @@||dig.lianjia.com^
 @@||digiland.tw/advert.js
 @@||digit77.com^$generichide
-@@||ditiezu.com^*.php$subdocument
 @@||diymediahome.org/*/adframe.min.js$script,~third-party
 @@||dizhi99.com^$generichide
 @@||dl.dropbox.com^$important
@@ -1420,7 +1415,6 @@
 @@||googleapis.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||googleapis.com^$important
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
-@@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|support.amd.com|warnermusic.com.tw
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|warnermusic.com.tw
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
 @@||googletagservices.com^$domain=cenapaliw.pl
@@ -1677,7 +1671,6 @@
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.icu
 @@||jsdelivr.net^$important
 @@||jsjiami.com^$generichide
-@@||jsqsjn.com^$script,domain=fyxfcw.com
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||jswenhui.com^*/ad/
 @@||juduo.cc^$generichide
@@ -1748,7 +1741,7 @@
 @@||lib.baomitu.com/axios/*/axios.min.js$domain=69xx03608.xyz
 @@||lib.baomitu.com/video.js/*/video.min.js$domain=69xx03608.xyz
 @@||lib.baomitu.com/vue/*/vue.global.prod.min.js$domain=69xx03608.xyz
-@@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kans.com|230book.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|baoshuu.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bodekang.net|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|m.supfree.net|paoshu8.com|paoshuzw.com|pksge.com|qianrenge.cc|qishuta.info|qr1234.com|shu008.com|shuhaiwu.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|ttzw.tv|tutengzw.com|u33.cc|wenxuem.com|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xinxs.la|xquge6.com|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
+@@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kans.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|m.supfree.net|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
 @@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kans.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qishuta.info|shu008.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|tutengzw.com|u33.cc|wenxuem.com|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
 @@||libs.baidu.com^$domain=m.supfree.net
 @@||liliputing.com^$generichide
@@ -1908,6 +1901,7 @@
 @@||msn.wrating.com/a1.js
 @@||msn.wrating.com^
 @@||multiup.org/pop.js$script,domain=filesupload.org
+@@||music.youtube.com^$generichide
 @@||musictrack.jp/a/ad/banner_member.jpg
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
@@ -2260,7 +2254,6 @@
 @@||porn.com^$generichide
 @@||pornbimbo.com/player/player_ads.html
 @@||pornbraze.com/advertisement.js
-@@||pornbraze.com^$generichide
 @@||porndish.com^$generichide
 @@||porngun.net^$generichide
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
@@ -2339,7 +2332,6 @@
 @@||qq.com/cgi-bin/*?sid=ads
 @@||qq.com/html/mms/nativeads/game_rank.html
 @@||qq.com/json/mms/nativeads/rankings.json
-@@||qq.com/proxyhttp
 @@||qq.com/server/website/CommWebGameSelect_ad.js
 @@||qq.com/web201602/js/ad.js
 @@||qq.com^*?ADTAG=
@@ -2776,6 +2768,7 @@
 @@||turbogenerator.info/adblock.js$script
 @@||turkanime.tv/ads.html$subdocument,domain=turkanime.tv
 @@||tv.bili96.co^
+@@||tv.youtube.com^$generichide
 @@||tv3sport.dk/ad.banner.adview.html
 @@||tv3sport.dk^$elemhide
 @@||tv99.tv^$generichide
@@ -2936,6 +2929,7 @@
 @@||www.smartadserver.com/config.js?$script,domain=manga-sanctuary.com
 @@||www.statcounter.com^|
 @@||www.voici.fr/ads.js|$xmlhttprequest
+@@||www.youtube.com^$generichide
 @@||wwwimage-tve.cbsstatic.com^
 @@||wwwshooter.com/js/adblockdetect/_advertisement.js$script
 @@||wx.17u.cn^

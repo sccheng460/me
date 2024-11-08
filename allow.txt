@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-11-08 14:13:39（北京时间） 
-! Total count: 3026
+! Version: 2024-11-08 20:16:11（北京时间） 
+! Total count: 3028
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -978,6 +978,7 @@
 @@||cloud.notification-naviextras.com^|
 @@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
+@@||cloudflare.com^$script,domain=happymh.com
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudfront.net/*.js^$third-party,script,domain=marketwatch.com|wsj.com
@@ -2800,6 +2801,7 @@
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
 @@||universfreebox.com/js/advertisement.js
+@@||unpkg.com^$script,domain=happymh.com
 @@||unshowmasonline.com/banner.gif$image
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upf.co.il/advertisment.js$script

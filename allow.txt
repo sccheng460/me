@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2024-11-13 02:11:39（北京时间） 
-! Total count: 3026
+! Version: 2024-11-13 08:43:04（北京时间） 
+! Total count: 3023
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -549,7 +549,6 @@
 @@||ads.vk.com^
 @@||ads.wordego.com/a.js$script,domain=link.tl
 @@||ads.x.com^
-@@||adsafeprotected.com^$domain=marketwatch.com|wsj.com
 @@||adscale.de/getads.js$image,domain=dasolo.org
 @@||adscendmedia.com/gwjs.php?aff=$script,third-party
 @@||adsense.woso.cn^$~third-party
@@ -980,7 +979,6 @@
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.net^$script,domain=colamanga.com
-@@||cloudfront.net/*.js^$third-party,script,domain=marketwatch.com|wsj.com
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
 @@||cloudi.browser.heytapmobi.com^
 @@||cloudtime.to/banner.php$script
@@ -1575,7 +1573,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=shahid.mbc.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=news.voicetv.co.th
-@@||imasdk.googleapis.com^$domain=marketwatch.com
 @@||imasdk.googleapis.com^$script,domain=slacker.com
 @@||imfeifan.com/adv/$~third-party
 @@||img*.kangaroobro.com/images/$image,domain=leyuman.com

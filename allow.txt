@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-01-09 14:12:36（北京时间） 
-! Total count: 3232
+! Version: 2025-01-09 20:16:33（北京时间） 
+! Total count: 3233
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -2007,6 +2007,7 @@
 @@||musictrack.jp/a/ad/banner_member.jpg
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
+@@||mvcat.com^$generichide
 @@||my.plexapp.com^$important
 @@||my.tealiumiq.com^|
 @@||mymanga.io/css/ads.css$stylesheet

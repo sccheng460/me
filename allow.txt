@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-01-22 20:17:15（北京时间） 
-! Total count: 3237
+! Version: 2025-01-23 02:13:28（北京时间） 
+! Total count: 3239
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -259,6 +259,7 @@
 @@|beta.partners.adsterra.com^|
 @@|beta.publishers.adsterra.com^|
 @@|core.crazyegg.com^|
+@@|daraz.com^|
 @@|ezodn.com^|
 @@|ftp.bmp.ovh^|
 @@|help-advertisers.adsterra.com^|
@@ -274,6 +275,7 @@
 @@|partners.adsterra.com^|
 @@|publishers.adsterra.com^|
 @@|statcounter.com^|
+@@|www.daraz.pk^|
 @@||$xmlhttprequest,domain=last.fm
 @@||*.agency^
 @@||*.bid^

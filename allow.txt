@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-02-05 14:13:38（北京时间） 
-! Total count: 3149
+! Version: 2025-02-05 20:18:02（北京时间） 
+! Total count: 3170
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -683,9 +683,11 @@
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||api-album.quark.cn^$important
 @@||api-cn.store.heytapmobi.com^
+@@||api-pda.jdl.com^$important
 @@||api-v*.trbo.com^|
 @@||api.academia.edu/v0/users/*/stats$script
 @@||api.ads.tvb.com^
+@@||api.amemv.com^$important
 @@||api.bilibili.com/*^$removeparam
 @@||api.browser.miui.com^
 @@||api.captchme.net/api/media$image
@@ -693,7 +695,10 @@
 @@||api.docodoco.jp^|
 @@||api.huangye.miui.com^
 @@||api.ipify.org^$important
+@@||api.jdl.cn^$important
+@@||api.jdl.com^$important
 @@||api.karte.io^|
+@@||api.m.jd.com^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||api.onedrive.com^
 @@||api.open.uc.cn^$important
@@ -708,6 +713,7 @@
 @@||apk.tw^$generichide
 @@||apk.tw^*/ads.js$script,~third-party
 @@||apkmos.com^$generichide
+@@||apmfront.17u.cn^$important
 @@||app-advertise.zhihuishu.com^
 @@||app-api.ted.com^$important
 @@||app.adjust.com^
@@ -970,6 +976,7 @@
 @@||click.virt.exacttarget.com^|
 @@||click.virt.s*.exacttarget.com^|
 @@||clickattr.wayup.com^|
+@@||client.app.coc.10086.cn^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -1021,6 +1028,7 @@
 @@||colatour.com.tw^$generichide
 @@||conf.hpplay.cn^
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
+@@||consumerapp-1251779293.image.myqcloud.com^$important
 @@||content.ingbank.pl^
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||contentlockingnetworks.com/gLoader.php?GID=$script,third-party
@@ -1054,6 +1062,8 @@
 @@||cre.dp.sina.cn^
 @@||creaders.net^$generichide
 @@||create.jd.com/ad/
+@@||credit-cdn.heytap.com^$important
+@@||credit.heytap.com^$important
 @@||crm-cdn.peek-cloppenburg.com^|
 @@||crococoin.com/static/js/Controller/Advertise.js$script
 @@||cruisecenter.com.tw/data/ad/
@@ -1160,6 +1170,7 @@
 @@||dnbus.com.tw/AD/tab_route.html
 @@||dns-family.adguard.com^$important
 @@||dns.adguard.com^$important
+@@||dns.icoa.cn^$important
 @@||dnsgom.net/public/$domain=jingwubook.com|xwdsc.com
 @@||dnspod.cn/static/common/js/analytics.js
 @@||doc110.com^*/ad.css?$stylesheet
@@ -1251,6 +1262,7 @@
 @@||eolinker.com^$generichide
 @@||eporner.com^$~third-party
 @@||epubit.com/static/epubit/share/js/share.min.js
+@@||erp.jd.com^$important
 @@||eska.tv/assets/js/ads.js$script,domain=eska.tv
 @@||eskago.pl/html/js/ads-header.js$script
 @@||eslite.com^*/ad
@@ -1290,6 +1302,7 @@
 @@||fengkongcloud.com/fpv2.js
 @@||fharr.com^$generichide
 @@||file.40017.cn^
+@@||file.40017.cn^$important
 @@||filehorse.com/js/ads.js$script
 @@||files.1drv.com^
 @@||filesisland.com/js/ads.js$script
@@ -1473,6 +1486,7 @@
 @@||guru3d.com/core_javaload/
 @@||h-adashx.ut.dingtalk.com^
 @@||h5.hpplay.com.cn^
+@@||h5api.m.taobao.com^$important
 @@||hackingwithswift.com/js/adsbygoogle.js$script
 @@||hackintosh.computer/*ad$script
 @@||hackintosh.computer^$generichide
@@ -1834,6 +1848,7 @@
 @@||loi1901.com^$generichide
 @@||loksatta.com/*/ads$script
 @@||loltmcheck.com/js/ads.js
+@@||lop-proxy.jd.com^$important
 @@||lowcygier.pl/wp-content/themes/graphene/js/ads.js$script
 @@||loxtk.com/gLoader.php?GID=$script,third-party
 @@||loxtk.com/gTemplate.php?GID=$subdocument,third-party
@@ -2068,6 +2083,7 @@
 @@||oneplay.tv/embed/darkuzdev_ads.js$script
 @@||online.unionpay.com/ads/$script
 @@||open.bytedanceapi.com^
+@@||open.oppomobile.com^$important
 @@||openapi.youku.com/router^$app=com.huawei.hwvplayer.youku
 @@||openload.co^$elemhide
 @@||openload.io^$elemhide
@@ -2301,6 +2317,7 @@
 @@||pcbolsa.com^*/ads.js$script
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||pchomepay.com.tw/share/js/
+@@||pda.jd.com^$important
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||penducado.com/styles/ads.css
 @@||petrochina.com.cn/advertisement_
@@ -2872,6 +2889,7 @@
 @@||traffic.libsyn.com^$important
 @@||trafficdeposit.com/bvideo^$domain=yourporn.sexy
 @@||train.17u.cn^
+@@||train.17u.cn^$important
 @@||translate.googleapis.com/element/
 @@||translate.googleapis.com/element/$badfilter
 @@||translate.googleapis.com/translate_
@@ -2982,6 +3000,7 @@
 @@||vstrim.pl/js/ads.js$script,domain=vstrim.pl
 @@||vvic.com/monetize/ads/index/
 @@||vvvvid.it/img/ad/advertisement.xml$xmlhttprequest
+@@||waapdg.jd.com^$important
 @@||wallpapermania.eu/assets/js/ads.js$xmlhttprequest
 @@||wallpapershacker.com/js/adsbygoogle.js$script
 @@||wamiz.com/css/ads.css
@@ -2993,6 +3012,7 @@
 @@||waterbitco.in/show_ads.js$script
 @@||wavse.com^$generichide
 @@||web.facebook.com^$generichide
+@@||webcast-open.douyin.com^$important
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
 @@||webnews.bg/assets/js/ads.js$script,domain=topsport.bg|news.bg
 @@||webnews.bg/assets/js/min/dfp.js$script,domain=topsport.bg|news.bg
@@ -3060,6 +3080,7 @@
 @@||wwwimage-tve.cbsstatic.com^
 @@||wwwshooter.com/js/adblockdetect/_advertisement.js$script
 @@||wx.17u.cn^
+@@||wx.17u.cn^$important
 @@||wx.qq.com/c/=/mpres/*/video_ad_
 @@||wx.qq.com/mmbizwap/*/framead.
 @@||wx3.sinaimg.cn/large^$app=com.xiaoyin.love

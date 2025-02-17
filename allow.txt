@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-02-17 14:14:28（北京时间） 
-! Total count: 3159
+! Version: 2025-02-17 20:18:11（北京时间） 
+! Total count: 3161
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1036,6 +1036,7 @@
 @@||contentlockingnetworks.com/gTemplate.php?GID=$subdocument,third-party
 @@||coolinet.com^$generichide
 @@||coolkora.com^$elemhide
+@@||cos.ap-*.myqcloud.com^$domain=tencent.com
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||count.taobao.com/counter$script
@@ -1059,6 +1060,7 @@
 @@||cpubenchmark.net/js/ads.js$script
 @@||cq.qq.com/js/cody/*scroll_ad.js
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
+@@||cqshuda.com/template/conch/asset/js/conch.vip.js$domain=cqshuda.com
 @@||crackedresource.com^$generichide
 @@||cre.dp.sina.cn^
 @@||creaders.net^$generichide

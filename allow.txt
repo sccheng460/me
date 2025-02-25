@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-02-25 20:17:16（北京时间） 
+! Version: 2025-02-26 02:13:14（北京时间） 
 ! Total count: 3161
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -219,6 +219,7 @@
 @@://img.souche.com/*.jpg
 @@://up.taoseye.com/contents/other/player/playerlogo.png
 @@://xewl.xyz/8mei/js/*.js?16
+@@://xhamster.*.js?v=$script,~third-party
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
@@ -1036,7 +1037,7 @@
 @@||contentlockingnetworks.com/gTemplate.php?GID=$subdocument,third-party
 @@||coolinet.com^$generichide
 @@||coolkora.com^$elemhide
-@@||cos.ap-*.myqcloud.com^$domain=tencent.com
+@@||cos.ap-*.myqcloud.com^$domain=tencent.com|wenxiaobai.com
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||count.taobao.com/counter$script
@@ -3082,7 +3083,6 @@
 @@||xbeibeix.com^$generichide
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
-@@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xianzhenyuan.cn/data/attachment/common/guanggao/adjs.htm
 @@||xiaoyuanzhao.com/adservice/$domain=shixiseng.com
 @@||xidian.edu.cn^$generichide

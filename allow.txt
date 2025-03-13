@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-03-13 14:13:38（北京时间） 
-! Total count: 3166
+! Version: 2025-03-13 20:18:57（北京时间） 
+! Total count: 3162
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1997,7 +1997,6 @@
 @@||my.tealiumiq.com^|
 @@||mymanga.io/css/ads.css$stylesheet
 @@||myoppo-client-cn.heytapmobi.com^
-@@||myqqjd.com^
 @@||myqqjd.com^$generichide
 @@||myquark.cn^
 @@||myspass.de/myspass/includes/apps/player/standard/avt_config.php?$object-subrequest
@@ -2299,7 +2298,6 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$script,domain=youtubeproxy.info
 @@||pagead2.googlesyndication.com/pub-config/$script,domain=sc2casts.com
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
-@@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pagead2.googlesyndication.com^$script,domain=hackintosh.computer
 @@||pagerank.fr/js*/advert.js?$script
 @@||pan.baidu.com/$removeparam,domain=pan.baidu.com
@@ -3058,10 +3056,8 @@
 @@||www.epiotrkow.pl/js/adv.reklama.js$script
 @@||www.facebook.com^$generichide
 @@||www.fbsbx.com^
-@@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.google.*/adsense/$~third-party,domain=google.cn
 @@||www.googleadservices.com^|
-@@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gsxt.gov.cn^
 @@||www.hao123.com^$important
 @@||www.ifon.ca^$generichide

@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-03-18 14:13:35（北京时间） 
-! Total count: 3169
+! Version: 2025-03-18 20:17:46（北京时间） 
+! Total count: 3170
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -241,7 +241,7 @@
 @@down.360safe.com^
 @@encrypt.key
 @@game.baifumeiba.com/login/ad/adex.js
-@@googlesyndication.com@bilinovel.com
+@@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@mw*/static/upload/ads$image
@@ -1977,6 +1977,7 @@
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||momovod.com/js/momo/adsbygoogle.js
+@@||mon-maire.fr^$generichide
 @@||mon.zijieapi.com^
 @@||money18.on.cc/js/ad/liveinfo_page/
 @@||money18.on.cc/js/adbanner.js

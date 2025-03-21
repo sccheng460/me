@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-03-21 14:16:20（北京时间） 
-! Total count: 3173
+! Version: 2025-03-21 20:17:21（北京时间） 
+! Total count: 3178
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -266,6 +266,7 @@
 @@|help-advertisers.adsterra.com^|
 @@|http*/crossdomain.xml$object-subrequest,domain=vercanalestv.com
 @@|http*:*/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest
+@@|http*://*?$third-party,domain=www.pornhub.com
 @@|http://$image,domain=socketloop.com
 @@|http://$script,domain=sport1.de
 @@|http://$xmlhttprequest,image,domain=cbsnews.com
@@ -841,6 +842,7 @@
 @@||blog.6ziz.com^$generichide
 @@||blog.ztjal.info^$generichide
 @@||bnet.163.com^
+@@||boerse-express.com/*javascript/ads.js
 @@||bokecc.com/flash/playlog?
 @@||book.com.tw/image/getImage?
 @@||bookwalker.com.tw/images/p_img/pc_ad*.png$~third-party
@@ -1235,6 +1237,7 @@
 @@||e.cn.miaozhen.com/r/k=*=http
 @@||e.crashlytics.com/spi/v2/events$app=com.gedoor.monkeybook
 @@||e.customeriomail.com^|
+@@||e.mp4.center/?v$domain=redporn.tv
 @@||e.mp4.center^$domain=niceporn.tv|beeg.porn
 @@||e9china.net^$generichide
 @@||eafyfsuh.net/intermission/loadTargetUrl$xmlhttprequest
@@ -1654,6 +1657,7 @@
 @@||ing.dk/*ad$script
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
+@@||inporn.com/*/embed.js$script,~third-party
 @@||insideruser.microsoft.com^
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||instagram.c10r.facebook.com^$important
@@ -2808,6 +2812,7 @@
 @@||szhr.com^$generichide
 @@||szhr.com^*ad
 @@||t.co^$important
+@@||t.fadijo.uno/redirect/$domain=winporn.net
 @@||t.propbn.com/redirect/?spot_id=$domain=proporn.com
 @@||t2e.pl/www/js/ads.js$script
 @@||t7z.cupid.iqiyi.com/show2?$xmlhttprequest,domain=m.iqiyi.com

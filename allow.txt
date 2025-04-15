@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-04-15 20:19:19（北京时间） 
-! Total count: 3191
+! Version: 2025-04-16 02:11:31（北京时间） 
+! Total count: 3195
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -480,6 +480,7 @@
 @@||ad.ext.azure.com^
 @@||ad.filmweb.pl/adbanner/reklamy/adx.js$script
 @@||ad.kazakinfo.com^
+@@||ad.mail.ru/adp/?_SITEZONE=15&json=1^$xmlhttprequest,domain=mail.ru
 @@||ad.nl^
 @@||ad.ourgame.com^
 @@||ad.sevenads.net/banner.php?$script,domain=uploaded-premium.ru
@@ -1241,6 +1242,8 @@
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
 @@||dyo.gs/intermission/loadTargetUrl$xmlhttprequest
+@@||dzen.ru/api/web/v*/$domain=mail.ru
+@@||dzen.ru/zen-partner/mailru-morda$domain=mail.ru
 @@||e-mete.com/js/ads*.js$script,third-party
 @@||e.cn.miaozhen.com/r/k=*=http
 @@||e.crashlytics.com/spi/v2/events$app=com.gedoor.monkeybook
@@ -2002,6 +2005,7 @@
 @@||moviesunusa.net^$generichide
 @@||moyens.net^$generichide
 @@||ms.bdimg.com^
+@@||ms.dzen.ru/?rn=$domain=mail.ru
 @@||ms332.com^$generichide
 @@||msecnd.net/scripts/jsll-$domain=microsoft.com
 @@||msg.douyu.com^

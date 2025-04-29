@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-04-29 20:20:34（北京时间） 
-! Total count: 3197
+! Version: 2025-04-30 02:14:01（北京时间） 
+! Total count: 3198
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -2838,6 +2838,7 @@
 @@||tags.crwdcntrl.net/*.js?ns=^$domain=m.timesofindia.com
 @@||tags.crwdcntrl.net/c/*/cc.js?ns=$domain=m.timesofindia.com
 @@||tags.crwdcntrl.net^|
+@@||taiga.maven.io^|
 @@||tajs.qq.com/stats?$~third-party
 @@||talktv.vn/resource/third-party/jwplayer/ads.js$object-subrequest
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com

@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-06-11 08:53:05（北京时间） 
-! Total count: 3199
+! Version: 2025-06-11 14:17:26（北京时间） 
+! Total count: 3200
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1799,6 +1799,7 @@
 @@||league-funny.com^$script,~third-party
 @@||leakyfaucet.uk/show_ads.js$script
 @@||learn.khanacademy.org^|
+@@||lecrabeinfo.net^$generichide
 @@||leechers-paradise.org^|
 @@||lefile.cn/??*,
 @@||lemall.com/adspace/

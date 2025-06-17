@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-06-17 02:15:29（北京时间） 
-! Total count: 3199
+! Version: 2025-06-17 08:53:06（北京时间） 
+! Total count: 3200
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1528,6 +1528,7 @@
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||halamadrid.pl/wp-content/plugins/noadblock-nice-message/assets/js/ads.js$script
+@@||hanime.tv^$generichide
 @@||hanjubaike.com^$script,~third-party
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party

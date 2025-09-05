@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-09-05 20:20:22（北京时间） 
+! Version: 2025-09-06 02:14:16（北京时间） 
 ! Total count: 3018
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
@@ -72,7 +72,6 @@
 @@/adjs_pic_$domain=168gamer.net|slit.cn
 @@/admanager/*$domain=woego.cn
 @@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
-@@/adpro.js$domain=tingfm.com
 @@/adriver.js$script,domain=habrahabr.ru|megamozg.ru|geektimes.ru
 @@/ads-api.$domain=moneysave.info|zxmee.com
 @@/ads.js$domain=iyf.tv
@@ -131,6 +130,7 @@
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=bde4.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|nfmovies.com|papalah.com|qqdie.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
+@@/ggjs/*$domain=tingfm.com
 @@/google-ad-block-test-googleadservices-gpt-pubads.js$script,domain=viki.mx|viki.com
 @@/gtm.js$domain=amd.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com

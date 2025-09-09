@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-09-09 20:21:08（北京时间） 
-! Total count: 3019
+! Version: 2025-09-10 02:12:23（北京时间） 
+! Total count: 3018
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -651,13 +651,11 @@
 @@||alicdn.com/t/img/TB1DmcoJXXXXXavXpXXXXXXXXXX-26-26.png$domain=dlkoo.com
 @@||alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png$domain=dlkoo.cc
 @@||alicdn.com/t/img/TB1tWvVJFXXXXc_aXXXXXXXXXXX-40-26.png$domain=dlkoo.com
-@@||alicdn.com^
 @@||alicdn.com^*/click_track.js
 @@||alicdn.com^*/log.js,
 @@||alicdn.com^*/tanxssp.js$domain=dlkoo.cc
 @@||alicdn.com^*/tanxssp.js$domain=dlkoo.com
 @@||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-@@||aliexpress-media.com^
 @@||alimama.com^$domain=tanx.com
 @@||aliyun.com/nocaptcha/analyze.js
 @@||aliyun.com/scratchCardSlide/analyze.jsonp?
@@ -1183,6 +1181,7 @@
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
 @@||dyo.gs/intermission/loadTargetUrl$xmlhttprequest
+@@||dzen.ru/a/$csp=script-src 'unsafe-inline' 'unsafe-eval' data: static.dzeninfra.ru/react/ static.dzeninfra.ru/s3/zen-lib/ yandex.ru/ads/ vk.com/dist/ vk.com/js/api/videoplayer.js vk.com/dist/public/api/
 @@||dzen.ru/api/web/v*/$domain=mail.ru
 @@||dzen.ru/zen-partner/mailru-morda$domain=mail.ru
 @@||e-mete.com/js/ads*.js$script,third-party

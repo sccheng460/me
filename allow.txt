@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-10-27 20:21:24（北京时间） 
-! Total count: 3022
+! Version: 2025-10-28 02:16:15（北京时间） 
+! Total count: 3020
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -2011,7 +2011,6 @@
 @@||openload.co^$elemhide
 @@||openload.io^$elemhide
 @@||openload.tv^$elemhide
-@@||openxlab.org.cn^
 @@||ops.prismamediadigital.com/js/advertisement.js$xmlhttprequest,domain=voici.fr
 @@||optimized-by.rubiconproject.com/a/10926/26000/$subdocument,domain=onemanga.me
 @@||optyczne.pl/adsense.js$script
@@ -2822,7 +2821,6 @@
 @@||urbeez.com^$elemhide
 @@||urbeez.com^$script
 @@||urlbeat.net/intermission/loadTargetUrl$xmlhttprequest
-@@||usageapi.*.oraclecloud.com^
 @@||uu.res.netease.com/pc/zt/*/img/ad_
 @@||uukanshu.com^$generichide
 @@||v*.douyinvod.com^

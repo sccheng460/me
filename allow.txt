@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-11-20 14:16:43（北京时间） 
+! Version: 2025-11-20 20:20:51（北京时间） 
 ! Total count: 3023
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
@@ -813,7 +813,7 @@
 @@||bdstatic.com/static/exp-pc/article/widget/cms-banner-ads/cms-banner-ads_*.css
 @@||bdstatic.com/static/v1/mip$domain=biqugecom.com
 @@||bdstatic.com/tb/cms/ngmis/adsense/file_$image
-@@||bdstatic.com^$domain=17k.com
+@@||bdstatic.com^$domain=feiguaks.com|17k.com
 @@||bdv.bidvertiser.com/BidVertiser.dbm?$domain=vanhut.tk
 @@||beanfun.com/ADClient/
 @@||beta.bugly.qq.com^

@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2025-12-12 20:22:23（北京时间） 
-! Total count: 3029
+! Version: 2025-12-13 02:17:11（北京时间） 
+! Total count: 3031
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -868,6 +868,7 @@
 @@||bytecdntp.com^$script,domain=hushuge.com|51eshu.com
 @@||bytedance.com/ttwid/union/register/
 @@||bytegoofy.com/ad/$domain=jinritemai.com
+@@||byteimg.com/obj/tos-cn
 @@||c-ctrip.com/images/*.jpg
 @@||c.ad6media.fr/l.js$domain=fan-de-cinema.com
 @@||c.ad6media.fr/l.js$script,domain=fit.sh
@@ -2814,6 +2815,7 @@
 @@||umengjmacs.m.taobao.com^
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||universfreebox.com/js/advertisement.js
+@@||unpkg.com^$domain=jable1.sbs|jable1.vip|javbest.icu|javbest.top|missav.ds|missav.llc|missav.ooo|missav2.icu|missav2.lat|missav2.one|missav2.wtf
 @@||unshowmasonline.com/banner.gif$image
 @@||upaiyun.com/libs/$script,domain=xddxsw.net
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one

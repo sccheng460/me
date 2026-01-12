@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-01-12 08:59:34（北京时间） 
+! Version: 2026-01-12 14:22:21（北京时间） 
 ! Total count: 3041
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
@@ -2673,7 +2673,7 @@
 @@||sudupan.com^*/*.gif
 @@||sumeronline.com^$generichide
 @@||suning.cn/project/msIndex/js/??
-@@||supercloudsms.com/js/ad
+@@||supercloudsms.com^*/ad
 @@||support-beacon.nakanohito.jp^|
 @@||support-widget.nakanohito.jp^|
 @@||surirt.com/ad/ads.php?id=$script,domain=surirt.com

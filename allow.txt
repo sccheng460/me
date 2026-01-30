@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-01-30 14:34:07（北京时间） 
-! Total count: 2009
+! Version: 2026-01-30 20:29:28（北京时间） 
+! Total count: 1996
 @@-ds.metric.gstatic.com^|
 @@.cn/j/*$script,third-party,domain=weather.com.cn
 @@.cn/k/*$script,third-party,domain=autohome.com.cn|qq.com
@@ -222,7 +222,6 @@
 @@||*ad*.ksyungslb.com^
 @@||*m.chenzhongtech.com^
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
-@@||0rz.tw^
 @@||114la.com/|
 @@||150075.com^$domain=tecms.net
 @@||17173im.allyes.com^
@@ -515,7 +514,6 @@
 @@||bitvid.sx/banner.php$script
 @@||bitzfree.com/js/*.js$script
 @@||bjfesdk.douyucdn.cn^
-@@||blog.udn.com^
 @@||bnet.163.com^
 @@||boerse-express.com/*javascript/ads.js
 @@||bootcdn.net^
@@ -534,7 +532,6 @@
 @@||btc-gratis.com/banner.gif$image
 @@||btcgratis.com/banner.gif$image
 @@||btspread.com/*.js|$script
-@@||buff.ly^
 @@||buyad.bi-xenon.cn^
 @@||byteimg.com/obj/tos-cn
 @@||c-ctrip.com/images/*.jpg
@@ -754,7 +751,6 @@
 @@||ecmb.bdimg.com^$domain=3g.baidu.com|m.baidu.com|m5.baidu.com|m2.baidu.com|m3.baidu.com|www.baidu.com
 @@||edge-enterprise.activity.windows.com^
 @@||edge.activity.windows.com^
-@@||edgecast-vod.yahoo.net
 @@||edu-image.nosdn.127.net^
 @@||eenadu.net/ads.js$script
 @@||effect.snssdk.com^
@@ -807,12 +803,10 @@
 @@||find-my-search.com/includes/js/adblockDetect/_advertisement.js$script
 @@||flashx.tv/js/-fleshlight2.js$script
 @@||flights.17u.cn^
-@@||fls-na.amazon.com
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 @@||fokus.tv/html/js/adv.bbelements.js$script,domain=fokus.tv
 @@||folha.uol.com.br/*/publicidade.ads.js$script
-@@||fonts.gstatic.com^
 @@||forum.notebookreview.com^|
 @@||forums.audipassion.com/public/js/jsLoader.js$script
 @@||forums.macg.co/js/audentio/funbox/advertisement.js
@@ -990,7 +984,6 @@
 @@||intersport.peerius.com^|
 @@||investing.com/js/ads.js$script
 @@||ios-blog.co.uk/*/showads.js$script
-@@||ip2location.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||iptvforever.com/js/adsbygoogle.js$script
 @@||is.snssdk.com^
@@ -1559,7 +1552,6 @@
 @@||qq-web-legacy.cdn-go.cn^$important              @@||cdn-go.cn^$important
 @@||qqc.co/intermission/loadTargetUrl$xmlhttprequest
 @@||qqdie.com^$generichide
-@@||quantserve.com^
 @@||quapp.1122dh.com/BookAction.aspx$app=com.biquge.ebook.app
 @@||quapp.1122dh.com/BookCategory.html$app=com.biquge.ebook.app
 @@||quapp.1122dh.com/BookFiles/BookImages^$app=com.biquge.ebook.app
@@ -1604,7 +1596,6 @@
 @@||res.ads.nicovideo.jp^|
 @@||res.mi.baidu.com^
 @@||res.yyets.com/ads/mediav-250.js
-@@||reurl.cc^
 @@||rhtag.com^$image,subdocument,domain=bitzfree.com
 @@||ridediriddim.com^$generichide
 @@||right.com.cn/forum/static/image/common/logo_m.svg$domain=right.com.cn
@@ -1618,7 +1609,6 @@
 @@||s.mvconf.f.360.cn^
 @@||s.ssl.qhres2.com^$important
 @@||s.tvp.pl/files/tvplayer/*/advertisement.gif$image
-@@||s.yam.com^
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
 @@||s1-adfly.com/show.php$subdocument,domain=adf.ly|j.gs|q.gs|ay.gy
 @@||s2.ssl.qhres2.com^$important
@@ -1646,7 +1636,6 @@
 @@||seasungame.com/ad/
 @@||secret-zone.net/abp/adblock_detector.js$script
 @@||secureimage.securedataimages.com^|
-@@||securemetrics.apple.com^
 @@||securenetsystems.net/*/scripts/adv.js$script,~third-party
 @@||securepubads.g.doubleclick.net$script,domain=last.fm
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
@@ -1827,7 +1816,6 @@
 @@||tongji.edu.cn^
 @@||tongji.koowo.cn^
 @@||toplien.fr^$generichide
-@@||torimochi.line-apps.com^
 @@||torimochi.line-apps.com^|
 @@||torproject.org^
 @@||tr.rdrtr.com^|
@@ -1952,7 +1940,6 @@
 @@||www.paypalobjects.com^
 @@||www.smartadserver.com/config.js?$script,domain=manga-sanctuary.com
 @@||www.statcounter.com^|
-@@||www.taiwanlottery.com.tw^
 @@||www.toutiao.com^
 @@||www.voici.fr/ads.js|$xmlhttprequest
 @@||wwwimage-tve.cbsstatic.com^

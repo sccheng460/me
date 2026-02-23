@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-02-23 09:08:41（北京时间） 
-! Total count: 1997
+! Version: 2026-02-23 14:52:22（北京时间） 
+! Total count: 1998
 @@-ds.metric.gstatic.com^|
 @@.cn/j/*$script,third-party,domain=weather.com.cn
 @@.cn/k/*$script,third-party,domain=autohome.com.cn|qq.com
@@ -158,6 +158,7 @@
 @@down.360safe.com^
 @@encrypt.key
 @@game.baifumeiba.com/login/ad/adex.js
+@@gimg*.baidu.com/gimg/app=$domain=kimivod.com
 @@github.githubassets.com$domain=github.com
 @@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json

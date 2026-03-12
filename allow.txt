@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-03-12 02:39:01（北京时间） 
-! Total count: 1998
+! Version: 2026-03-12 09:00:46（北京时间） 
+! Total count: 1999
 @@-ds.metric.gstatic.com^|
 @@.cn/j/*$script,third-party,domain=weather.com.cn
 @@.cn/k/*$script,third-party,domain=autohome.com.cn|qq.com
@@ -219,6 +219,7 @@
 @@||*.pw^
 @@||*.sbs^
 @@||*.top^
+@@||*/abd.js^$domain=sallysbakingaddiction.com|natashaskitchen.com|spendwithpennies.com|tastesbetterfromscratch.com|themediterraneandish.com|thewoksoflife.com|downshiftology.com|onceuponachef.com|halfbakedharvest.com|skinnytaste.com
 @@||*/assets/js/common/juqery/
 @@||*ad*.ksyungslb.com^
 @@||*m.chenzhongtech.com^

@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-04-01 02:44:03（北京时间） 
-! Total count: 2000
+! Version: 2026-04-01 09:24:16（北京时间） 
+! Total count: 2001
 @@-ds.metric.gstatic.com^|
 @@.cn/j/*$script,third-party,domain=weather.com.cn
 @@.cn/k/*$script,third-party,domain=autohome.com.cn|qq.com
@@ -358,6 +358,7 @@
 @@||ads.tdbank.com^|
 @@||ads.twitter.com^
 @@||ads.vk.com^
+@@||ads.vk.ru^
 @@||ads.wordego.com/a.js$script,domain=link.tl
 @@||ads.x.com^
 @@||adscale.de/getads.js$image,domain=dasolo.org

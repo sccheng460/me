@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-05-11 22:22:46（北京时间） 
-! Total count: 3067
+! Version: 2026-05-12 03:25:37（北京时间） 
+! Total count: 3068
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1541,6 +1541,7 @@
 @@||hoy.es/comun/js/*/adfrm.js$script
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||href.li^|
+@@||html-load.com/core.js^$script,domain=voici.fr|femmeactuelle.fr|caminteresse.fr
 @@||html-load.com^
 @@||huavod.com^$generichide
 @@||hubturkey.net/js/ads.js$script

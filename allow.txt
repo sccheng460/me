@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-05-13 10:00:36（北京时间） 
-! Total count: 3068
+! Version: 2026-05-13 16:31:48（北京时间） 
+! Total count: 3069
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -473,6 +473,7 @@
 @@||acme.zerossl.com
 @@||acs-m.daraz.com.bd^|
 @@||acs-m.daraz.pk^|
+@@||acs.m.taobao.com
 @@||acs.m.taobao.com^
 @@||action.metaffiliation.com^|
 @@||ad*.liverail.com/?LR_$object-subrequest,domain=play.tv|playtv.fr

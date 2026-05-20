@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-05-20 22:31:44（北京时间） 
-! Total count: 3071
+! Version: 2026-05-21 03:59:49（北京时间） 
+! Total count: 3072
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1544,7 +1544,6 @@
 @@||hoy.es/comun/js/*/adfrm.js$script
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||href.li^|
-@@||html-load.com/core.js^$script,domain=voici.fr|femmeactuelle.fr|caminteresse.fr
 @@||html-load.com^
 @@||huavod.com^$generichide
 @@||hubturkey.net/js/ads.js$script
@@ -2016,6 +2015,7 @@
 @@||oa.tr.line.me^|
 @@||obituaries.therecord.com^|
 @@||obituaries.thestar.com^|
+@@||obituaries.toacorn.com^|
 @@||obus-cn.dc.heytapmobi.com^
 @@||obus-dc2020-cn.heytapmobi.com^
 @@||obus-dctech-cn.heytapmobi.com^
@@ -2033,6 +2033,7 @@
 @@||olcdn.com/net/v1/gb2312/$script
 @@||olcdn.net/ads.adsense.ads1.js$script
 @@||olgame.tw^$generichide
+@@||om-ssl.consorsbank.de^|
 @@||omes-sec-stdsrp-cn.heytapmobi.com^
 @@||omes-sec.heytapmobi.com^
 @@||omsc.kpn.com^|

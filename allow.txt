@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-05-22 22:12:05（北京时间） 
-! Total count: 3072
+! Version: 2026-05-23 03:20:38（北京时间） 
+! Total count: 3074
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1958,6 +1958,7 @@
 @@||myspass.de/myspass/includes/apps/player/standard/avt_config.php?$object-subrequest
 @@||myspass.de/myspass/includes/apps/video/getvideometadataxml.php?$object-subrequest
 @@||myssl.com/scripts/analyze.js
+@@||mytvsuper.com^$generichide
 @@||n*-lf*-dy-ncdn-tos-sub.bytegecko.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
 @@||na61-na62.wagbridge.alibaba.tanx.com^
@@ -2833,6 +2834,7 @@
 @@||tvanouvelles.ca^$generichide
 @@||tvapp.hpplay.cn^
 @@||tvb.com/social/share_
+@@||tvb.com^$generichide
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||tvseriesonline.pl/wp-content/themes/tvseriesonline/js/adsbygoogle.js$script

@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-07-28 21:27:05（北京时间） 
-! Total count: 3079
+! Version: 2026-07-29 03:04:12（北京时间） 
+! Total count: 3077
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1362,7 +1362,6 @@
 @@||gazetaprawna.pl/gp/js/ads_blocker_test.js$script,domain=dziennik.pl|forsal.pl|gazetaprawna.pl|jegostrona.pl|prawnik.pl
 @@||gboku.com^$generichide
 @@||ge-map-overlays.appspot.com/files/js/ads.js$script
-@@||gecko.zijieapi.com^
 @@||geekbang.org/resource/image/ad/14/addb521e20de1a302206f4286eac3914.png
 @@||generatorlinkpremium.com/js/ads.js$script
 @@||genesyslogic.com^*/ads$~3p
@@ -1940,7 +1939,6 @@
 @@||money18.on.cc/js/adbanner.js
 @@||moneysave.info^$generichide
 @@||monnsutogatya.com^$elemhide
-@@||monsetting.toutiao.com^
 @@||mooc-image.nosdn.127.net^
 @@||morosedog.gitlab.io^$generichide
 @@||moviesunusa.net^$generichide

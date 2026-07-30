@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-07-30 16:04:37（北京时间） 
-! Total count: 3077
+! Version: 2026-07-30 21:23:43（北京时间） 
+! Total count: 3079
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -267,7 +267,6 @@
 @@cc/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@cdn.allflow.cn/assets/ad-utils.*.js$domain=flowus.cn
 @@cdn.doubao.com^$domain=doubao.com
-@@down.360safe.com^
 @@encrypt.key
 @@game.baifumeiba.com/login/ad/adex.js
 @@gimg*.baidu.com/gimg/app=$domain=kimivod.com
@@ -1183,6 +1182,7 @@
 @@||doubleclick.net^$xhr,domain=yyets.click
 @@||doubleclickbygoogle.com^$object-subrequest,domain=vercanalestv.com
 @@||douyucdn.cn^*-share-master/
+@@||down.360safe.com^
 @@||down.cc/down/js/ad.js
 @@||download.jumpw.com^
 @@||download.megaup.net/openads.js$script,~third-party
@@ -2093,6 +2093,7 @@
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||padsdel.com^$image,subdocument,domain=bitzfree.com
 @@||padstm.com^$image,subdocument,domain=bitzfree.com
@@ -2762,6 +2763,7 @@
 @@||tgfcer.com/advert.js
 @@||th-sjy.com^$generichide
 @@||th7.cn/sanda2015/css/ads.js
+@@||themoviedb.org/assets/
 @@||theseblogs.com/intermission/loadTargetUrl$xmlhttprequest
 @@||theseforums.com/intermission/loadTargetUrl$xmlhttprequest
 @@||thisav.com^$generichide

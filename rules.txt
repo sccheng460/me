@@ -11,8 +11,8 @@
 ！https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"  #uniartisan's Adblock List
 ！https://abp.oisd.nl/basic
 ！https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
-! Version: 2026-07-30 16:04:37（北京时间） 
-! Total count: 383278
+! Version: 2026-07-30 21:23:43（北京时间） 
+! Total count: 383296
 	  <!-- Twitter Cards -->
     
         .logo-img-1x { display: none; }
@@ -116,7 +116,7 @@
 # Star me: https://github.com/521xueweihan/GitHub520
 # Title: 5whys Medium Adguard Home Rules List
 # Total number of rules = 283482
-# Update time: 2026-07-30T15:51:33+08:00
+# Update time: 2026-07-30T20:51:32+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Verison: 202607301315
 # https://adaway.org/hosts.txt
@@ -6032,6 +6032,7 @@
 #公共CDN
 #图床
 #地推/增长（非内容）---
+#地推、增长和小游戏推广
 #夏普电视开机广告
 #多盟 Domob
 #大事选
@@ -6050,7 +6051,11 @@
 #小米骚扰拦截 数据库更新
 #屏蔽MIUI应用检测
 #屏蔽后无法矫正流量，但是也用来下载白名单
+#巨量引擎广告、获客和广告转化
 #已废弃产品域名（仅残留追踪代码）---
+#广告日志及统计
+#广告模板和HTTPDNS
+#广告监控及行为上报
 #应该是软件商店
 #应该是青少年模式
 #很明显，小米账号
@@ -6069,10 +6074,13 @@
 #斗鱼
 #未知来源 广告/日志
 #杂七杂八
+#橙子建站广告落地页
 #橙子建站（广告落地页搭建平台，全系封禁）---
 #浏览器的敏感站点屏蔽数据？不清楚
 #熊猫小说
+#电商广告（小说内电商推广）
 #电商广告（小说内的电商推广）---
+#番茄小说广告
 #百鹤
 #皮皮虾pro
 #禁用后将无法云扫描病毒
@@ -11947,7 +11955,6 @@ $websocket,domain=wap.yushuwu.cloud
 127.0.0.1 v.id.mi.com
 127.0.0.1 www.miui.ms
 127.0.0.1 www.miuipro.info
-128.242.250.155               github.global.ssl.fastly.net  # Timeout
 12999.com##[height="100"]
 12ju.com##.users-app
 12ju.com##[href^="https://zjs.imgdianying"]
@@ -11976,21 +11983,23 @@ $websocket,domain=wap.yushuwu.cloud
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[class^="Main"]:has(> div[class^="DisplayAd_"])
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[class^="style_xsOnly_"]
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[data-testid="story-body"] > div[style*="text-align: center;"][style*="margin: 26px 0;"]
-140.82.112.18                 github.community
 140.82.112.21                 collector.github.com
-140.82.112.22                 api.individual.githubcopilot.com
-140.82.112.22                 central.github.com
-140.82.112.22                 education.github.com
-140.82.113.25                 alive.github.com
-140.82.113.26                 live.github.com
+140.82.112.21                 education.github.com
+140.82.113.21                 api.individual.githubcopilot.com
+140.82.113.21                 central.github.com
+140.82.114.18                 github.community
+140.82.114.25                 alive.github.com
+140.82.114.26                 live.github.com
 141hongkong.com###dialog
 141hongkong.com##.wp.at
 141jj.com##.category-wrapper > ul > div[style="line-height:24px;"] > a
 141jj.com##.moboad + .webad
 141jj.com##li:contains(/贊助|推廣/)
 141jj.com,jumi.su,preface.ai##a[href*="bit.ly"]
-150.171.110.101               vscode.dev
+150.171.110.103               vscode.dev
+157.240.15.8                  github.global.ssl.fastly.net  # Timeout
 158pic.com###gaosu
+159.24.3.173                  gist.github.com  # Timeout
 159i.com###body > table[width="100%"]
 159i.com###header + div > style + div[class]
 159i.com###sop > div:first-child
@@ -12014,11 +12023,10 @@ $websocket,domain=wap.yushuwu.cloud
 15min.lt##.mobile-ad-placeholder
 15min.lt#$#hide-if-matches-xpath '//div[@class][@style]/img[string-length(@src) >=180]/ancestor::div[@class][1]'
 15w.com###rec
-16.15.236.38                  github-cloud.s3.amazonaws.com
-16.15.238.192                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.254.180                 github-com.s3.amazonaws.com
-16.15.254.180                 github-production-user-asset-6210df.s3.amazonaws.com
-16.182.97.33                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.214.34                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.228.91                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.245.188                 github-com.s3.amazonaws.com
+16.15.255.105                 github-cloud.s3.amazonaws.com
 160.com###w-advertisement
 160.com###w-btn-advertisement
 160.com##.ban_head,.tmall_ad,div#ad_index,div.bran_90
@@ -12189,26 +12197,26 @@ $websocket,domain=wap.yushuwu.cloud
 18183.com###leftspringgg,#bottombar,.topwap_frame,.btns,.bottomwap_frame,#bgindex_bgflad,.ad,.ad_top,.ad_min,.ad_long
 18183.com##.down_url
 18183.com##.pcBtn > a[href*="@"]
-185.199.109.153               github.io
-185.199.109.153               githubstatus.com
-185.199.109.215               github.githubassets.com
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-185.199.110.133               cloud.githubusercontent.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-185.199.110.133               github.map.fastly.net
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
-185.199.110.133               private-user-images.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
+185.199.108.153               github.io
+185.199.108.153               githubstatus.com
+185.199.108.215               github.githubassets.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+185.199.109.133               cloud.githubusercontent.com
+185.199.109.133               desktop.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+185.199.109.133               github.map.fastly.net
+185.199.109.133               media.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
+185.199.109.133               private-user-images.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
 185.63.252.176#@#div[id^="MarketGid"]
 188bifen.com##.adv_box
 188soft.com##.cont_d_l_dow + .down-center
@@ -12378,7 +12386,6 @@ $websocket,domain=wap.yushuwu.cloud
 2014.qq.com#@##adIframe
 2018x.bid##[width="960"],.wp.a_t,[class^="a_"]
 2023.allthingsopen.org#@#a[href*=".com?aff="]
-203.98.7.65                   gist.github.com  # Timeout
 20min.ch##article > div[class]:has(> div[id^="inside-full-content-"])
 20minutes.fr###headerPlaceholder
 20minutes.fr,20min.fr##.ab-container
@@ -13153,6 +13160,7 @@ $websocket,domain=wap.yushuwu.cloud
 51zxw.net###video div[class^="adpauseclose"]
 51zxw.net###video div[class^="background"]
 51zxw.net##+js(adjust-setTimeout, adCountDown, , 0.02)
+52.217.121.9                  github-production-release-asset-2e65be.s3.amazonaws.com
 520730.com##div.bdtg
 52088.cc##.ui-detail-info
 520bdy.com##[href="http://www.zfrees.com/dom/"]
@@ -14743,7 +14751,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@cc/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@cdn.allflow.cn/assets/ad-utils.*.js$domain=flowus.cn
 @@cdn.doubao.com^$domain=doubao.com
-@@down.360safe.com^
 @@encrypt.key
 @@game.baifumeiba.com/login/ad/adex.js
 @@gimg*.baidu.com/gimg/app=$domain=kimivod.com
@@ -15646,6 +15653,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||doubleclick.net^$xhr,domain=yyets.click
 @@||doubleclickbygoogle.com^$object-subrequest,domain=vercanalestv.com
 @@||douyucdn.cn^*-share-master/
+@@||down.360safe.com^
 @@||down.cc/down/js/ad.js
 @@||download.jumpw.com^
 @@||download.megaup.net/openads.js$script,~third-party
@@ -16530,6 +16538,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||padsdel.com^$image,subdocument,domain=bitzfree.com
 @@||padstm.com^$image,subdocument,domain=bitzfree.com
@@ -17195,6 +17204,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||tgfcer.com/advert.js
 @@||th-sjy.com^$generichide
 @@||th7.cn/sanda2015/css/ads.js
+@@||themoviedb.org/assets/
 @@||theseblogs.com/intermission/loadTargetUrl$xmlhttprequest
 @@||theseforums.com/intermission/loadTargetUrl$xmlhttprequest
 @@||thisav.com^$generichide
@@ -71146,6 +71156,7 @@ zzzyk.com###Tinfo
 ||allhypefeed.com^
 ||alliance-adreq-asia.vivoglobal.com^
 ||alliance-investment-group.com^
+||alliance.jinritemai.com^
 ||alliancebeetlebike.com^
 ||alliancefurs.com^
 ||allianceloiteringamusing.com^
@@ -100048,6 +100059,7 @@ zzzyk.com###Tinfo
 ||brand.adp.ca^
 ||brand.centrifuge-now.com^
 ||brand.net^
+||brand.oceanengine.com^
 ||brand.sogou.com/micro?yyid=
 ||brand.sogou.com^
 ||brand.zing.vn^
@@ -112443,6 +112455,7 @@ zzzyk.com###Tinfo
 ||cluckedzion.com^
 ||cluckergifts.ecwid.com^
 ||cludo.com^
+||clue.oceanengine.com^
 ||clue6load.com^
 ||cluebird.com^
 ||cluelessabruptlycorrectly.com^
@@ -202183,6 +202196,7 @@ zzzyk.com###Tinfo
 ||leads.black^
 ||leads.commercial.keurig.com^
 ||leads.goldenshovel.com^
+||leads.oceanengine.com^
 ||leads.radioedit.iheart.com^
 ||leads.servicehotline.com^
 ||leads.su^
@@ -217361,6 +217375,7 @@ zzzyk.com###Tinfo
 ||ma.wp.pl^
 ||ma.yaksbuceros.com^
 ||ma.ygvbf.cam^
+||ma.zijieapi.com^
 ||ma.zoho.com^
 ||ma.zoho.eu^
 ||ma01.reachit.network^
@@ -232521,6 +232536,7 @@ zzzyk.com###Tinfo
 ||miwifi.com^*ads/
 ||miwpkk.xyz^
 ||mix-omniture.rbs.com^
+||mix.jinritemai.com^
 ||mix.sina.com.cn^
 ||mix2ads.com^
 ||mixadvert.com^
@@ -253151,6 +253167,7 @@ zzzyk.com###Tinfo
 ||p*-ad-sign.byteimg.com^
 ||p*-ad-sign.byteimg.com^$domain=douyin.com
 ||p*-ad.bytecdn.cn
+||p*-ad.bytecdn.cn^
 ||p*-ad.byteimg.com^$domain=douyin.com
 ||p*-webcast-sign.douyinpic.com^
 ||p-0d872e49-a138-4ab2-9c76-be8bbad41f5d.apps.webstudio.is^
@@ -281027,6 +281044,7 @@ zzzyk.com###Tinfo
 ||rtalffozjnwkq.space^
 ||rtam-collector.appspot.com^
 ||rtapi.abbi.io^
+||rtapplog.snssdk.com^
 ||rtas.videocc.net^
 ||rtattr.skyup.aero^
 ||rtau9pif4.com^

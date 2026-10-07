@@ -11,8 +11,8 @@
 ！https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/adblock.txt"  #uniartisan's Adblock List
 ！https://abp.oisd.nl/basic
 ！https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
-! Version: 2026-10-07 05:58:39（北京时间） 
-! Total count: 388423
+! Version: 2026-10-07 11:08:43（北京时间） 
+! Total count: 388462
 	  <!-- Twitter Cards -->
     
         .logo-img-1x { display: none; }
@@ -116,7 +116,7 @@
 # Star me: https://github.com/521xueweihan/GitHub520
 # Title: 5whys Medium Adguard Home Rules List
 # Total number of rules = 289459
-# Update time: 2026-10-07T05:51:26+08:00
+# Update time: 2026-10-07T10:51:36+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Verison: 202610070252
 # https://adaway.org/hosts.txt
@@ -8396,6 +8396,7 @@ $websocket,domain=wap.yushuwu.cloud
 /^https:\/\/[a-z0-9]+\.[a-z0-9]+\.[a-z]{2,3}:\d{1,6}\/bug\?i=\d+$/
 /^https:\/\/[a-z0-9]+\.[a-z0-9]{14,}\.(cfd|rest|cyou)\//$script,third-party,domain=vsembed.su|vidfast.vc
 /^https:\/\/[a-z]{3,5}\.[a-z]{10,14}\.top\/[a-z]{10,16}\/[a-z]{5,6}(?:\?d=\d)?$/$script,third-party,match-case,domain=bokepindoh.cc|bokepindoh.fun|bokepindoh.lol|bokepindoh.my|bokepindoh.pw|bokepindoh.to|bokepindoh.top|bokepindoh.tv|bokepindoh.party|bokepindoh.uno|bokepindoh.jp.net
+/^https:\/\/[a-z]{3,}\.[a-z]{7,}\.com\/[a-z]{3,}\/[a-f0-9]{8}\.js$/$script,third-party,match-case,domain=base64decode.org|deadline.com|euronews.com|fandom.com|goldderby.com|index.hr|indiewire.com|rollingstone.com
 /^https:\/\/[a-z]{8,12}\.com\/en\/(?:[a-z]{2,10}\/){0,2}[a-z]{2,}\?(?:[a-z]+=[^&=?\s]*?&)*?id=[12]\d{6}/$script,third-party,match-case
 /^https:\/\/[a-z]{8,15}\.(?:(com|net)\/(?:\d{1,3}\/)?tag\.min\.js$)/$script,third-party
 /^https:\/\/anon1.gt\d{6}.com/
@@ -12008,23 +12009,21 @@ $websocket,domain=wap.yushuwu.cloud
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[class^="Main"]:has(> div[class^="DisplayAd_"])
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[class^="style_xsOnly_"]
 13wham.com,wwmt.com,wutv29.com,wtwc40.com,wset.com,wpgh53.com,wgme.com,wfgxtv.com,weartv.com,wcti12.com,watchdaytime.com,wabm68.com,utv44.com,thenationaldesk.com,thecwtv.tv,thecwtc.com,thecw46.com,thecw38.com,telemundoaustin.com,star64.tv,southernoregoncw.com,seattlerefined.com,raleighcw.com,newschannel9.com,newschannel20.com,nevadasportsnet.com,nebraska.tv,mytvz.com,mytvwichita.com,mytvrichmond.com,mytvdayton.com,mytvcharleston.com,mytvbuffalo.com,mytvbaltimore.com,mytv30web.com,myrdctv.com,midmichigannow.com,local21news.com,kval.com,kunwtv.com,kunptv.com,ktxs.com,ktvo.com,ktvl.com,krcrtv.com,krcgtv.com,kpic.com,kocb.com,kmyu.tv,kimatv.com,khqa.com,kfdm.com,keprtv.com,kdsm17.com,kcby.com,katv.com,idahonews.com,foxrichmond.com,foxkansas.com,fox49.tv,fox47.com,fox38corpuschristi.com,cwtreasurevalley.com,cwlasvegas.com,cwcolumbus.com,cwcincinnati.com,cwcentralpa.com,cwbaltimore.com,cwalbany.com,cw9tv.com,cw35.com,cw34.com,cw23tv.com,cw18milwaukee.com,cwomaha.tv,cw14online.com,chattanoogacw.com,cbsaustin.com,cbs4local.com,cbs12.com,abcnews4.com,abc7amarillo.com,abc45.com,abc3340.com,22thepoint.com,ktul.com,bakersfieldnow.com,local12.com,katu.com,komonews.com,wjactv.com,upnorthlive.com,cnycentral.com,wpde.com,cbs6albany.com,kutv.com,wjla.com,news3lv.com,kmph.com,kfoxtv.com,fox17.com,foxbaltimore.com,foxchattanooga.com,foxillinois.com,foxnebraska.com,foxreno.com,foxrochester.com,foxsanantonio.com,nbcmontana.com,okcfox.com,siouxlandnews.com,wach.com,wchstv.com,wcyb.com,wfxl.com,wgxa.tv,wlos.com,wsbt.com,cbs2iowa.com,fox4beaumont.com,mycbs4.com,mynews4.com,news4sanantonio.com,abc6onyourside.com,wtov9.com,turnto10.com,fox11online.com,mynbc15.com,nbc16.com,fox23maine.com,nbc24.com,fox28savannah.com,myfox28columbus.com,fox42kptm.com,dayton247now.com,fox56.com##div[data-testid="story-body"] > div[style*="text-align: center;"][style*="margin: 26px 0;"]
-140.82.112.21                 api.individual.githubcopilot.com
-140.82.112.22                 collector.github.com
-140.82.112.25                 live.github.com
-140.82.113.22                 central.github.com
-140.82.113.26                 alive.github.com
-140.82.114.17                 github.community
-140.82.114.21                 education.github.com
+140.82.112.17                 github.community
+140.82.112.21                 education.github.com
+140.82.113.21                 api.individual.githubcopilot.com
+140.82.113.26                 live.github.com
+140.82.114.21                 collector.github.com
+140.82.114.22                 central.github.com
+140.82.114.25                 alive.github.com
 141hongkong.com###dialog
 141hongkong.com##.wp.at
 141jj.com##.category-wrapper > ul > div[style="line-height:24px;"] > a
 141jj.com##.moboad + .webad
 141jj.com##li:contains(/贊助|推廣/)
 141jj.com,jumi.su,preface.ai##a[href*="bit.ly"]
-150.171.110.107               vscode.dev
-157.240.10.41                 github.global.ssl.fastly.net  # Timeout
+150.171.110.104               vscode.dev
 158pic.com###gaosu
-159.106.121.75                gist.github.com  # Timeout
 159i.com###body > table[width="100%"]
 159i.com###header + div > style + div[class]
 159i.com###sop > div:first-child
@@ -12048,11 +12047,11 @@ $websocket,domain=wap.yushuwu.cloud
 15min.lt##.mobile-ad-placeholder
 15min.lt#$#hide-if-matches-xpath '//div[@class][@style]/img[string-length(@src) >=180]/ancestor::div[@class][1]'
 15w.com###rec
-16.15.161.100                 github-cloud.s3.amazonaws.com
-16.15.183.222                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.239.143                 github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.244.242                 github-com.s3.amazonaws.com
-16.15.244.30                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.183.141                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.215.134                 github-com.s3.amazonaws.com
+16.15.252.17                  github-production-user-asset-6210df.s3.amazonaws.com
+16.15.253.236                 github-cloud.s3.amazonaws.com
+16.15.254.244                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 160.com###w-advertisement
 160.com###w-btn-advertisement
 160.com##.ban_head,.tmall_ad,div#ad_index,div.bran_90
@@ -12224,23 +12223,23 @@ $websocket,domain=wap.yushuwu.cloud
 18183.com###leftspringgg,#bottombar,.topwap_frame,.btns,.bottomwap_frame,#bgindex_bgflad,.ad,.ad_top,.ad_min,.ad_long
 18183.com##.down_url
 18183.com##.pcBtn > a[href*="@"]
-185.199.110.133               avatars.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-185.199.110.133               cloud.githubusercontent.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-185.199.110.133               github.map.fastly.net
-185.199.110.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
-185.199.110.133               private-user-images.githubusercontent.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               cloud.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+185.199.108.133               media.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
 185.199.110.153               github.io
 185.199.110.153               githubstatus.com
 185.199.111.215               github.githubassets.com
@@ -12610,6 +12609,7 @@ $websocket,domain=wap.yushuwu.cloud
 2yjw.com##.widget-tops
 2yjw.com,fuliba2021.net,itdog.cn,zhujiceping.com##.orbui
 30k.me###diy1
+31.13.80.169                  github.global.ssl.fastly.net
 310v.com##[id^="id_ad"],img[width="310"][height="60"],td[id^="idad_"]
 31wxw8.com##.content_ad,.ggad,.adsgg,.ad250left,.bdad
 324324.cn###gg_468_60
@@ -12967,6 +12967,7 @@ $websocket,domain=wap.yushuwu.cloud
 446655.com##[id^="playtop_ad"],.lingiframe,.adsbygoogle
 4493.com##.ibox,.iboxline
 45fan.com##.botad1,.adz
+46.82.174.68                  gist.github.com  # Timeout
 4667.com##.bg-content,[class="m-wl row adw1000"],.a-d-time,.f-adxg
 46pj.com##.DaKuang,[height="79"]
 47473.com##[class*="ad"]
@@ -18194,6 +18195,11 @@ alphaporno.com##.sort-menu > li > span > a.pignr
 alphaporno.com##a[href="https://hellmoms.com/"]
 alphaporno.com,crocotube.com###advertising2-preroll
 alphaporno.com,crocotube.com,hellmoms.com,hellporno.com,hellporno.net,tubewolf.com,xbabe.com,xcum.com,zedporn.com##.bnnrs-player
+alphaporno.com,crocotube.com,tubewolf.com,zedporn.com#$#abort-on-property-write hellpop;
+alphaporno.com,crocotube.com,tubewolf.com,zedporn.com#$#hide-if-matches-xpath './/span[starts-with(@id,"TA-TAB-") or starts-with(@id,"TAm-TAB-")]/a[@target="_blank"][contains(@class,"pignr")]'
+alphaporno.com,crocotube.com,tubewolf.com,zedporn.com#$#hide-if-matches-xpath '//div[strong[normalize-space(text())="Advertisement"] or h2[normalize-space(text())="Advertisement"] or div[normalize-space(text())="Advertisement"]][.//span[starts-with(@id,"TA-") or starts-with(@id,"TAm-")]]'
+alphaporno.com,crocotube.com,tubewolf.com,zedporn.com#$#override-property-read adman_popunder_script false
+alphaporno.com,crocotube.com,tubewolf.com,zedporn.com,kaotic.com,tubeload.co#$#abort-on-property-write BetterJsPop
 alphaporno.com,faapy.com,hellmoms.com,hellporno.net,oricon.co.jp,tubewolf.com,zedporn.com##.block-banner
 alphaporno.com,hellmoms.com,katestube.com,pornwhite.com,sheshaft.com,sleazyneasy.com,tubewolf.com,vikiporn.com,wankoz.com,xcum.com,zedporn.com##.bottom-banners
 alphaporno.com,zedporn.com##.top-banners
@@ -19515,6 +19521,8 @@ barryblogs.com,inmywordz.com##.ad-single-top
 barscaffolding.co.uk,dcraddock.uk,gay1080.com,jav1080.com,javsister.com,pornstory.net,sex-leaks.com##.boxzilla-container
 barscaffolding.co.uk,dcraddock.uk,kikibobo.com,pornstory.net##.boxzilla-overlay
 base64.m.supfree.net##div.navigation
+base64decode.org#$#json-override isActive false autoRecovery
+base64decode.org#$#json-override isActive false eventSampleRatio
 base64decode.org#$#json-override isActive false hasActiveAutoRecovery
 base64decode.org#$#override-property-read as_1397897591 true; override-property-read as_-1618216930 true; override-property-read as_-1279268710 true
 base64decode.org#$#replace-argument Element.prototype.setAttribute 1 ';await new' ''
@@ -19915,6 +19923,7 @@ bilibili.com#@#.is-rcmd > div:only-child
 bilibili.com#@#[class^="footer-ad"]
 bilinovel.com##+js(no-setTimeout-if, offsetHeig\'+\'ht\'])
 billboard.com#$#json-override isActive false autoRecovery
+billboard.com#$#json-override isActive false eventSampleRatio
 billboard.com#$#override-property-read confirm noopFunc
 billboard.com#$#override-property-read d3d3LmJpbGxib2FyZC5jb21fb25sb2Fk undefined
 billboard.com#$#prevent-element-src-loading script /loader\\.min\\.js/
@@ -21106,6 +21115,9 @@ cinemaniahdd.com###i32c
 cinematoday.jp##.ct-ad
 cinematoday.jp##.text-center[style="min-height:100px;"]
 cinematoday.jp##body > div[style="position:relative;height: 80px; background: #efefef; "]
+cinemove.cc#$#override-property-read __cmAdOpening true
+cinemove.cc#$#replace-fetch-response '"enabled":true' '"enabled":false' iptvInterstitial
+cinemove.cc,cloudnestra.com,embdmstrplayer.com,knaben.*,moviepire.*,myflixerfree.com,lurvian.space,seeflix.*,stellarthread.com,tvsportslive.*#$#abort-on-property-read aclib false
 cinestrenostv.tv##[id^="capa"]
 cinestrenostv.tv##[id^="closeX"]
 citimuzik.com##div[class*="ai-viewport-"]
@@ -21196,7 +21208,6 @@ cloud.tencent.com##.cdc-commercial-swiper
 cloud.tencent.com##.mod-commercial
 cloudflareinsights.com$third-party
 cloudme.one#@#.ad-button
-cloudnestra.com,embdmstrplayer.com,knaben.*,moviepire.*,myflixerfree.com,lurvian.space,seeflix.*,stellarthread.com,tvsportslive.*#$#abort-on-property-read aclib false
 cloudvideo.tv,flashx.tv,gomovies.*,gostream.nu,govid.*,hdvid.tv,openloadmovies.*,vidshare.tv#$#abort-on-property-write Fingerprint2
 clownandco.org,modapk48.com,felizmodapk.com,4horlover.com,willcycle.com,pinoyalbums.com,samuraiscan.org,magiskmanager.com,infortechno.com,powerup-gaming.com,lascimmiapensa.com,wanderertl130.id,davescomputertips.com,movies4u.network,sociologicamente.it,textfonts.net,ketubanjiwa.com,ubitennis.com,gaypornhdfree.com,gourmetscans.net,openculture.com##div[id$="-blanket"]
 cls.cn#@#.share-body
@@ -21457,6 +21468,8 @@ collectionofbestporn.com##.banner-mobile-header
 collectionofbestporn.com##.main-nav-list > li > a[rel="nofollow"]
 collectionofbestporn.com,imagebam.com,motherless.com##._ln-floater
 colliderporn.com##.player-container > .aside-blocks
+collinsdictionary.com,pons.com#$#json-override isActive false autoRecovery
+collinsdictionary.com,pons.com#$#json-override isActive false eventSampleRatio
 collinsdictionary.com,pons.com#$#json-override isActive false hasActiveAutoRecovery
 coloradoan.com##.gnt_x__bvc:has(> aside[aria-label="advertisement"])
 coloradoan.com##aside[aria-label="advertisement"]
@@ -21548,6 +21561,7 @@ coolapk.com#@#[id$="ad-box"]
 coolinet.com##.section-banner
 coolmathgames.com#$#abort-current-inline-script eval /xx44zp0c391/
 coolmathgames.com#$#json-override isActive false autoRecovery
+coolmathgames.com#$#json-override isActive false eventSampleRatio
 coolmathgames.com#$#override-property-read xx44zp0c391 true
 coolmathgames.com$csp=script-src-attr 'none'
 coolpc.com.tw##TD[onclick="cancelBubble()"]
@@ -22072,6 +22086,8 @@ ddzimu.com###popup
 ddzzxs.com###inglestore
 ddzzxs.com###inglestore.inglestore
 de.adklick.net###w_ad.no_ad
+deadline.com#$#json-override isActive false autoRecovery
+deadline.com#$#json-override isActive false eventSampleRatio
 deadline.com#$#json-override isActive false hasActiveAutoRecovery
 deadline.com#$#override-property-read ZGVhZGxpbmUuY29tX29ubG9hZA== undefined
 deadline.com#$#override-property-read as_-1039259904 true; override-property-read as_1278692676 true; override-property-read as_1637906397 true; override-property-read as_1298958177 true
@@ -22392,6 +22408,7 @@ docsmall.com##.modal-connection.show
 docsmall.com#@##google-ads
 doctorrouter.ru##.jgcabd-container
 dodoca.com##div#ad_box
+dogdrip.net#$#json-override isActive false eventSampleRatio
 dogdrip.net#$#json-override isActive false hasActiveAutoRecovery
 dogedoge.com##.tag-home__item
 dogfight360.com##+js(abort-current-script, document.write, document.write(ad);)
@@ -23306,6 +23323,7 @@ eurointegration.com.ua,pravda.com.ua#$#abort-on-property-read as_retry
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
 euroki.org##.mob_banner
+euronews.com#$#json-override isActive false eventSampleRatio
 euronews.com#$#json-override isActive false hasActiveAutoRecovery
 euronews.com#$#override-property-read Navigator.prototype.onLine false
 euronews.com#$#override-property-read as_-1386443280 true; override-property-read as_818940565 true; override-property-read as_-977715772 true; override-property-read as_739024637 true; override-property-read as_1098238358 true
@@ -23471,6 +23489,8 @@ fandom.com#$#abort-current-inline-script eval /xvhs4e3ps8l/
 fandom.com#$#hide-if-matches-xpath './/fandom-ad/parent::div[not(contains(@class,"fandom-ad-wrapper"))]/fandom-ad'
 fandom.com#$#hide-if-matches-xpath './/video[contains(@class,"jw-video")]/ancestor::div[contains(@id,"player")]'
 fandom.com#$#hide-if-matches-xpath '//*[starts-with(name(),"ac-")]/..'
+fandom.com#$#json-override isActive false autoRecovery
+fandom.com#$#json-override isActive false eventSampleRatio
 fandom.com#$#json-override isActive false hasActiveAutoRecovery
 fandom.com#$#override-property-read as_retry 0
 fandom.com#$#override-property-read xvhs4e3ps8l true
@@ -24455,10 +24475,6 @@ gameapps.hk##.pc-header-video > a[class^="top-ad-"] + .youtube-container:remove(
 gameapps.hk##a[class^="top-ad-"]
 gameapps.hk##body:style(background-image: none !important;)
 gameapps.hk,m.gameapps.hk##.ad-full-screen
-gamebanana.com#$#abort-current-inline-script eval /xx44zp0c391/
-gamebanana.com#$#abort-current-inline-script sessionStorage ad_stack_split
-gamebanana.com#$#override-property-read xx44zp0c391 true
-gamebanana.com$csp=script-src-attr 'none'
 gamebase.com.tw##div#roomi_into_box,SPAN,.list,div.news_ad_bottom,div.news_hot,div.sidebar_ad
 gamebase.com.tw##span[id^="aid_"]
 gameblog.fr##.r89-mobile-video-outstream
@@ -24745,6 +24761,7 @@ ggjav.com###ads_6
 ggjav.com##.native_ads
 ggjav.com,ggjav.tv###pc_instant
 ggjav.com,porn87.com##+js(abort-current-script, $, popunder)
+gh-proxy.com##section.z-10 > div.w-full:has(> a[rel*="sponsored"])
 ghacks.net##.home-intro-hold-posts > a[href][data-wpel-link][class="home-posts ftd-item"]
 ghoffice.com##[class="tac"],[class="mb5 tac cc"],[id^="ads_"],.textMes
 ghxi.com###respond + div
@@ -24899,6 +24916,8 @@ gohome.com.hk##div[id^="div-gpt-ad"][style]
 gohome.com.hk,idv.st#@##adFrame
 gokano.com#@#.adsbygoogle
 golangtc.com###ads,[href^="https://www.upyun.com/zh/solution_video.html?utm_source=Golang&utm_medium=ad&"],.bar,#content-bar,[href^="http://click.aliyun.com/"],.friendly_links
+goldderby.com#$#json-override isActive false autoRecovery
+goldderby.com#$#json-override isActive false eventSampleRatio
 goldderby.com#$#json-override isActive false hasActiveAutoRecovery
 goldderby.com#$#override-property-read as_6-288582518 true; override-property-read as_9-1408092637 true; override-property-read as_2309656423 true; override-property-read as_52027405483 true; override-property-read as_8-1151024924 true; override-property-read as_1566724136 true; override-property-read as_4-552785983 true; override-property-read as_71164963077 true; override-property-read as_0-1412255159 true; override-property-read as_3-295718270 true; override-property-read as_61422030790 true; override-property-read as_9-1155187446 true; override-property-read as_22020269731 true; override-property-read as_5-556948505 true; override-property-read as_8559588384 true; override-property-read as_1-2017629852 true; override-property-read as_4-299880792 true; override-property-read as_7-1419390911 true; override-property-read as_0298358149 true; override-property-read as_31414895038 true; override-property-read as_6-1162323198 true; override-property-read as_9555425862 true; override-property-read as_2-2021792374 true; override-property-read as_5-902023826 true; override-property-read as_8214513063 true; override-property-read as_11932262123 true; override-property-read as_4-644956113 true; override-property-read as_71072792947 true; override-property-read as_0-46717172 true; override-property-read as_31069819717 true; override-property-read as_6-1507398519 true; override-property-read as_9210350541 true; override-property-read as_21928099601 true; override-property-read as_5-649118635 true; override-property-read as_81925126371 true; override-property-read as_1-652091865 true; override-property-read as_41065657195 true; override-property-read as_7-1511561041 true; override-property-read as_0206188019 true; override-property-read as_31322724908 true; override-property-read as_6203214789 true; override-property-read as_91920963849 true; override-property-read as_2-656254387 true; override-property-read as_51061494673 true; override-property-read as_8-2116935734 true; override-property-read as_11058521443 true; override-property-read as_4-1518696793 true; override-property-read as_7199052267 true; override-property-read as_01916801327 true; override-property-read as_3-1261629080 true; override-property-read as_6456119980 true; override-property-read as_9-663390139 true; override-property-read as_21054358921 true; override-property-read as_5-1522859315 true; override-property-read as_8-406322426 true; override-property-read as_11311426634 true; override-property-read as_4191916515 true; override-property-read as_71909665575 true; override-property-read as_0-667552661 true; override-property-read as_3448984228 true; override-property-read as_6-2128234008 true; override-property-read as_9-410484948 true; override-property-read as_2-1529995067 true; override-property-read as_5187753993 true; override-property-read as_81304290882 true; override-property-read as_1-1272927354 true; override-property-read as_4444821706 true; override-property-read as_7-674688413 true; override-property-read as_01043060647 true; override-property-read as_3-2135369760 true; override-property-read as_6-417620700 true; override-property-read as_91300128360 true; override-property-read as_2-1277089876 true; override-property-read as_51898367301 true; override-property-read as_8-1280063106 true; override-property-read as_1437685954 true; override-property-read as_4-2139532282 true; override-property-read as_7-421783222 true; override-property-read as_0697985326 true; override-property-read as_31814522215 true; override-property-read as_6-762696021 true; override-property-read as_9955053039 true; override-property-read as_2-1622165197 true; override-property-read as_595583863 true; override-property-read as_8-1625138427 true; override-property-read as_192610633 true; override-property-read as_41810359693 true; override-property-read as_7-766858543 true; override-property-read as_0950890517 true; override-property-read as_32067427406 true; override-property-read as_6947917287 true; override-property-read as_9-1629300949 true; override-property-read as_288448111 true; override-property-read as_51806197171 true; override-property-read as_8-1372233236 true; override-property-read as_11803223941 true; override-property-read as_4-773994295 true; override-property-read as_7943754765 true; override-property-read as_0-1633463471 true; override-property-read as_3-516926582 true; override-property-read as_61200822478 true; override-property-read as_981312359 true; override-property-read as_21799061419 true; override-property-read as_5-778156817 true; override-property-read as_8338380072 true; override-property-read as_12056129132 true; override-property-read as_4936619013 true; override-property-read as_7-1640599223 true; override-property-read as_077149837 true; override-property-read as_31193686726 true; override-property-read as_6-1383531510 true; override-property-read as_9334217550 true; override-property-read as_2-785292569 true; override-property-read as_5932456491 true; override-property-read as_82048993380 true; override-property-read as_1-528224856 true; override-property-read as_41189524204 true; override-property-read as_770014085 true; override-property-read as_01787763145 true; override-property-read as_3-1390667262 true; override-property-read as_6327081798 true; override-property-read as_92044830858 true; override-property-read as_2-532387378 true; override-property-read as_5-1651897497 true; override-property-read as_8-535360608 true; override-property-read as_11182388452 true; override-property-read as_4-1394829784 true; override-property-read as_7322919276 true; override-property-read as_0-796590843 true; override-property-read as_3319946046 true; override-property-read as_62037695106 true; override-property-read as_9-539523130 true; override-property-read as_21178225930 true; override-property-read as_5-1398992306 true; override-property-read as_8-880435929 true; override-property-read as_1837313131 true; override-property-read as_4-1739905105 true; override-property-read as_7-22156045 true; override-property-read as_01695593015 true; override-property-read as_3-1482837392 true; override-property-read as_61692619785 true; override-property-read as_9-884598451 true; override-property-read as_2833150609 true; override-property-read as_5-1744067627 true; override-property-read as_8-627530738 true; override-property-read as_1-1747040857 true; override-property-read as_4-29291797 true; override-property-read as_71688457263 true; override-property-read as_0-888760973 true; override-property-read as_3227775916 true; override-property-read as_61945524976 true; override-property-read as_9826014857 true; override-property-read as_2-1751203379 true; override-property-read as_5-33454319 true; override-property-read as_81083082570 true; override-property-read as_1-1494135666 true; override-property-read as_41681321511 true; override-property-read as_7-895896725 true; override-property-read as_0821852335 true; override-property-read as_31938389224 true; override-property-read as_6-638829012 true; override-property-read as_91078920048 true; override-property-read as_2-40590071 true; override-property-read as_51677158989 true; override-property-read as_8-1501271418 true; override-property-read as_1216477642 true; override-property-read as_41934226702 true; override-property-read as_7814716583 true; override-property-read as_0-1762501653 true; override-property-read as_3-645964764 true; override-property-read as_61071784296 true; override-property-read as_9-1505433940 true; override-property-read as_2212315120 true; override-property-read as_5-907194999 true; override-property-read as_8209341890 true; override-property-read as_11927090950 true; override-property-read as_4-650127286 true; override-property-read as_71067621774 true; override-property-read as_0-51888345 true; override-property-read as_31064648544 true; override-property-read as_6-1512569692 true; override-property-read as_9205179368 true; override-property-read as_21922928428 true; override-property-read as_5-654289808 true; override-property-read as_81919955198 true; override-property-read as_1-657263038 true; override-property-read as_41060486022 true; override-property-read as_7-1516732214 true; override-property-read as_0201016846 true; override-property-read as_31317553735 true; override-property-read as_6-1857645013 true; override-property-read as_9-139895953 true; override-property-read as_21577853107 true; override-property-read as_5-999365129 true; override-property-read as_8117171760 true; override-property-read as_1-1002338359 true; override-property-read as_4715410701 true; override-property-read as_7-1861807535 true; override-property-read as_0-144058475 true; override-property-read as_3972478414 true; override-property-read as_6-1604739822 true; override-property-read as_91570717355 true; override-property-read as_2-1006500881 true; override-property-read as_5711248179 true; override-property-read as_81827785068 true; override-property-read as_1-749433168 true; override-property-read as_4-1868943287 true; override-property-read as_7-151194227 true; override-property-read as_01566554833 true; override-property-read as_3-1611875574 true; override-property-read as_6105873486 true; override-property-read as_91823622546 true; override-property-read as_2704112427 true; override-property-read as_5-1873105809 true; override-property-read as_8-756568920 true; override-property-read as_1961180140 true; override-property-read as_4-1616038096 true; override-property-read as_71559419081 true; override-property-read as_0-1017799155 true; override-property-read as_398737734 true; override-property-read as_61816486794 true; override-property-read as_9-760731442 true; override-property-read as_2957017618 true; override-property-read as_5-162492501 true; override-property-read as_8954044388 true; override-property-read as_1-1623173848 true; override-property-read as_494575212 true; override-property-read as_71812324272 true; override-property-read as_0692814153 true; override-property-read as_31809351042 true; override-property-read as_6-767867194 true; override-property-read as_9949881866 true; override-property-read as_2-1627336370 true; override-property-read as_590412690 true; override-property-read as_8-1630309600 true; override-property-read as_187439460 true; override-property-read as_41805188520 true; override-property-read as_7-772029716 true; override-property-read as_0945719344 true; override-property-read as_32062256233 true; override-property-read as_6942746114 true; override-property-read as_9-1634472122 true; override-property-read as_283276938 true; override-property-read as_51801025998 true; override-property-read as_8-1377404409 true; override-property-read as_1440526080 true; override-property-read as_4-2136692156 true; override-property-read as_7-418943096 true; override-property-read as_01298805964 true; override-property-read as_3-1879624443 true; override-property-read as_6-161875383 true; override-property-read as_9-1281385502 true; override-property-read as_2436363558 true; override-property-read as_5-2140854678 true; override-property-read as_8-1024317789 true; override-property-read as_1693431271 true; override-property-read as_4-426078848 true; override-property-read as_71291670212 true; override-property-read as_0-1285548024 true; override-property-read as_3-169011135 true; override-property-read as_61548737925 true; override-property-read as_9-1028480311 true; override-property-read as_22146976866 true; override-property-read as_5-430241370 true; override-property-read as_8686295519 true; override-property-read as_1-1890922717 true; override-property-read as_4-173173657 true; override-property-read as_7-1292683776 true; override-property-read as_0425065284 true; override-property-read as_31541602173 true; override-property-read as_6-1035616063 true; override-property-read as_9682132997 true; override-property-read as_2-1895085239 true; override-property-read as_51280371938 true; override-property-read as_8-1898058469 true; override-property-read as_1-180309409 true; override-property-read as_41537439651 true; override-property-read as_7-1039778585 true; override-property-read as_02135678592 true; override-property-read as_3-1042751815 true; override-property-read as_6674997245 true; override-property-read as_9-1902220991 true; override-property-read as_2-184471931 true; override-property-read as_51533277129 true; override-property-read as_8-187445161 true; override-property-read as_11530303899 true; override-property-read as_4-1046914337 true; override-property-read as_7670834723 true; override-property-read as_0-1906383513 true; override-property-read as_3-789846624 true; override-property-read as_6-1909356743 true; override-property-read as_9-191607683 true; override-property-read as_21526141377 true; override-property-read as_5-1051076859 true; override-property-read as_865460030 true; override-property-read as_1-1054050089 true; override-property-read as_4663698971 true; override-property-read as_7-1913519265 true; override-property-read as_0-195770205 true; override-property-read as_3920766684 true; override-property-read as_6-1656451552 true; override-property-read as_9-536683004 true; override-property-read as_21181066056 true; override-property-read as_5-1396152180 true; override-property-read as_8-279615291 true; override-property-read as_11438133769 true; override-property-read as_4318623650 true; override-property-read as_72036372710 true; override-property-read as_0-540845526 true; override-property-read as_3575691363 true; override-property-read as_6-2001526873 true; override-property-read as_9-283777813 true; override-property-read as_2-1403287932 true; override-property-read as_5314461128 true; override-property-read as_81430998017 true; override-property-read as_1-1146220219 true; override-property-read as_4571528841 true; override-property-read as_7-547981278 true; override-property-read as_01169767782 true; override-property-read as_3-2008662625 true; override-property-read as_6-290913565 true; override-property-read as_91426835495 true; override-property-read as_2-1150382741 true; override-property-read as_52025074436 true; override-property-read as_8-1153355971 true; override-property-read as_1564393089 true; override-property-read as_4-2012825147 true; override-property-read as_7-295076087 true; override-property-read as_0-1414586206 true; override-property-read as_3-298049317 true; override-property-read as_61419699743 true; override-property-read as_9-1157518493 true; override-property-read as_2560230567 true; override-property-read as_5-2016987669 true; override-property-read as_8557257337 true; override-property-read as_1-2019960899 true; override-property-read as_4-302211839 true; override-property-read as_71415537221 true; override-property-read as_0-1161681015 true; override-property-read as_3-45144126 true; override-property-read as_6-1164654245 true; override-property-read as_9553094815 true; override-property-read as_2-2024123421 true; override-property-read as_5-306374361 true; override-property-read as_8810162528 true; override-property-read as_1-309347591 true; override-property-read as_41408401469 true; override-property-read as_7-1168816767 true; override-property-read as_0548932293 true; override-property-read as_31665469182 true; override-property-read as_6-911749054 true; override-property-read as_9-2031259173 true; override-property-read as_2-313510113 true; override-property-read as_51404238947 true; override-property-read as_8-1774191460 true; override-property-read as_1-56442400 true; override-property-read as_41063326148 true; override-property-read as_7-1513892088 true; override-property-read as_0203856972 true; override-property-read as_31320393861 true; override-property-read as_6-1256824375 true; override-property-read as_9460924685 true; override-property-read as_2-658585434 true; override-property-read as_51059163626 true; override-property-read as_8-2119266781 true; override-property-read as_1-401517721 true; override-property-read as_41316231339 true; override-property-read as_7196721220 true; override-property-read as_01914470280 true; override-property-read as_3-1263960127 true; override-property-read as_6453788933 true; override-property-read as_9-2123429303 true; override-property-read as_2-405680243 true; override-property-read as_5-1525190362 true; override-property-read as_8-408653473 true; override-property-read as_11309095587 true; override-property-read as_4-1268122649 true; override-property-read as_7449626411 true; override-property-read as_0-669883708 true; override-property-read as_3446653181 true; override-property-read as_6-2130565055 true; override-property-read as_9-412815995 true; override-property-read as_21304933065 true; override-property-read as_5-1272285171 true; override-property-read as_81301959835 true
 goldderby.com#$#override-property-read as_retry 0
@@ -26990,6 +27009,8 @@ independent.co.uk##amp-iframe[src^="https://fresh8.co/"]
 independentespanol.com###main > div[class^="sc-"]:has(> div.mobile-only > div.mobile-only > div[data-mpu])
 independentespanol.com###stickyFooterRoot
 index.hr##.js-slot-container
+index.hr#$#json-override isActive false autoRecovery
+index.hr#$#json-override isActive false eventSampleRatio
 index.hr#$#json-override isActive false hasActiveAutoRecovery
 index.hr#$#override-property-read Navigator.prototype.onLine false
 index.hr#$#override-property-read accountService.UserHasPremium trueFunc
@@ -27027,6 +27048,8 @@ indiatimes.com,timesofindia.com##div[class^="ATF_container_min_height"]
 indiatimes.com,timesofindia.com##div[id^="custom_ad"]
 indiatoday.in,bloomberg.com##.amp-taboola
 indiatvnews.com##.adouter
+indiewire.com#$#json-override isActive false autoRecovery
+indiewire.com#$#json-override isActive false eventSampleRatio
 indiewire.com#$#json-override isActive false hasActiveAutoRecovery
 indiewire.com#$#override-property-read as_retry 0
 indiewire.com#$#override-property-read d3d3LmluZGlld2lyZS5jb21fb25sb2Fk undefined
@@ -28542,7 +28565,6 @@ kantangame.com###quiz_sp_banner_footer
 kaopu001.com###pokemon
 kaopu001.com##.coupleBannerAdv
 kaotic.com#$#abort-current-inline-script SNSPAdManager config; abort-on-property-write snspAdManager2; abort-current-inline-script jQuery /config\\.pop/; override-property-read __ads true; cookie-remover /___trx/; abort-current-inline-script document.getElementById innerHTML;
-kaotic.com,tubeload.co#$#abort-on-property-write BetterJsPop
 kaoyan.com##.floatQrcode
 kaoyan.com##div.headerAd,div.subAd,div.artRad
 kaoyan1v1.com###showAD
@@ -28856,6 +28878,7 @@ kurashiru.com##.BlankSpace
 kurashiru.com##.SpApp-ArticleAds
 kurashiru.com##.SpRoot-adsWrapper
 kurashiru.com#$#event-override message rewrite /_as_res/ data /_as_req$/ _as_res
+kurashiru.com#$#json-override isActive false eventSampleRatio
 kurashiru.com#$#json-override isActive false hasActiveAutoRecovery
 kurier.de,np-coburg.de,frankenpost.de##div[data-b-title*="Traffective"]
 kurier.de,np-coburg.de,frankenpost.de##div[id^="mobilebanner"]
@@ -30558,6 +30581,8 @@ makaidong.com###bdcs
 makaidong.com###cyWallsplugin
 makeitmeme.com##div[class*="_leftBanner_"] , div[class*="_rightBanner_"]
 makeitmeme.com#$#event-override message rewrite /_as_res/ data /_as_req$/ _as_res
+makeitmeme.com#$#json-override isActive false autoRecovery
+makeitmeme.com#$#json-override isActive false eventSampleRatio
 makeitmeme.com#$#json-override isActive false hasActiveAutoRecovery
 makeitmeme.com#$#replace-argument Element.prototype.setAttribute 1 '/window\\.x\\d+\\(\\)/' ''
 makemytrip.com##.landingContainer > .makeFlex:has(> div[class^="adtech"])
@@ -30935,6 +30960,8 @@ meteomedia.com##div[class^="adslot__"]
 meteomedia.com##div[class^="taboolaWidget__"]
 meteored.com.ar###pubHead
 meteovista.be#$#event-override message rewrite /_as_res/ data /_as_req$/ _as_res
+meteovista.be#$#json-override isActive false autoRecovery
+meteovista.be#$#json-override isActive false eventSampleRatio
 meteovista.be#$#json-override isActive false hasActiveAutoRecovery
 metrics.icloud.com
 metro.co.uk,metro-co-uk.cdn.ampproject.org##.metro-amp-ad
@@ -31362,6 +31389,7 @@ moviewalker.jp##div[id^="mw-s_all"]
 moviewalker.jp##div[style*="min-width:320px;"]
 moviewalker.jp##header ~ div[style^="margin-top:10px;"]
 movilhentai.com##.alerta-adblock
+movy.sx#$#prevent-element-src-loading script /^(https:)?\/\/[a-z]{2}\\.[a-z]+\\.com\/[A-Za-z0-9_-]{10,16}\/[A-Za-z0-9]+$/
 moxing.net##.pic_txt_list
 moxing.net##a[marked][href*=".taobao.com"]
 mp3-gratis.it#$#abort-current-inline-script Math zfgloaded
@@ -31755,7 +31783,7 @@ nakiny.com###mobile_text-2
 nakkheeran.in##.post-block .auto-responsive-ad
 namaeuranai.biz###imobile_overlay_inner
 namaeuranai.biz###instream-ads
-namemc.com,idokep.hu,gamesradar.com,weatherzone.com.au,onlineradiobox.com,fandom.com,base64decode.org,9gag.com,bab.la,base64encode.org,billboard.com,calculatorsoup.com,caminteresse.fr,collinsdictionary.com,convertcase.net,cool-style.com.tw,crosswordsolver.com,daily.co.jp,deadline.com,dictionary.cambridge.org,doviz.com,dreadcentral.com,ecouter-en-direct.com,eurointegration.com.ua,euronews.com,fansided.com,femmeactuelle.fr,flatpanelshd.com,freeconvert.com,game8.co,game8.jp,gamebanana.com,gamewith.jp,gazetaprawna.pl,goldderby.com,golf-live.at,golfmonthly.com,guitarworld.com,gutefrage.net,hfboards.com,hk01.com,hochi.news,hollywoodreporter.com,huffpost.com,index.hr,indiewire.com,inven.co.kr,invoice-generator.com,issuya.com,kurir.rs,kuruma-news.jp,laleggepertutti.it,leagueofgraphs.com,loawa.com,malaymail.com,mentalfloss.com,movie-locations.com,mr2oc.com,nationalpost.com,nemzetisport.hu,nikkansports.com,omnicalculator.com,oraridiapertura24.it,oricon.co.jp,oxfordlearnersdictionaries.com,pcgamer.com,pcgamesn.com,percentagecalculator.net,picrew.me,pons.com,pressian.com,programme-tv.net,programme.tv,puckpedia.com,rollingstone.com,sankei.com,scribd.com,seriouseats.com,sourceforge.net,space.com,spreadsheetpoint.com,stocktwits.com,text-compare.com,the-crossword-solver.com,timesofindia.indiatimes.com,tomsguide.com,tomshardware.com,trafficnews.jp,trilltrill.jp,tunebat.com,tz.de,variety.com,verkaufsoffener-sonntag.com,vimm.net,voici.fr,vwvortex.com,watchuseek.com,wenxuecity.com,wfmz.com,winfuture.de,wordhippo.com,worldofsolitaire.com,woxikon.de,www.wetter.com#$#override-property-read Navigator.prototype.userAgent 'AdsBot-Google'; override-property-read Navigator.prototype.userAgentData undefined
+namemc.com,idokep.hu,gamesradar.com,weatherzone.com.au,onlineradiobox.com,fandom.com,base64decode.org,9gag.com,bab.la,base64encode.org,billboard.com,calculatorsoup.com,caminteresse.fr,collinsdictionary.com,convertcase.net,cool-style.com.tw,crosswordsolver.com,daily.co.jp,deadline.com,dictionary.cambridge.org,doviz.com,dreadcentral.com,ecouter-en-direct.com,eurointegration.com.ua,euronews.com,fansided.com,femmeactuelle.fr,flatpanelshd.com,freeconvert.com,game8.co,game8.jp,gamewith.jp,gazetaprawna.pl,goldderby.com,golf-live.at,golfmonthly.com,guitarworld.com,gutefrage.net,hfboards.com,hk01.com,hochi.news,hollywoodreporter.com,huffpost.com,index.hr,indiewire.com,inven.co.kr,invoice-generator.com,issuya.com,kurir.rs,kuruma-news.jp,laleggepertutti.it,leagueofgraphs.com,loawa.com,malaymail.com,mentalfloss.com,movie-locations.com,mr2oc.com,nationalpost.com,nemzetisport.hu,nikkansports.com,omnicalculator.com,oraridiapertura24.it,oricon.co.jp,oxfordlearnersdictionaries.com,pcgamer.com,pcgamesn.com,percentagecalculator.net,picrew.me,pons.com,pressian.com,programme-tv.net,programme.tv,puckpedia.com,rollingstone.com,sankei.com,scribd.com,seriouseats.com,sourceforge.net,space.com,spreadsheetpoint.com,stocktwits.com,text-compare.com,the-crossword-solver.com,timesofindia.indiatimes.com,tomsguide.com,tomshardware.com,trafficnews.jp,trilltrill.jp,tunebat.com,tz.de,variety.com,verkaufsoffener-sonntag.com,vimm.net,voici.fr,vwvortex.com,watchuseek.com,wenxuecity.com,wfmz.com,winfuture.de,wordhippo.com,worldofsolitaire.com,woxikon.de,www.wetter.com#$#override-property-read Navigator.prototype.userAgent 'AdsBot-Google'; override-property-read Navigator.prototype.userAgentData undefined
 namethatporn.com###fab_blacko
 namethatporn.com###parto_block
 namethatporn.com##.a_bhs_w
@@ -32903,6 +32931,8 @@ onlinemschool.com###oms_res_header
 onlinemschool.com###oms_solution_block > div[id^="om_"][style]:has(> a[href="/?vs=1"])
 onlineporno.cc##.w-spots
 onliner.by##.b-top-line-1__items
+onlineradiobox.com#$#json-override isActive false autoRecovery
+onlineradiobox.com#$#json-override isActive false eventSampleRatio
 onlineradiobox.com#$#json-override isActive false hasActiveAutoRecovery
 onlineradiobox.com#$#override-property-read as_-979609477 true; override-property-read as_-1318557697 true; override-property-read as_-959343976 true; override-property-read as_-700311684 true
 onlineradiobox.com#$#override-property-read isAdShieldTurn false
@@ -33093,6 +33123,8 @@ ovo.kyodo.co.jp##div[style$="bottom: 0; width: 100%; display: block; text-align:
 owata-net.com##.fixed.w-full.h-\[100px\].overflow-hidden
 owata-net.com,pixiv.net,porncomics.com,yande.re##iframe[width="300"][height="250"]
 owyb1688.com##.gray-show
+oxfordlearnersdictionaries.com#$#json-override isActive false autoRecovery
+oxfordlearnersdictionaries.com#$#json-override isActive false eventSampleRatio
 oxfordlearnersdictionaries.com#$#json-override isActive false hasActiveAutoRecovery
 oxfordlearnersdictionaries.com#$#override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true; override-property-read as_-1499012015 true; override-property-read as_818940565 true; override-property-read as_-977715772 true; override-property-read as_739024637 true; override-property-read as_1098238358 true; override-property-read as_759290138 true; override-property-read as_-1217724578 true; override-property-read as_-690327166 true; override-property-read as_1026413243 true; override-property-read as_687465023 true; override-property-read as_348516803 true; override-property-read as_-930335972 true; override-property-read as_-1269284192 true; override-property-read as_447456217 true; override-property-read as_-1349200120 true; override-property-read as_-989986399 true; override-property-read as_1327966181 true; override-property-read as_989017961 true
 oxfordlearnersdictionaries.com#$#override-property-read window.navigator.connection.rtt 1001
@@ -33226,6 +33258,7 @@ pcgameshardware.de##.ticker_item > a[href^="/E-Commerce-The"]:has(> .schnaeppche
 pcgameshardware.de##aside[class$="inArticleTextAd"]
 pcgameshardware.de,pcgames.de##.strr_slot
 pcgamesn.com##.nn_mobile_mpu2_wrapper
+pcgamesn.com#$#json-override isActive false eventSampleRatio
 pcgamesn.com#$#json-override isActive false hasActiveAutoRecovery
 pcgamesn.com#$#override-property-read window.navigator.connection.rtt 2000
 pcguru.hu##.top-mobile-banner-holder
@@ -33644,6 +33677,8 @@ po18wen.net##img[style="border: 1px inset #00FF00"]
 pobre.wtf##div.generalModal:first-child
 pobre.wtf#$#abort-on-property-read window.banners.1
 pocketpc.ch,gizchina.com,cleantechnica.com,proandroid.com,dkoding.in,iheartintelligence.com,revistaforum.com.br##.mrf-sticky-wrapper
+pockettactics.com#$#json-override isActive false autoRecovery
+pockettactics.com#$#json-override isActive false eventSampleRatio
 pockettactics.com#$#json-override isActive false hasActiveAutoRecovery
 pockettactics.com#$#override-property-read as_-400652451 true; override-property-read as_-739600671 true; override-property-read as_-1078548891 true; override-property-read as_1336353459 true
 pockettactics.com#$#override-property-read as_1058949371 true; override-property-read as_720001151 true; override-property-read as_-1858225736 true; override-property-read as_-1499012015 true; override-property-read as_818940565 true; override-property-read as_-977715772 true; override-property-read as_739024637 true; override-property-read as_1098238358 true; override-property-read as_759290138 true; override-property-read as_-1217724578 true; override-property-read as_-690327166 true; override-property-read as_1026413243 true; override-property-read as_687465023 true; override-property-read as_348516803 true; override-property-read as_-930335972 true; override-property-read as_-1269284192 true; override-property-read as_447456217 true; override-property-read as_-1349200120 true; override-property-read as_-989986399 true; override-property-read as_1327966181 true; override-property-read as_989017961 true
@@ -35216,6 +35251,8 @@ rojadirecta.*#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 rojadirecta.me#@##adserver
 rokemoba.com###sp-fixed-menu
 rokuhentai.com##.site-top-ad-slot
+rollingstone.com#$#json-override isActive false autoRecovery
+rollingstone.com#$#json-override isActive false eventSampleRatio
 rollingstone.com#$#json-override isActive false hasActiveAutoRecovery
 rollingstone.com#$#override-property-read as_7387546794 true; override-property-read as_91332308777 true; override-property-read as_2-1244909459 true; override-property-read as_5472839601 true; override-property-read as_81589376490 true; override-property-read as_1-987841746 true; override-property-read as_4-2107351865 true; override-property-read as_7-389602805 true; override-property-read as_01328146255 true; override-property-read as_3-1850284152 true; override-property-read as_6-132535092 true; override-property-read as_91585213968 true; override-property-read as_2465703849 true; override-property-read as_5-2111514387 true; override-property-read as_8-994977498 true; override-property-read as_1722771562 true; override-property-read as_4-1854446674 true; override-property-read as_71321010503 true; override-property-read as_0-1256207733 true; override-property-read as_3-139670844 true; override-property-read as_61578078216 true; override-property-read as_9-999140020 true; override-property-read as_2718609040 true; override-property-read as_51838377588 true; override-property-read as_8-1340052819 true; override-property-read as_1377696241 true; override-property-read as_42095445301 true; override-property-read as_7-481772935 true; override-property-read as_0-1601283054 true; override-property-read as_3-484746165 true; override-property-read as_61233002895 true; override-property-read as_9-1344215341 true; override-property-read as_2373533719 true; override-property-read as_52091282779 true; override-property-read as_8370560489 true; override-property-read as_12088309549 true; override-property-read as_4-488908687 true; override-property-read as_71228840373 true; override-property-read as_0-1348377863 true; override-property-read as_3-231840974 true; override-property-read as_6-1351351093 true; override-property-read as_9366397967 true; override-property-read as_22084147027 true; override-property-read as_5-493071209 true; override-property-read as_8623465680 true; override-property-read as_1-496044439 true; override-property-read as_41221704621 true; override-property-read as_7-1355513615 true; override-property-read as_0362235445 true; override-property-read as_31478772334 true; override-property-read as_6-1098445902 true; override-property-read as_92077011275 true; override-property-read as_2-500206961 true; override-property-read as_51217542099 true; override-property-read as_8-1960888308 true; override-property-read as_1-243139248 true; override-property-read as_4-1362649367 true; override-property-read as_7355099693 true; override-property-read as_02072848753 true; override-property-read as_3-1105581654 true; override-property-read as_6612167406 true; override-property-read as_9-1965050830 true; override-property-read as_21210406347 true; override-property-read as_5-1366811889 true; override-property-read as_8-250275000 true; override-property-read as_11467474060 true; override-property-read as_4-1109744176 true; override-property-read as_72065713001 true; override-property-read as_0-511505235 true; override-property-read as_3605031654 true; override-property-read as_6-1972186582 true; override-property-read as_9-254437522 true; override-property-read as_21463311538 true; override-property-read as_5343801419 true; override-property-read as_81460338308 true; override-property-read as_1-1116879928 true; override-property-read as_4600869132 true; override-property-read as_7-1976349104 true; override-property-read as_0-856580556 true; override-property-read as_3259956333 true; override-property-read as_61977705393 true; override-property-read as_9-599512843 true; override-property-read as_21118236217 true; override-property-read as_5-1458982019 true; override-property-read as_81115262987 true; override-property-read as_1-1461955249 true; override-property-read as_4255793811 true; override-property-read as_71973542871 true; override-property-read as_0-603675365 true; override-property-read as_3512861524 true; override-property-read as_6-606648595 true; override-property-read as_91111100465 true; override-property-read as_2-1466117771 true; override-property-read as_5251631289 true; override-property-read as_81368168178 true; override-property-read as_1248658059 true; override-property-read as_41966407119 true; override-property-read as_7-610811117 true; override-property-read as_01106937943 true; override-property-read as_3-2071492464 true; override-property-read as_6-353743404 true; override-property-read as_9-1473253523 true; override-property-read as_2244495537 true; override-property-read as_51962244597 true; override-property-read as_8-1216185810 true; override-property-read as_1501563250 true; override-property-read as_4-617946869 true; override-property-read as_71099802191 true; override-property-read as_0-1477416045 true; override-property-read as_3-360879156 true; override-property-read as_61356869904 true; override-property-read as_9-1220348332 true; override-property-read as_21955108845 true; override-property-read as_5-622109391 true; override-property-read as_8494427498 true; override-property-read as_1-2082790738 true; override-property-read as_4-365041678 true; override-property-read as_7-1484551797 true; override-property-read as_0233197263 true; override-property-read as_31349734152 true; override-property-read as_6-1227484084 true; override-property-read as_9490264976 true; override-property-read as_2-2086953260 true; override-property-read as_51088503917 true; override-property-read as_8-2089926490 true; override-property-read as_1-372177430 true; override-property-read as_41345571630 true; override-property-read as_7-1231646606 true; override-property-read as_01943810571 true; override-property-read as_3-1234619836 true; override-property-read as_6483129224 true; override-property-read as_9-2094089012 true; override-property-read as_2-376339952 true; override-property-read as_51341409108 true; override-property-read as_81859965485 true; override-property-read as_1-717252751 true; override-property-read as_41000496309 true; override-property-read as_7-1576721927 true; override-property-read as_0141027133 true; override-property-read as_31257564022 true; override-property-read as_6138053903 true; override-property-read as_91855802963 true; override-property-read as_2-721415273 true; override-property-read as_5996333787 true; override-property-read as_82112870676 true; override-property-read as_1993360557 true; override-property-read as_4-1583857679 true; override-property-read as_7133891381 true; override-property-read as_01851640441 true; override-property-read as_3-1326789966 true; override-property-read as_6390959094 true; override-property-read as_9-728551025 true; override-property-read as_2989198035 true; override-property-read as_5-1588020201 true; override-property-read as_8-471483312 true; override-property-read as_11246265748 true; override-property-read as_4126755629 true; override-property-read as_71844504689 true; override-property-read as_0-732713547 true; override-property-read as_3383823342 true; override-property-read as_62101572402 true; override-property-read as_9-475645834 true; override-property-read as_2-1595155953 true; override-property-read as_5122593107 true; override-property-read as_81239129996 true; override-property-read as_1-1338088240 true; override-property-read as_4379660820 true; override-property-read as_7-739849299 true; override-property-read as_0977899761 true; override-property-read as_32094436650 true; override-property-read as_6-482781586 true; override-property-read as_91234967474 true; override-property-read as_2-1342250762 true; override-property-read as_51833206415 true; override-property-read as_8-1345223992 true; override-property-read as_1372525068 true; override-property-read as_42090274128 true; override-property-read as_7-486944108 true; override-property-read as_0-1606454227 true; override-property-read as_3-489917338 true; override-property-read as_61227831722 true; override-property-read as_9-1349386514 true; override-property-read as_2368362546 true; override-property-read as_52086111606 true; override-property-read as_8365389316 true; override-property-read as_12083138376 true; override-property-read as_4-494079860 true; override-property-read as_71223669200 true; override-property-read as_0-1353549036 true; override-property-read as_3-237012147 true; override-property-read as_6882756401 true; override-property-read as_9-1694461835 true; override-property-read as_223287225 true; override-property-read as_51741036285 true; override-property-read as_8-1437394122 true; override-property-read as_11738063055 true; override-property-read as_4-839155181 true; override-property-read as_7878593879 true; override-property-read as_0-1698624357 true; override-property-read as_3-582087468 true; override-property-read as_61135661592 true; override-property-read as_916151473 true; override-property-read as_21733900533 true; override-property-read as_5-843317703 true; override-property-read as_8273219186 true; override-property-read as_11990968246 true; override-property-read as_4871458127 true; override-property-read as_7-1705760109 true; override-property-read as_011988951 true; override-property-read as_31128525840 true; override-property-read as_6-1448692396 true; override-property-read as_9269056664 true; override-property-read as_2-850453455 true; override-property-read as_5867295605 true; override-property-read as_81983832494 true; override-property-read as_1-593385742 true; override-property-read as_41124363318 true; override-property-read as_74853199 true; override-property-read as_01722602259 true; override-property-read as_3-1455828148 true; override-property-read as_6261920912 true; override-property-read as_91979669972 true; override-property-read as_2-597548264 true; override-property-read as_5-1717058383 true; override-property-read as_8-600521494 true; override-property-read as_11117227566 true; override-property-read as_4-1459990670 true; override-property-read as_7257758390 true; override-property-read as_0-861751729 true; override-property-read as_3254785160 true; override-property-read as_61972534220 true; override-property-read as_9-604684016 true; override-property-read as_21113065044 true; override-property-read as_5-1464153192 true; override-property-read as_81110091814 true; override-property-read as_1-1467126422 true; override-property-read as_4250622638 true; override-property-read as_71968371698 true; override-property-read as_0-608846538 true; override-property-read as_3507690351 true; override-property-read as_6-611819768 true; override-property-read as_91105929292 true; override-property-read as_2-1471288944 true; override-property-read as_5246460116 true; override-property-read as_81362997005 true; override-property-read as_1-1114039802 true; override-property-read as_4603709258 true; override-property-read as_7-1973508978 true; override-property-read as_0-255759918 true; override-property-read as_3860776971 true; override-property-read as_6-1716441265 true; override-property-read as_91459015912 true; override-property-read as_2-1118202324 true; override-property-read as_5599546736 true; override-property-read as_81716083625 true; override-property-read as_1-861134611 true; override-property-read as_4-1980644730 true; override-property-read as_7-262895670 true; override-property-read as_01454853390 true; override-property-read as_3-1723577017 true; override-property-read as_6-5827957 true; override-property-read as_91711921103 true; override-property-read as_2592410984 true; override-property-read as_5-1984807252 true; override-property-read as_8-868270363 true; override-property-read as_1849478697 true; override-property-read as_4-1727739539 true; override-property-read as_71447717638 true; override-property-read as_0-1129500598 true; override-property-read as_3-12963709 true; override-property-read as_61704785351 true; override-property-read as_9-872432885 true; override-property-read as_2845316175 true; override-property-read as_5-274193944 true; override-property-read as_8842342945 true; override-property-read as_1-1734875291 true; override-property-read as_4-17126231 true; override-property-read as_71700622829 true; override-property-read as_0581112710 true; override-property-read as_31697649599 true; override-property-read as_6-879568637 true; override-property-read as_9838180423 true; override-property-read as_2-1739037813 true; override-property-read as_5-21288753 true; override-property-read as_8-1742011043 true; override-property-read as_1-24261983 true; override-property-read as_41693487077 true; override-property-read as_7-883731159 true; override-property-read as_0834017901 true; override-property-read as_31950554790 true; override-property-read as_6831044671 true; override-property-read as_9-1746173565 true; override-property-read as_2-28424505 true; override-property-read as_51689324555 true; override-property-read as_8-1489105852 true; override-property-read as_11686351325 true; override-property-read as_4-890866911 true; override-property-read as_7826882149 true; override-property-read as_0-1750336087 true; override-property-read as_3-633799198 true; override-property-read as_61083949862 true; override-property-read as_9-2091248886 true; override-property-read as_2-373499826 true; override-property-read as_51344249234 true; override-property-read as_8-1834181173 true; override-property-read as_1-116432113 true; override-property-read as_4-1235942232 true; override-property-read as_7481806828 true; override-property-read as_0-2095411408 true; override-property-read as_3-978874519 true; override-property-read as_6738874541 true; override-property-read as_9-1838343695 true; override-property-read as_21337113482 true; override-property-read as_5-1240104754 true; override-property-read as_8-123567865 true; override-property-read as_11594181195 true; override-property-read as_4-983037041 true; override-property-read as_7-2102547160 true; override-property-read as_0-384798100 true; override-property-read as_3731738789 true; override-property-read as_6-1845479447 true; override-property-read as_9-127730387 true; override-property-read as_21590018673 true; override-property-read as_5470508554 true; override-property-read as_81587045443 true; override-property-read as_1-990172793 true; override-property-read as_4727576267 true; override-property-read as_7-1849641969 true; override-property-read as_01325815208 true; override-property-read as_3-1852615199 true; override-property-read as_6-134866139 true; override-property-read as_91582882921 true; override-property-read as_2-994335315 true; override-property-read as_5723413745 true; override-property-read as_8-997308545 true; override-property-read as_1720440515 true; override-property-read as_4-1856777721 true; override-property-read as_7-139028661 true; override-property-read as_01578720399 true; override-property-read as_3-1599710008 true; override-property-read as_61575747169 true; override-property-read as_9-1001471067 true; override-property-read as_2716277993 true; override-property-read as_5-1860940243 true; override-property-read as_8-744403354 true; override-property-read as_1-1863913473 true; override-property-read as_4-146164413 true; override-property-read as_71571584647 true; override-property-read as_0-1005633589 true; override-property-read as_3110903300 true; override-property-read as_61828652360 true; override-property-read as_9709142241 true; override-property-read as_2-1868075995 true; override-property-read as_5-150326935 true; override-property-read as_8966209954 true; override-property-read as_1-1611008282 true; override-property-read as_4-491239734 true; override-property-read as_71226509326 true; override-property-read as_0-1350708910 true; override-property-read as_3-234172021 true; override-property-read as_61483577039 true; override-property-read as_9-1093641197 true; override-property-read as_22081815980 true; override-property-read as_5-495402256 true; override-property-read as_8621134633 true; override-property-read as_1-1956083603 true; override-property-read as_4-238334543 true; override-property-read as_7-1357844662 true; override-property-read as_0359904398 true; override-property-read as_31476441287 true; override-property-read as_6-1100776949 true; override-property-read as_9616972111 true; override-property-read as_2-1960246125 true; override-property-read as_51215211052 true; override-property-read as_8-1963219355 true; override-property-read as_1-245470295 true; override-property-read as_41472278765 true; override-property-read as_7-1104939471 true; override-property-read as_02070517706 true; override-property-read as_3-1107912701 true; override-property-read as_6609836359 true; override-property-read as_9-1967381877 true; override-property-read as_2-249632817 true; override-property-read as_51468116243 true; override-property-read as_8-252606047 true; override-property-read as_11465143013 true
 rollingstone.com#$#override-property-read as_retry 0
@@ -38780,6 +38817,7 @@ vardembed.xyz,videovard.sx###MyDickIsFat
 vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
 vardembed.xyz,videovard.sx#$#json-prune ads_mode
 variety.com#$#json-override isActive false autoRecovery
+variety.com#$#json-override isActive false eventSampleRatio
 variety.com#$#override-property-read confirm noopFunc
 variety.com#$#override-property-read dmFyaWV0eS5jb21fb25sb2Fk undefined
 variety.com#$#prevent-element-src-loading script /loader\\.min\\.js/
@@ -39345,6 +39383,7 @@ weebly.com##a[href^="https://www.ebay.com"]
 weekly-jitsuwa.jp##.widget_bbearad-sp
 weekly-jitsuwa.jp##div[style^="height:100px; background-color: #000"]
 weeronline.nl#$#event-override message rewrite /_as_res/ data /_as_req$/ _as_res
+weeronline.nl#$#json-override isActive false eventSampleRatio
 weeronline.nl#$#json-override isActive false hasActiveAutoRecovery
 weerplaza.nl#$#replace-argument Element.prototype.setAttribute 1 '/[\\s\\S]*(error-report|new Promise|;await new|:\\[?window|&&window,|void 0\\]|location\\.href|void 0\\|\\|window|,window,|void 0,window|,window\\]|\\)\\.join\\(String\\.fromCharCode|adShieldError)[\\s\\S]*/' ''
 wei2008.com##[id^="topbanner"],#sadall1,#downintro2,.ad3
@@ -39944,7 +39983,7 @@ www.facebook.com,web.facebook.com#$#hide-if-contains '/^[^A-Za-z0-9]*(?:Sponsore
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^(?:[Aa][Dd]|Sponsored|esondSpored|.*Spored.*|(?=.*[sS])(?=.*[pP])(?=.*[oO])(?=.*[rR])(?=.*[dD])[a-zA-Z]+)$/ 'div[aria-posinset]' 'div[aria-posinset] a[href^="?"] span:not([style*="top"])'
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^[^A-Za-z0-9]*(?:(?:[AaDd][^A-Za-z0-9]*){2,3}|(?:[SsPpOoNnRrIiEeDdÉé][^A-Za-z0-9]*){9,11}|(?:[CcOoMmAaNnDdIiTtÉéEe][^A-Za-z0-9]*){9,11}|(?:[PpAaTtRrOoCcIiNnDdEe][^A-Za-z0-9]*){10,12}|(?:[BbEeRrSsPpOoNn][^A-Za-z0-9]*){9,11}|(?:[SsPpOoNnRrIiZzAaTtEe][^A-Za-z0-9]*){12,14}|(?:[SsPpOoNnRrOoWwAaEe][^A-Za-z0-9]*){11,13}|(?:[ĐđƯưỢợCcTtÀàIiRr][^A-Za-z0-9]*){9,11})$/i 'div[aria-posinset]' 'div[aria-posinset] a[href^="?"], div[aria-posinset] a[href="#"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@aria-labelledby and @aria-describedby]//span//div[@class][@role][contains(., "Anzeige") or contains(., "Sponsored") or contains(., "Sponsorlu") or contains(., "Gesponsert") or contains(., "Patrocinado") or contains(., "Sponsorisé") or contains(., "Commandité") or contains(., "Gesponsord") or contains(., "Sponsorowane") or contains(., "Publicidad") or contains(., "Sponsrad") or contains(., "Sponsoreret") or contains(., "Sponsoroitu") or contains(., "Sponsa") or contains(., "Sponset") or contains(., "Sponsorizat") or contains(., "Bersponsor") or contains(., "Ditaja") or contains(., "Sponsorizzato") or contains(., "May Sponsor") or contains(., "Реклама") or contains(., "贊助") or contains(., "赞助内容") or contains(., "ได้รับการสนับสนุน") or contains(., "Được tài trợ") or contains(., "प्रायोजित") or contains(., "دارای پشتیبانی مالی") or contains(., "تمويل شوي") or contains(., "সৌজন্যে") or contains(., "مُموَّل") or contains(., "سپانسرڈ") or contains(., "ממומן") or contains(., "Hirdetés") or contains(., "ಪ್ರಾಯೋಜಿತ")]/ancestor::div[@aria-labelledby and @aria-describedby]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="complementary"]//following::a[contains(@rel,"nofollow")]//img[@*[starts-with(name(),"data-") and contains(.,"flintMarrow")]]/ancestor-or-self::div[contains(@class,"x1n2onr6")][2]/parent::div[1]/..'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="complementary"]//following::a[contains(@rel,"nofollow")]//img[@*[starts-with(name(),"data-") and contains(.,"emberLattice")]]/ancestor-or-self::div[contains(@class,"x1n2onr6")][2]/parent::div[1]/..'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@role="article"]//a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Sponsrad" or .="Publicidad" or .="Sponsoreret" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Anzeige" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ" or .="ಪ್ರಾಯೋಜಿತ" or .="स्पॉन्सर्ड" or .="広告" or .="赞助内容" or .="Рэклама" or .="Sponzorované" or .="La maalgeliyey" or .="Geborg" or .="Reklam" or .="Plaćeni oglas" or .="광고" or .="Χορηγούμενη" or .="স্পনসর্ড" or .="സ്പോൺസർ ചെയ്തത്" or .="ਸਰਪ੍ਰਸਤੀ ਪ੍ਰਾਪਤ" or .="මුදල් ගෙවා ප්‍රචාරය කරන ලදි" or .="விளம்பரம்" or .="ప్రాయోజితం చేయబడింది" or .="Спонсорирано" or .="Спонзорисано" or .="ܒܘܕܩܐ ܡܡܘܘܢܐ" or .="Reklamo" or .="Hirdetés" or .="Sponsitud" or .="Sponzorováno"]]/ancestor::div[@role="article"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/object[@type="nested/pressable"]/a[@role="link"]/span[contains("|Sponsoreret|Sponsrad|Patrocinado|Sponsa|Bersponsor|Commandité|Ditaja|Gesponsert|Gesponsord|Publicidad|Sponset|Sponsored|Sponsorisé|Sponsorizat|Sponsorizzato|Sponsorlu|Sponsorowane|Реклама|ממומן|تمويل شوي|دارای پشتیبانی مالی|سپانسرڈ|مُموَّل|प्रायोजित|সৌজন্যে|ได้รับการสนับสนุน|内容|贊助|Sponsoroitu|May Sponsor|Được tài trợ|", concat("|", text(), "|"))]/ancestor::span[2]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//div[contains(., "Ad") or contains(., "Patrocinado") or contains(., "Patrocinat") or contains(., "Bersponsor") or contains(., "Commandité") or contains(., "Ditaja") or contains(., "Gesponsert") or contains(., "Gesponsord") or contains(., "Sponsras") or contains(., "Publicidad") or contains(., "Sponsoreret") or contains(., "Sponsoreeritud") or contains(., "Sponset") or contains(., "Sponsored") or contains(., "Sponsorisé") or contains(., "Sponsorizat") or contains(., "Sponsorizzato") or contains(., "Anzeige") or contains(., "Sponsorlu") or contains(., "Sponsorowane") or contains(., "Реклама") or contains(., "ממומן") or contains(., "مُموَّلة") or contains(., "دارای پشتیبانی مالی") or contains(., "سپانسرڈ") or contains(., "مُموَّل") or contains(., "प्रায়োজিত") or contains(., "সৌজন্যে") or contains(., "ได้รับการสนับสนุน") or contains(., "内容") or contains(., "贊助") or contains(., "Sponsoroitu") or contains(., "May Sponsor") or contains(., "Được tài trợ") or contains(., "ಪ್ರಾಯೋಜಿತ") or contains(., "स्पॉन्सर्ड") or contains(., "広告") or contains(., "赞助内容") or contains(., "Рэклама") or contains(., "Sponzorirano") or contains(., "La maalgeliyey") or contains(., "Geborg") or contains(., "Reklam") or contains(., "Plaćeni oglas") or contains(., "광고") or contains(., "Χορηγούμενη") or contains(., "স্পনসর্ড") or contains(., "প্রায়োজিত") or contains(., "സ്പോൺസർ ചെയ്തത്") or contains(., "സ്പോൺസർചെയ്തത്") or contains(., "ਸਰਪ੍ਰਸਤੀ ਪ੍ਰาਪਤ") or contains(., "ਸਰਪ੍ਰਸਤੀਪ੍ਰਾਪਤ") or contains(., "මුදල් ගෙවා ප්රචාරය කරන ลදි") or contains(., "විළ]") or contains(., "Спонсорирано") or contains(., "Спонзорисано") or contains(., "ܒܘܕܩܐ ܡܡܘܘܢܐ") or contains(., "Reklamo") or contains(., "Hirdetés") or contains(., "Sponsitud") or contains(., "Sponzorováno") or contains(., "Apmaksāta reklāma") or contains(., "Urraithe") or contains(., "Kostað")][not(ancestor::div[@role="listitem"])]/ancestor::a[@href][@role="link"][@tabindex][1]/ancestor::div[2]/../parent::div/span' '//div[@role="main"]'
@@ -42057,7 +42096,6 @@ zzzyk.com###Tinfo
 ||*/cdn.js^$script,rewrite=abp-resource:blank-js,domain=fandom.com
 ||*/core.js^$script,domain=coolmathgames.com
 ||*/core.js^$script,domain=fandom.com
-||*/core.js^$script,domain=gamebanana.com
 ||*/core.js|$script,domain=9gag.com
 ||*/core.js|$script,rewrite=abp-resource:blank-js,domain=hna.de
 ||*/core.js|$script,rewrite=abp-resource:blank-js,domain=meteovista.be
@@ -93526,6 +93564,7 @@ zzzyk.com###Tinfo
 ||bptibdkuxvrxg.space^
 ||bptnzp.top^
 ||bpts.8111216.cn^
+||bpucmkg.com^
 ||bpuf.cn^
 ||bpuvuun0xg.com^
 ||bpvoctpvauvyv.website^
@@ -137722,6 +137761,7 @@ zzzyk.com###Tinfo
 ||ehavol.consul.com.br^
 ||ehawk.com^
 ||ehbm7vph.xyz^
+||ehcecws.com^
 ||ehcfthuti24oii.cfd^
 ||ehclkqpxnvfqd.website^
 ||ehcouzeo.subarutroisrivieres.com^
@@ -141728,7 +141768,6 @@ zzzyk.com###Tinfo
 ||error-report.com^$domain=flatpanelshd.com
 ||error-report.com^$domain=fragrantica.com
 ||error-report.com^$domain=freeconvert.com
-||error-report.com^$domain=gamebanana.com
 ||error-report.com^$domain=gamewith.jp
 ||error-report.com^$domain=geoguessr.com
 ||error-report.com^$domain=goldderby.com

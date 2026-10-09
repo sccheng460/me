@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-10-09 06:36:50（北京时间） 
-! Total count: 3091
+! Version: 2026-10-09 11:30:13（北京时间） 
+! Total count: 3089
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -2003,7 +2003,6 @@
 @@||niotv.com^$generichide
 @@||noahedu.com/ad/$~3p
 @@||noahedu.com/advertising/
-@@||nobugin.com^$generichide
 @@||nodkey.xyz^$genericblock,generichide
 @@||nodkey.xyz^$generichide
 @@||nosteam.ro/notcaptcha/adheader.js$domain=nosteamgames.ro
@@ -2453,7 +2452,6 @@
 @@||record.xl.pt/pub/mrec_dynamic.aspx?pubvar=FOTOS
 @@||redditstatic.com/shreddit$domain=reddit.com
 @@||redguide.top^*/ad.css?$stylesheet
-@@||redian.news^$generichide
 @@||redir.ownpage.fr^|
 @@||redir.tradedoubler.com^|
 @@||redirect.appmetrica.yandex.com^|

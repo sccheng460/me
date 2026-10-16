@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-10-16 18:17:16（北京时间） 
-! Total count: 3084
+! Version: 2026-10-16 23:42:39（北京时间） 
+! Total count: 3078
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -27,7 +27,7 @@
 @@.jpg#$domain=huhupan.com
 @@.m3u8$domain=gimy.com.tv|gimy.com.tw|gimy.tv
 @@.php?id=$script,domain=surirt.com
-@@.png#$domain=3dpchip.com|club.tgfcer.com|coolinet.com|digit77.com|e9china.net|upxin.net
+@@.png#$domain=3dpchip.com|club.tgfcer.com|digit77.com|e9china.net|upxin.net
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@.ts$domain=gimy.com.tv|gimy.com.tw|gimy.tv
 @@.xyz/theporn/js/
@@ -352,7 +352,6 @@
 @@||126.net/images/blank.gif
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||150075.com^$domain=tecms.net
-@@||159i.com/a_d/$media
 @@||163.com/user/event?id=
 @@||16668tu.com/css/ad.css
 @@||17173im.allyes.com^
@@ -368,6 +367,7 @@
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||2345.com/images/activity/20171111/open/j/close.png
+@@||287mm.com/6-js/imgurl.
 @@||2ipcore.com^$domain=2ip.ru
 @@||2unlimited.info/js/adsense.js
 @@||3.bp.blogspot.com/*.jpg#/adaffiliate_/adops/ad/adsales/ad/adsby./adtest./$domain=f1fanklub.pl
@@ -444,7 +444,6 @@
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
 @@||990.ro/functions/adgen2/adbanner.js$script,~third-party
-@@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||a.adwolf.ru^|
 @@||a.alimama.cn/tkapi$domain=ieeee.com
@@ -992,7 +991,6 @@
 @@||cloud.notification-naviextras.com^|
 @@||cloudcontrol.live.360.cn^
 @@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
-@@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
@@ -1038,7 +1036,6 @@
 @@||content.viralize.tv^|
 @@||contentlockingnetworks.com/gLoader.php?GID=$script,third-party
 @@||contentlockingnetworks.com/gTemplate.php?GID=$subdocument,third-party
-@@||coolinet.com^$generichide
 @@||coolkora.com^$elemhide
 @@||cos.ap-*.myqcloud.com^$domain=tencent.com|wenxiaobai.com
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
@@ -1446,7 +1443,6 @@
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video.min.js$domain=setn.com
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||googleadservices.com^$domain=cenapaliw.pl
-@@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|warnermusic.com.tw
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
 @@||googletagservices.com^$domain=cenapaliw.pl
@@ -2538,7 +2534,6 @@
 @@||service.4gtv.tv/4gtv/Data/GetAD.ashx
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||serving-sys.com^$third-party,domain=myspass.de
-@@||seselah.com^$generichide
 @@||settings-win.data.microsoft.com^
 @@||sexcamdb.com/advert.js
 @@||sexgalaxy.net/wp-content/plugins^
@@ -2772,7 +2767,6 @@
 @@||themoviedb.org/assets/
 @@||theseblogs.com/intermission/loadTargetUrl$xmlhttprequest
 @@||theseforums.com/intermission/loadTargetUrl$xmlhttprequest
-@@||thisav.com^$generichide
 @@||threatbook.cn/public/asset/js/zhugeIo.
 @@||thumbnail.thench.net^|
 @@||tianshu.gtimg.cn^

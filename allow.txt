@@ -3,8 +3,8 @@
 ! Homepage: https://github.com/sccheng460/me/
 ! Expires: 12 Hours
 ！白名单规则来源 https://github.com/8680/GOODBYEADS
-! Version: 2026-11-04 06:39:29（北京时间） 
-! Total count: 3072
+! Version: 2026-11-04 11:45:15（北京时间） 
+! Total count: 3073
 @@&http_referer=$domain=chaopx.com
 @@-ds.metric.gstatic.com^|
 @@-social-bar.$domain=mobi.yahoo.com
@@ -2026,6 +2026,7 @@
 @@||ocloud-sync-cn.heytapmobi.com^
 @@||ocloud-uni-cn.heytapmobi.com^
 @@||official.paymaya.com^|
+@@||offshoregeology.com^$script,domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|eater.com|gamebanana.com|gameslantern.com|hayertv.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|the-independent.com|wowhead.com|boredpanda.com|nj.com|theweathernetwork.com|wusa9.com|11alive.com|9news.com|kgw.com|denofgeek.com|ebaumsworld.com|weather.com|10tv.com|12news.com|13newsnow.com|13wmaz.com|arcwestmichigan.com|cbs19.tv|dailypassport.com|guideauto.com|historyfacts.com|kagstv.com|kare11.com|kcentv.com|khou.com|kiiitv.com|kvue.com|localmemphis.com|mediaite.com|myfoxzone.com|nbcsports.com|nightlife.ca|quizdaily.com|rocketcitynow.com|telemundoaustin.com|thv11.com|tonbarbier.com|wbir.com|wcnc.com|weareiowa.com|wfaa.com|wfmynews2.com|wgrz.com|wkyc.com|wltx.com|wnep.com|worddaily.com|wordgenius.com|wqad.com|wwltv.com
 @@||oglaszamy24.pl/js-css/reklamy/bannery/google_ads/ad/banner/adv.js$script
 @@||ohmanhua.com/js/*.js
 @@||oiihk.com^$generichide
